@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Виноградова, Кира Леонидовна — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"1e836627-d052-4056-a2ed-fe2290d504a8","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Виноградова,_Кира_Леонидовна","wgTitle":"Виноградова, Кира Леонидовна","wgCurRevisionId":112944909,"wgRevisionId":112944909,"wgArticleId":6024549,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Биографии современников","Википедия:Статьи об учёных без портретов",
+"Родившиеся 1 августа","Родившиеся в 1937 году","Персоналии по алфавиту","Родившиеся в Санкт-Петербурге","Доктора биологических наук","Учёные по алфавиту","Авторы ботанических таксонов","Ботаники СССР","Ботаники России","Ботаники XX века","Ботаники XXI века","Выпускники биологического факультета Санкт-Петербургского государственного университета","Сотрудники Ботанического института им. В. Л. Комарова РАН","Члены Русского ботанического общества","Альгологи СССР"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Виноградова,_Кира_Леонидовна","wgRelevantArticleId":
+6024549,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":112944909,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q21611777","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips",
+"ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Виноградова, Кира Леонидовна — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Виноградова_Кира_Леонидовна rootpage-Виноградова_Кира_Леонидовна skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Виноградова, Кира Леонидовна</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0" class="mw-disambig" title="Виноградова">Виноградова</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r117420410/mw-parser-output/.infobox[data-name=Учёный]">body.skin-modern .mw-parser-output .infobox[data-name=Учёный] .infobox-above,body.skin-modern .mw-parser-output .infobox[data-name=Учёный] .infobox-header,body.skin-modern .mw-parser-output .infobox[data-name=Учёный] .infobox-below,body.skin-monobook .mw-parser-output .infobox[data-name=Учёный] .infobox-above,body.skin-monobook .mw-parser-output .infobox[data-name=Учёный] .infobox-header,body.skin-monobook .mw-parser-output .infobox[data-name=Учёный] .infobox-below,body.skin-timeless .mw-parser-output .infobox[data-name=Учёный] .infobox-above,body.skin-timeless .mw-parser-output .infobox[data-name=Учёный] .infobox-header,body.skin-timeless .mw-parser-output .infobox[data-name=Учёный] .infobox-below,body.skin-vector .mw-parser-output .infobox[data-name=Учёный] .infobox-above,body.skin-vector .mw-parser-output .infobox[data-name=Учёный] .infobox-header,body.skin-vector .mw-parser-output .infobox[data-name=Учёный] .infobox-below{background:#eaecf0}</style>
+<table class="infobox infobox-b8aa39e4bfeec614" style="" data-name="Учёный"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Кира Леонидовна Виноградова</th></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата рождения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><a href="/wiki/1_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="1 августа">1 августа</a> <a href="/wiki/1937_%D0%B3%D0%BE%D0%B4" title="1937 год">1937</a></span><span style="display:none">(<span class="bday">1937-08-01</span>)</span> <span class="nowrap">(84 года)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" class="mw-redirect" title="Ленинград">Ленинград</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Страна</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap"><span class="nowrap" data-sort-value="СССР"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик"><span class="wrap">СССР</span></a></span></span><br /><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Научная сфера</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P101" class="no-wikidata"><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B3%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Альгология">альгология</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;"><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B0-%D0%BC%D0%B0%D1%82%D0%B5%D1%80" title="Альма-матер">Альма-матер</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P69" class="no-wikidata"><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" class="mw-redirect" title="Ленинградский государственный университет">Ленинградский государственный университет</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёная степень</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P512" class="no-wikidata"><a href="/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BD%D0%B0%D1%83%D0%BA" class="mw-redirect" title="Доктор биологических наук">доктор биологических наук</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёное звание</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P803" class="no-wikidata"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80_(%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)" title="Профессор (звание)">профессор</a></span></td>
+</tr>
+</tbody></table>
+<table class="infobox infobox-25ed75e41991b82b" style=""><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:transparent;"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">Систематик живой природы</a></th></tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;">
+<div style="background:#dec; text-align:center">Автор наименований ряда <a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0" title="Ботаника">ботанических</a> <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="Таксон">таксонов</a>. В <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D1%8B" title="Международный кодекс ботанической номенклатуры">ботанической</a> (<a href="/wiki/%D0%91%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0" class="mw-redirect" title="Биноминальная номенклатура"><i>бинарной</i></a>) номенклатуре эти названия дополняются <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%BE%D0%B2" title="Список ботаников-систематиков">сокращением</a> <b>«<a href="https://species.wikimedia.org/wiki/K.L.Vinogr." class="extiw" title="wikispecies:K.L.Vinogr.">K.L.Vinogr.</a>»</b>.<br /><a rel="nofollow" class="external text" href="https://www.ipni.org/a/31673-1"><b>Персональная страница</b></a> на сайте <i><a href="/wiki/International_Plant_Names_Index" title="International Plant Names Index">IPNI</a></i> <br /><p style="font-size:85%; color:#696969"></p></div><table role="presentation" width="100%" cellspacing="0" cellpadding="4"><tbody><tr style="text-align:center" class="plainlinks">
+<td><a href="https://species.wikimedia.org/wiki/Kira_Leonidovna_Vinogradova?uselang=ru" title="Kira Leonidovna Vinogradova на Викивидах"><img alt="Kira Leonidovna Vinogradova на Викивидах" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/17px-Wikispecies-logo.svg.png" decoding="async" width="17" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/26px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> <a class="external text" href="https://species.wikimedia.org/wiki/Kira_Leonidovna_Vinogradova?uselang=ru">Викивиды</a></td>
+</tr></tbody></table></td>
+</tr>
+</tbody></table>
+<p><b>Ки́ра Леони́довна Виногра́дова</b> (1 августа 1937, Ленинград, СССР)&#160;— советский и российский учёный, ботаник, доктор биологических наук, профессор, специалист в области <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B3%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Альгология">альгологии</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Научные_интересы"><span class="tocnumber">2</span> <span class="toctext">Научные интересы</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Научные_труды"><span class="tocnumber">3</span> <span class="toctext">Научные труды</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Литература"><span class="tocnumber">4</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span><span class="mw-headline" id="Биография">Биография</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Биография»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;section=1" title="Редактировать раздел «Биография»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Родилась в семье музыканта.
+</p><p>Окончила школу с <a href="/wiki/%D0%A8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C" title="Школьная медаль">золотой медалью</a>, в 1954 году поступила на <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Биологический факультет Санкт-Петербургского государственного университета">биолого-почвенный факультет Ленинградского государственного университета</a>, выбрав для специализации кафедру <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Гидробиология">гидробиологии</a>. Начало научной деятельности проходило под руководством профессора <a href="/wiki/%D0%93%D1%83%D1%80%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%95%D0%B2%D0%BF%D1%80%D0%B0%D0%BA%D1%81%D0%B8%D1%8F_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0" title="Гурьянова, Евпраксия Фёдоровна">Евпраксии Гурьяновой</a>, а на четвёртом курсе Виноградова оказалась в <a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%92._%D0%9B._%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_%D0%A0%D0%90%D0%9D" title="Ботанический институт имени В. Л. Комарова РАН">Ботаническом институте</a> (БИН), где <a href="/w/index.php?title=%D0%97%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Зинова, Анна Дмитриевна (страница отсутствует)">Анна Зинова</a> учила студентку вести научную работу, была руководителем её дипломной работы. В 1959 году Виноградова с отличием окончила университет и стала сотрудником лаборатории <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B3%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Альгология">альгологии</a> БИН.
+</p><p>В то время рядом с ней работали такие учёные, как <a href="/w/index.php?title=%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Полянский, Владимир Иванович (страница отсутствует)">Владимир Полянский</a>, <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D0%B1%D0%B0%D1%85,_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Голлербах, Максимилиан Максимилианович">Максимилиан Голлербах</a>, <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%88%D0%BA%D0%B8%D0%BD%D0%B0-%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0" title="Прошкина-Лавренко, Анастасия Ивановна">Анастасия Прошкина-Лавренко</a>, <a href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F,_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Косинская, Екатерина Константиновна (страница отсутствует)">Екатерина Косинская</a>. Рядом с ними Виноградова стала квалифицированным <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_(%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8)" title="Флористика (раздел ботаники)">флористом</a> и <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">систематиком</a>, пройдя путь от <a href="/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D0%BD%D1%82" class="mw-redirect" title="Лаборант">лаборанта</a> до главного <a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA" title="Научный сотрудник">научного сотрудника</a>, в 1987 году она стала заведующей лабораторий альгологии.
+</p><p>Неоднократно принимала участие в научных экспедициях в различные регионы Мирового океана: в <a href="/wiki/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Балтийское море">Балтийское</a>, <a href="/wiki/%D0%91%D0%B0%D1%80%D0%B5%D0%BD%D1%86%D0%B5%D0%B2%D0%BE_%D0%BC%D0%BE%D1%80%D0%B5" title="Баренцево море">Баренцево</a> (1958, 1960—1961, 1963 и 1967), <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Белое море">Белое</a> (1967), <a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Чёрное море">Чёрное</a> (1963, 1964), <a href="/wiki/%D0%91%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE_%D0%BC%D0%BE%D1%80%D0%B5" title="Берингово море">Берингово</a> (1968, 1970) и <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Японское море">Японское</a> (1957, 1966) моря, собирала материалы на островах <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Индийский океан">Индийского океана</a> и <a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%BE-%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Южно-Китайское море">Южно-Китайского моря</a> (1983—1984), на <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%B0" title="Куба">Кубе</a> (1974), в <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0" title="Польша">Польше</a> (1987, 1993).
+</p><p>В 1969 году К.&#160;Л.&#160;Виноградова защитила кандидатскую <a href="/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F" title="Диссертация">диссертацию</a> «Ульвовые водоросли (порядок <a href="/w/index.php?title=Ulvales&amp;action=edit&amp;redlink=1" class="new" title="Ulvales (страница отсутствует)">Ulvales</a>, <a href="/wiki/Chlorophyta" class="mw-redirect" title="Chlorophyta">Chlorophyta</a>) морей СССР (монографический обзор)». В 1983 году&#160;— докторскую диссертацию «Зелёные водоросли (Chlorophyta) Мирового океана: состав, классификация, распространение».
+</p><p>С конца 1989 по 1996 год, продолжая возглавлять лабораторию, Виноградова трудилась также в должности заместителя директора БИН РАН по научной работе. В 1992 году Виноградовой было присвоено звание <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80" title="Профессор">профессора</a>. Под её руководством были защищены докторские и кандидатские диссертации.
+</p><p>Кира Леонидовна Виноградова&#160;— член <a href="/w/index.php?title=%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D1%84%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Международное фикологическое общество (страница отсутствует)">Международного фикологического общества</a>, фикологического общества США, <a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Национальное географическое общество">Национального географического общества</a> (<a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>), работает в составе Номенклатурного комитета по водорослям <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%B8_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Международная ассоциация по таксономии растений">Международной ассоциации по таксономии растений</a>. Она является также заместителем главного редактора «<a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB" title="Ботанический журнал">Ботанического журнала</a>», членом редколлегии журнала «Альгология». Входит в состав президиума <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Русское ботаническое общество">Русского ботанического общества</a> (РБО) и возглавляет альгологическую секцию РБО. На XIII съезде Русского ботанического общества Виноградова была избрана почётным членом общества.
+</p>
+<h2><span id=".D0.9D.D0.B0.D1.83.D1.87.D0.BD.D1.8B.D0.B5_.D0.B8.D0.BD.D1.82.D0.B5.D1.80.D0.B5.D1.81.D1.8B"></span><span class="mw-headline" id="Научные_интересы">Научные интересы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Научные интересы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;section=2" title="Редактировать раздел «Научные интересы»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Морские <a href="/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Зелёные водоросли">зелёные водоросли</a> являются основным объектом изучения Виноградовой. Она исследовала их <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">виды</a>, их <a href="/wiki/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C" title="Изменчивость">изменчивость</a>, индивидуальное развитие, <a href="/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Жизненный цикл (биология)">жизненные циклы</a>, <a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Экология">экологию</a> и распространение видов <a href="/wiki/Chlorophyta" class="mw-redirect" title="Chlorophyta">Chlorophyta</a> в Мировом океане. Её исследования пересмотрели систему Chlorophyta, изменив представления о происхождении и эволюции этой группы видов. Виноградовой удалось доказать, что флора зелёных водорослей в мировом океане <a href="/wiki/%D0%93%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Гетерогенность">гетерогенна</a>, в её состав входит две большие группы, различающиеся и по месту, и по времени происхождения. Это древняя группа истинно морских водорослей <a href="/wiki/%D0%A1%D0%B8%D1%84%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5" class="mw-redirect" title="Сифоновые">сифонового комплекса</a> и группа более позднего происхождения, появившаяся после выселения в морскую среду пресноводных водорослей <a href="/wiki/Ulotrichales" class="mw-redirect" title="Ulotrichales">улотриксового комплекса</a>.
+</p><p>Установление факта подобной разобщённости морских зелёных водорослей, как <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Генетика">генетической</a>, так и пространственно-временной, объяснило многие особенности представителей группы Chlorophyta, а также стало заметным вкладом в решение проблемы взаимосвязей обитателей континентальных водоемов и океана, в вопрос выселения морских организмов в пресные воды и пресноводных организмов в океан. Виноградова показала также эволюционные результаты таких двусторонних проникновений.
+</p><p>Её работы по географическому анализу морских Chlorophyta и выделению <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Флористическое районирование">флористических областей</a> Мирового океана стали заметным научным достижением в области изучения общих закономерностей пространственной дифференциации флор и фаун.
+</p><p>В своих исследования К.&#160;Л.&#160;Виноградова показала, что существует «вероятность независимого возникновения разнообразия однозначных структур и <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="Таксон">таксонов</a>, то есть когда вначале возникает множество, члены которого в ходе эволюции, оказываясь адаптированными более или менее, получают неодинаковое развитие». На примере древней группы <a href="/w/index.php?title=Dasycladales&amp;action=edit&amp;redlink=1" class="new" title="Dasycladales (страница отсутствует)">Dasycladales</a> она доказала, что «сохранившиеся до настоящего времени сходные формы могут явиться дериватами разных эволюционных линий». Ей была создана авторская концепция происхождения <a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" title="Многоклеточный организм">многоклеточности</a>, подтверждающая идею, что сходные признаки и структуры возникали не один раз и независимо друг от друга. Так, в древней группе сифоновых водорослей (<a href="/w/index.php?title=Siphonocladales&amp;action=edit&amp;redlink=1" class="new" title="Siphonocladales (страница отсутствует)">Siphonocladales</a>) многоклеточные структуры образуются из неклеточной при делении без участия ядер многоядерного <a href="/wiki/%D0%A2%D0%B0%D0%BB%D0%BB%D0%BE%D0%BC" title="Таллом">слоевища</a> на неравные участки. Другим путём образования многоклеточности является эволюция коккоидной клетки, осевшей на грунт и приобретшей полярность и способность к <a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%BA%D0%B8%D0%BD%D0%B5%D0%B7" title="Цитокинез">цитокинезу</a>, в таком случае однорядная нить является первичной многоклеточной структурой. Ещё одной возможностью появления многоклеточности является образование бесформенных скоплений клеток, наблюдаемое, например, у <a href="/w/index.php?title=Chlorosarcinales&amp;action=edit&amp;redlink=1" class="new" title="Chlorosarcinales (страница отсутствует)">Chlorosarcinales</a>.
+</p><p>Важной темой исследований Виноградовой является изучение проблемы эволюции <a href="/w/index.php?title=%D0%96%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%86%D0%B8%D0%BA%D0%BB%D1%8B_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B5%D0%B9&amp;action=edit&amp;redlink=1" class="new" title="Жизненные циклы водорослей (страница отсутствует)">циклов развития зелёных водорослей</a>. Если ранее в научной среде преобладало мнение о первичности изоморфного цикла у <a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Водоросли">водорослей</a>, то Виноградовой удалось показать, что в разных таксономических групп первичным в эволюционном ряду может быть и <a href="/w/index.php?title=%D0%93%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB&amp;action=edit&amp;redlink=1" class="new" title="Гетероморфный цикл (страница отсутствует)">гетероморфный цикл</a>, причём <a href="/w/index.php?title=%D0%98%D0%B7%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D0%BA%D0%BB&amp;action=edit&amp;redlink=1" class="new" title="Изоморфный цикл (страница отсутствует)">изоморфный цикл</a> может возникать из гетероморфного.
+</p><p>Виноградова занималась изучением и <a href="/wiki/%D0%91%D1%83%D1%80%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Бурые водоросли">бурых</a>, и других водорослей. Она пересмотрела статус и объём <a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">отряда</a> <a href="/w/index.php?title=Ulvales&amp;action=edit&amp;redlink=1" class="new" title="Ulvales (страница отсутствует)">Ulvales</a>, обосновала выделение в пределах отдела <a href="/wiki/Chlorophyta" class="mw-redirect" title="Chlorophyta">Chlorophyta</a> двух <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Класс (биология)">классов</a>: <a href="/w/index.php?title=Siphonophyceae&amp;action=edit&amp;redlink=1" class="new" title="Siphonophyceae (страница отсутствует)">Siphonophyceae</a> и <a href="/wiki/Chlorophyceae" class="mw-redirect" title="Chlorophyceae">Chlorophyceae</a>, и определила их состав, описала новое семейство, виды и <a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%B0%D0%BD%D0%B3%D0%B8" title="Инфравидовые ранги">внутривидовые таксоны</a>. Многочисленные роды были подвергнуты ревизии.
+</p><p>Виноградова изучила видовой состав водорослей в наименее изученном регионе&#160;— северных морях России. Ею были исследованы видовой состав водорослей острова <a href="/wiki/%D0%A8%D0%BF%D0%B8%D1%86%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD" title="Шпицберген">Шпицберген</a>, архипелага <a href="/w/index.php?title=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B0_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Земля Франца Иосифа (страница отсутствует)">Земля Франца Иосифа</a>, Мурманского побережья <a href="/wiki/%D0%91%D0%B0%D1%80%D0%B5%D0%BD%D1%86%D0%B5%D0%B2%D0%BE_%D0%BC%D0%BE%D1%80%D0%B5" title="Баренцево море">Баренцева моря</a>, <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Белое море">Белого моря</a>, Новосибирского мелководья (<a href="/wiki/%D0%9C%D0%BE%D1%80%D0%B5_%D0%9B%D0%B0%D0%BF%D1%82%D0%B5%D0%B2%D1%8B%D1%85" title="Море Лаптевых">море Лаптевых</a>), <a href="/wiki/%D0%A7%D0%B0%D1%83%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B0" title="Чаунская губа">Чаунской губы</a> (<a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Восточно-Сибирское море">Восточно-Сибирское море</a>). Она исследовала и дальневосточный регион: <a href="/wiki/%D0%91%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE_%D0%BC%D0%BE%D1%80%D0%B5" title="Берингово море">Берингово море</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BA%D0%B0" title="Камчатка">Камчатку</a>, <a href="/wiki/%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD" title="Сахалин">Сахалин</a>, <a href="/wiki/%D0%97%D0%B0%D0%BB%D0%B8%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE" title="Залив Петра Великого">Залив Петра Великого</a>. В ходе исследований были уточнены и расширены <a href="/wiki/%D0%90%D1%80%D0%B5%D0%B0%D0%BB" title="Ареал">ареалы</a>, обнаружены несколько новых видов. Из таксономического и биогеографического анализа флоры и анализа родственных связей видов Виноградова сделала вывод, что центр распространения многих бореально-арктических видов, как циркумполярных, так и амфибореальных, составляющих основной географический элемент ледовитоморской флоры, связан именно с <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%9B%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D1%8B%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Северный Ледовитый океан">Северным Ледовитым океаном</a>, откуда они мигрировали к югу, а не наоборот<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9D.D0.B0.D1.83.D1.87.D0.BD.D1.8B.D0.B5_.D1.82.D1.80.D1.83.D0.B4.D1.8B"></span><span class="mw-headline" id="Научные_труды">Научные труды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Научные труды»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;section=3" title="Редактировать раздел «Научные труды»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Результатом исследований Виноградовой стали многочисленные публикации, среди которых <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Монография">монографии</a>: «Ульвовые водоросли морей СССР» (1974), «Определитель зелёных водорослей Дальневосточных морей СССР», «Определитель пресноводных водорослей СССР» (раздел по красным и бурым водорослям), «К истории формирования морской флоры Chlorophyta», «Атлас морской флоры южного Шпицбергена» (раздел по бентосным водорослям). Её перу принадлежат крупные разделы по красным и зелёным водорослям в многотомном издании «<a href="/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Жизнь растений">Жизнь растений</a>» (1977).
+</p>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;section=4" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Виноградова К.Л.</i>&#32;<a rel="nofollow" class="external text" href="http://algae.ru/295">Ульвовые водоросли (Chlorophyta) морей СССР</a>&#32;&#47;&#32;Отв. ред. проф. М. М. Голлербах.&#160;— <abbr title="Ленинград">Л.</abbr>: Наука, 1974.&#160;— 166&#160;с.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Виноградова К. Л.</i>&#32;<a rel="nofollow" class="external text" href="http://algae.ru/346#vinograd1979oglav">Определитель водорослей дальневосточных морей СССР. Зеленые водоросли</a>&#32;&#47;&#32;Отв. ред. доктор биологических наук А. Д. Александрова-Зинова.&#160;— <abbr title="Ленинград">Л.</abbr>: Наука, 1979.&#160;— 147&#160;с.</span></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;section=5" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i>Перестенко Л. П., Волошко Л. Н.</i>&#32;<a rel="nofollow" class="external text" href="http://nbuv.gov.ua/j-pdf/algol_2008_18_1_11.pdf">Кира Леонидовна Виноградова (К 70-летию со дня рождения)</a><span class="hidden-ref" style="display:none">&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span>&#160;// Альгология.&#160;— 2008.&#160;— <span class="nowrap">Т. 18</span>, <span class="nowrap">№ 1</span>.&#160;— <span class="nowrap">С. 105—108</span>.&#160;— <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" class="mw-redirect" title="Международный стандартный серийный номер">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0868-8540">0868-8540</a>.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;section=6" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<!-- 
+NewPP limit report
+Parsed by mw1312
+Cached time: 20220510172700
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.520 seconds
+Real time usage: 0.634 seconds
+Preprocessor visited node count: 2486/1000000
+Post‐expand include size: 30702/2097152 bytes
+Template argument size: 5925/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2243/5000000 bytes
+Lua time usage: 0.219/10.000 seconds
+Lua memory usage: 5665502/52428800 bytes
+Number of Wikibase entities loaded: 6/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  561.682      1 -total
+ 57.33%  322.016      1 Шаблон:Учёный
+ 57.03%  320.352      2 Шаблон:Карточка
+ 20.82%  116.940     11 Шаблон:Wikidata
+ 15.84%   88.985      1 Шаблон:Примечания
+ 14.38%   80.766      1 Шаблон:Статья
+ 11.17%   62.736      1 Шаблон:Систематик
+ 10.24%   57.491      3 Шаблон:Бсокр
+  8.62%   48.423      2 Шаблон:Книга
+  8.61%   48.385      1 Шаблон:Карточка/оригинал_имени
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:6024549-0!canonical and timestamp 20220510172659 and revision id 112944909. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Виноградова,_Кира_Леонидовна&amp;oldid=112944909">https://ru.wikipedia.org/w/index.php?title=Виноградова,_Кира_Леонидовна&amp;oldid=112944909</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_1_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="Категория:Родившиеся 1 августа">Родившиеся 1 августа</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1937_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1937 году">Родившиеся в 1937 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5" title="Категория:Родившиеся в Санкт-Петербурге">Родившиеся в Санкт-Петербурге</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BD%D0%B0%D1%83%D0%BA" title="Категория:Доктора биологических наук">Доктора биологических наук</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D1%87%D1%91%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Учёные по алфавиту">Учёные по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%B2" title="Категория:Авторы ботанических таксонов">Авторы ботанических таксонов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Ботаники СССР">Ботаники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Ботаники России">Ботаники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Ботаники XX века">Ботаники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Ботаники XXI века">Ботаники XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82%D0%B0_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Категория:Выпускники биологического факультета Санкт-Петербургского государственного университета">Выпускники биологического факультета Санкт-Петербургского государственного университета</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%B0_%D0%B8%D0%BC._%D0%92._%D0%9B._%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_%D0%A0%D0%90%D0%9D" title="Категория:Сотрудники Ботанического института им. В. Л. Комарова РАН">Сотрудники Ботанического института им. В. Л. Комарова РАН</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Члены Русского ботанического общества">Члены Русского ботанического общества</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D1%8C%D0%B3%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Альгологи СССР">Альгологи СССР</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE%D0%B1_%D1%83%D1%87%D1%91%D0%BD%D1%8B%D1%85_%D0%B1%D0%B5%D0%B7_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2" title="Категория:Википедия:Статьи об учёных без портретов">Википедия:Статьи об учёных без портретов</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%2C+%D0%9A%D0%B8%D1%80%D0%B0+%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%2C+%D0%9A%D0%B8%D1%80%D0%B0+%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;oldid=112944909" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%2C_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;id=112944909&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21611777" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%2C+%D0%9A%D0%B8%D1%80%D0%B0+%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%2C_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<label
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Kira_Leonidovna_Vinogradova" hreflang="en"><span>Викивиды</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Kira_Leonidovna_Vinogradova" title="Kira Leonidovna Vinogradova — валлийский" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21611777#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 марта 2021 в 20:57.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.520","walltime":"0.634","ppvisitednodes":{"value":2486,"limit":1000000},"postexpandincludesize":{"value":30702,"limit":2097152},"templateargumentsize":{"value":5925,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2243,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00%  561.682      1 -total"," 57.33%  322.016      1 Шаблон:Учёный"," 57.03%  320.352      2 Шаблон:Карточка"," 20.82%  116.940     11 Шаблон:Wikidata"," 15.84%   88.985      1 Шаблон:Примечания"," 14.38%   80.766      1 Шаблон:Статья"," 11.17%   62.736      1 Шаблон:Систематик"," 10.24%   57.491      3 Шаблон:Бсокр","  8.62%   48.423      2 Шаблон:Книга","  8.61%   48.385      1 Шаблон:Карточка/оригинал_имени"]},"scribunto":{"limitreport-timeusage":{"value":"0.219","limit":"10.000"},"limitreport-memusage":{"value":5665502,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P184 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P802 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P428 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P586 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P835 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P428 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P835 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1312","timestamp":"20220510172700","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0430, \u041a\u0438\u0440\u0430 \u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043d\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21611777","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21611777","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-10-07T10:56:36Z","dateModified":"2021-03-13T20:57:32Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0430, \u041a\u0438\u0440\u0430 \u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043d\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21611777","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21611777","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-10-07T10:56:36Z","dateModified":"2021-03-13T20:57:32Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142,"wgHostname":"mw1387"});});</script>
+</body>
+</html>

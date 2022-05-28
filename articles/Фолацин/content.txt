@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Фолиевая кислота (лекарственное средство) — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"6e47fc25-9485-4c34-94f8-88739f52e526","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Фолиевая_кислота_(лекарственное_средство)","wgTitle":"Фолиевая кислота (лекарственное средство)","wgCurRevisionId":111278154,"wgRevisionId":111278154,"wgArticleId":1101498,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)",
+"Страницы с неизвестными параметрами шаблона Лекарственное средство","Лекарственные средства по алфавиту","Стимуляторы гемопоэза","Витамины и витаминоподобные средства"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Фолиевая_кислота_(лекарственное_средство)","wgRelevantArticleId":1101498,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Фолацин","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":77436953,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":
+20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgInternalRedirectTargetUrl":"/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q4491386","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready",
+"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin",
+"ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folic_acid_structure.svg/1200px-Folic_acid_structure.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="431"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folic_acid_structure.svg/800px-Folic_acid_structure.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="288"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folic_acid_structure.svg/640px-Folic_acid_structure.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="230"/>
+<meta property="og:title" content="Фолиевая кислота (лекарственное средство) — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Фолиевая_кислота_лекарственное_средство rootpage-Фолиевая_кислота_лекарственное_средство skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Фолиевая кислота (лекарственное средство)</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(перенаправлено с «<a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B0%D1%86%D0%B8%D0%BD&amp;redirect=no" class="mw-redirect" title="Фолацин">Фолацин</a>»)</span><br />
+				<div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'>Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;stable=1">версии</a>, проверенной 29 марта 2016 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;oldid=77436953&amp;diff=cur&amp;diffonly=0">15 правок</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B0%D1%86%D0%B8%D0%BD&amp;stable=1">версии</a>, проверенной 29 марта 2016 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B0%D1%86%D0%B8%D0%BD&amp;oldid=77436953&amp;diff=cur&amp;diffonly=0">15 правок</a>.</div>
+</div>
+</div>
+</div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable dabhide">См. также: <a href="/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Фолиевая кислота">Фолиевая кислота</a></div>
+<table class="infobox infobox-b6f48e3bc1c429ed" style="" data-name="Лекарственное средство"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Фолиевая кислота</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata">Folic acid</span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P117" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Folic_acid_structure.svg" class="image"><img alt="Изображение химической структуры" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folic_acid_structure.svg/290px-Folic_acid_structure.svg.png" decoding="async" width="290" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folic_acid_structure.svg/435px-Folic_acid_structure.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folic_acid_structure.svg/580px-Folic_acid_structure.svg.png 2x" data-file-width="890" data-file-height="320" /></a></span> </td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P117" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Folic-acid-3D-vdW.png" class="image"><img alt="Изображение химической структуры" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Folic-acid-3D-vdW.png/290px-Folic-acid-3D-vdW.png" decoding="async" width="290" height="126" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Folic-acid-3D-vdW.png/435px-Folic-acid-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Folic-acid-3D-vdW.png/580px-Folic-acid-3D-vdW.png 2x" data-file-width="1100" data-file-height="479" /></a></span> </td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style=""><a href="/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5" title="Химическое соединение">Химическое соединение</a></th>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%98%D0%AE%D0%9F%D0%90%D0%9A" title="Номенклатура ИЮПАК">ИЮПАК</a></th>
+<td class="plainlist">
+N-4-2-амино-1,4-дигидро-4-оксо-6-птеридил)метиламинобензоил-L(+)-глутаминовая кислота<sup id="cite_ref-regmed_1-0" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" title="Химическая формула">Брутто-формула</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P274" class="no-wikidata"><a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4" title="Углерод">C</a><sub>19</sub><a href="/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4" title="Водород">H</a><sub>19</sub><a href="/wiki/%D0%90%D0%B7%D0%BE%D1%82" title="Азот">N</a><sub>7</sub><a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%80%D0%BE%D0%B4" title="Кислород">O</a><sub>6</sub></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Состав</th>
+</tr>
+<tr>
+<td colspan="2" class="noplainlist" style="text-align:center;text-align:left;">
+<style data-mw-deduplicate="TemplateStyles:r117575837">.mw-parser-output .ts-Маркированный_список--bullet ul{list-style:none}.mw-parser-output .ts-Маркированный_список--bullet li:before{content:"•\a0 "}</style></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Классификация</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Фармакологический указатель">Фармакол. группа</a></th>
+<td class="plainlist">
+Стимуляторы гемопоэза. Витамины и витаминоподобные средства<sup id="cite_ref-reles_2-0" class="reference"><a href="#cite_note-reles-2">&#91;2&#93;</a></sup></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%BE-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Анатомо-терапевтическо-химическая классификация">АТХ</a></th>
+<td class="reflink plainlinks plainlist">
+<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BB">B03BB</a></span>, <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BB01">B03BB01</a></span>, <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BB51">B03BB51</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B5%D0%B9" title="Международная классификация болезней">МКБ-10</a></th>
+<td class="reflink plainlinks plainlist">
+<a href="/wiki/%D0%9C%D0%9A%D0%91-10#Перечень_классов_МКБ-10" title="МКБ-10">D</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2016/en#/D52">52</a>, <a href="/wiki/%D0%9C%D0%9A%D0%91-10#Перечень_классов_МКБ-10" title="МКБ-10">E</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2016/en#/E53.8">53.8</a>, <a href="/wiki/%D0%9C%D0%9A%D0%91-10#Перечень_классов_МКБ-10" title="МКБ-10">K</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2016/en#/K29.5">29.5</a>, <a href="/wiki/%D0%9C%D0%9A%D0%91-10#Перечень_классов_МКБ-10" title="МКБ-10">K</a><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2016/en#/K52">52</a><sup id="cite_ref-reles_2-1" class="reference"><a href="#cite_note-reles-2">&#91;2&#93;</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Лекарственные формы</th>
+</tr>
+<tr>
+<td colspan="2" class="noplainlist" style="text-align:center;text-align:left;">
+субстанция-порошок, таблетки 1&#160;мг, таблетки 0,4&#160;мг («Мамифол»), таблетки 5&#160;мг («Фолацин»)<sup id="cite_ref-regmed_1-1" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Другие названия</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;text-align:left;">
+«Мамифол», «Фолацин»<sup id="cite_ref-regmed_1-2" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup></td>
+</tr>
+</tbody></table>
+<p><b>Фо́лиевая кислота́</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Folic acid</span>, <a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_CAS" title="Регистрационный номер CAS">CAS-код</a> 59-30-3, <a href="/wiki/%D0%91%D1%80%D1%83%D1%82%D1%82%D0%BE-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" class="mw-redirect" title="Брутто-формула">брутто-формула</a> <tt>C<sub>19</sub>H<sub>19</sub>N<sub>7</sub>O<sub>6</sub></tt>)&#160;— <a href="/wiki/%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0" class="mw-redirect" title="Лекарственные средства">лекарственное средство</a>, синтетический <a href="/wiki/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B" title="Витамины">витамин</a> В9 (В<sub>с</sub>). <a href="/wiki/%D0%96%D1%91%D0%BB%D1%82%D1%8B%D0%B9_%D1%86%D0%B2%D0%B5%D1%82" title="Жёлтый цвет">Жёлтый</a> или желтовато-оранжевый кристаллический порошок. Практически нерастворим в воде и <a href="/wiki/%D0%AD%D1%82%D0%B0%D0%BD%D0%BE%D0%BB" title="Этанол">спирте</a>, легко растворим в <a href="/wiki/%D0%A9%D1%91%D0%BB%D0%BE%D1%87%D0%B8" title="Щёлочи">щелочах</a>. <a href="/wiki/%D0%93%D0%B8%D0%B3%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Гигроскопичность">Гигроскопичен</a>. Разлагается на свету<sup id="cite_ref-reles_2-2" class="reference"><a href="#cite_note-reles-2">&#91;2&#93;</a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Фармакологическое_действие"><span class="tocnumber">1</span> <span class="toctext">Фармакологическое действие</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Фармакокинетика"><span class="tocnumber">2</span> <span class="toctext">Фармакокинетика</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Применение"><span class="tocnumber">3</span> <span class="toctext">Применение</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Режим_дозирования"><span class="tocnumber">4</span> <span class="toctext">Режим дозирования</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Взаимодействие"><span class="tocnumber">5</span> <span class="toctext">Взаимодействие</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Особые_указания"><span class="tocnumber">6</span> <span class="toctext">Особые указания</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A4.D0.B0.D1.80.D0.BC.D0.B0.D0.BA.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B5_.D0.B4.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.B8.D0.B5"></span><span class="mw-headline" id="Фармакологическое_действие">Фармакологическое действие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Фармакологическое действие»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=1" title="Редактировать раздел «Фармакологическое действие»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Может синтезироваться <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%84%D0%BB%D0%BE%D1%80%D0%B0_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" title="Микрофлора человека">микрофлорой кишечника</a>. В организме фолиевая кислота восстанавливается до <a href="/wiki/%D0%A2%D0%B5%D1%82%D1%80%D0%B0%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%84%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" class="mw-redirect" title="Тетрагидрофолиевая кислота">тетрагидрофолиевой кислоты</a>, являющейся коферментом, участвующим в различных метаболических процессах. Необходима для нормального созревания <a href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BB%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82" title="Мегалобласт">мегалобластов</a> и образования <a href="/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82" title="Нормобласт">нормобластов</a>. Стимулирует <a href="/wiki/%D0%AD%D1%80%D0%B8%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D1%8D%D0%B7" title="Эритропоэз">эритропоэз</a>, участвует в синтезе аминокислот (в том числе <a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B8%D0%BD" title="Глицин">глицина</a>, <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BE%D0%BD%D0%B8%D0%BD" title="Метионин">метионина</a>), <a href="/wiki/%D0%9D%D1%83%D0%BA%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" class="mw-redirect" title="Нуклеиновые кислоты">нуклеиновых кислот</a>, <a href="/wiki/%D0%9F%D1%83%D1%80%D0%B8%D0%BD%D1%8B" class="mw-redirect" title="Пурины">пуринов</a>, <a href="/wiki/%D0%9F%D0%B8%D1%80%D0%B8%D0%BC%D0%B8%D0%B4%D0%B8%D0%BD%D1%8B" class="mw-redirect" title="Пиримидины">пиримидинов</a>, в обмене <a href="/wiki/%D0%A5%D0%BE%D0%BB%D0%B8%D0%BD" title="Холин">холина</a>, <a href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%B8%D0%B4%D0%B8%D0%BD" title="Гистидин">гистидина</a><sup id="cite_ref-regmed_1-3" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.A4.D0.B0.D1.80.D0.BC.D0.B0.D0.BA.D0.BE.D0.BA.D0.B8.D0.BD.D0.B5.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Фармакокинетика">Фармакокинетика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Фармакокинетика»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=2" title="Редактировать раздел «Фармакокинетика»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Фолиевая кислота, назначаемая в виде лекарственного средства, хорошо и полно всасывается в желудочно-кишечном тракте, преимущественно в верхних отделах 12-перстной кишки (даже при наличии <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%BC%D0%B0%D0%BB%D1%8C%D0%B0%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D0%B8" class="mw-redirect" title="Синдром мальабсорбции">синдрома мальабсорбции</a> на фоне тропического спру, в то же время пищевые фолаты плохо усваиваются при синдроме мальабсорбции). Интенсивно связывается с белками плазмы. Проникает через ГЭБ, плаценту и в грудное молоко. TCmax&#160;— 30—60 мин.
+</p><p>Депонируется и метаболизируется в печени с образованием тетрагидрофолиевой кислоты (в присутствии <a href="/wiki/%D0%90%D1%81%D0%BA%D0%BE%D1%80%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Аскорбиновая кислота">аскорбиновой кислоты</a> под действием <a href="/wiki/%D0%94%D0%B8%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%84%D0%BE%D0%BB%D0%B0%D1%82%D1%80%D0%B5%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%B7%D0%B0" title="Дигидрофолатредуктаза">дигидрофолатредуктазы</a>).
+</p><p>Выводится почками преимущественно в виде метаболитов; если принятая доза значительно превышает суточную потребность в фолиевой кислоте, то выводится в неизменённом состоянии.
+</p><p>Выводится с помощью гемодиализа<sup id="cite_ref-regmed_1-4" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Применение">Применение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Применение»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=3" title="Редактировать раздел «Применение»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:257px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg/255px-%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg" decoding="async" width="255" height="340" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg/383px-%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg/510px-%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg 2x" data-file-width="1760" data-file-height="2347" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A4%D0%9E%D0%9B%D0%98%D0%95%D0%92%D0%90%D0%AF_%D0%9A%D0%98%D0%A1%D0%9B%D0%9E%D0%A2%D0%90.jpg" class="internal" title="Увеличить"></a></div><center> Фолиевая кислота </center></div></div></div> 
+<dl><dt>Показания</dt></dl>
+<p>Лечение мегалобластной анемии, при отравлении метанолом как дополнительное средство. 
+</p><p>Гипо- и авитаминоз фолиевой кислоты, в том числе при тропической и не тропической спру, неполноценном питании, беременности, в младенческом и детском возрасте, у пациентов, принимающих противоэпилептические лекарственные средства.
+</p>
+<dl><dt>Противопоказания</dt></dl>
+<p>Гиперчувствительность.
+</p>
+<dl><dt>С осторожностью</dt></dl>
+<p><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%BD%D0%B8%D1%86%D0%B8%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B5%D0%BC%D0%B8%D1%8F" title="Пернициозная анемия">Пернициозная анемия</a> и другие мегалобластные анемии с дефицитом <a href="/wiki/%D0%A6%D0%B8%D0%B0%D0%BD%D0%BE%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD" class="mw-redirect" title="Цианокобаламин">цианокобаламина</a>.
+</p>
+<dl><dt>Побочное действие</dt></dl>
+<p>Аллергические реакции&#160;— кожная сыпь, кожный зуд, бронхоспазм, эритема, гипертермия<sup id="cite_ref-regmed_1-5" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup>.
+</p><p>В январе 2014 года были опубликованы результаты исследования,&#160;проведенного канадскими исследователями из больниц Святого Михаила (Торонто). Ученые изучали  риски развития рака молочной железы у женщин, принимающих фолиевую кислоту, и обнаружили, что препараты фолиевой кислоты, принимаемые пациентами с раком молочной железы, могут способствовать росту злокачественных клеток. Данное&#160;исследование показало, что&#160; потребление фолиевой кислоты в дозировке 2,5 мг 5&#160; раз в сутки на протяжении 2-3 месяцев  способствует росту существующих предраковых и раковых клеток в молочных железах грызунов. Несколькими годами ранее, в 2008 году учеными из Университета Южной Калифорнии была установлена связь между приемом витаминных добавок с фолиевой кислотой и повышением риска развития&#160; рака простаты более чем в два раза.  <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span id=".D0.A0.D0.B5.D0.B6.D0.B8.D0.BC_.D0.B4.D0.BE.D0.B7.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Режим_дозирования">Режим дозирования</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Режим дозирования»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=4" title="Редактировать раздел «Режим дозирования»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Внутрь.
+</p><p>Мегалобластная анемия: взрослым и детям любого возраста начальная доза&#160;— до 1 мг/сут. При применении больших доз может возникать резистентность. Поддерживающее лечение: для новорожденных&#160;— 0,1 мг/сут, для детей до 4 лет&#160;— 0,3 мг/сут, для детей старше 4 лет и взрослых&#160;— 0,4&#160;мг, при беременности и лактации&#160;— 0,8 мг/сут, но не менее 0,1 мг/сут.
+</p><p>С лечебной целью (в зависимости от тяжести авитаминоза) взрослым&#160;— до 5 мг/сут в течение 20-30 дней, детям&#160;— в меньших дозах.
+</p><p>Для профилактики (исходя из суточной потребности) взрослым назначают 150—200 мкг/сут, детям до 3 лет&#160;— 25—50 мкг/сут, 4—6 лет&#160;— 75 мкг/сут, 7—10 лет&#160;— 100 мкг/сут; в период беременности&#160;— по 400 мкг/сут, в период лактации&#160;— по 300 мкг/сут.
+</p><p>Доза препарата должна быть повышена при сопутствующем алкоголизме, гемолитической анемии, хронических инфекционных заболеваниях, одновременном приёме противосудорожных лекарственных средств, после <a href="/wiki/%D0%93%D0%B0%D1%81%D1%82%D1%80%D1%8D%D0%BA%D1%82%D0%BE%D0%BC%D0%B8%D1%8F" title="Гастрэктомия">гастрэктомии</a>, синдроме мальабсорбции, при печёночной недостаточности, циррозе печени, стрессе<sup id="cite_ref-regmed_1-6" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.92.D0.B7.D0.B0.D0.B8.D0.BC.D0.BE.D0.B4.D0.B5.D0.B9.D1.81.D1.82.D0.B2.D0.B8.D0.B5"></span><span class="mw-headline" id="Взаимодействие">Взаимодействие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Взаимодействие»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=5" title="Редактировать раздел «Взаимодействие»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Снижает эффект фенитоина (требуется увеличения его дозы).
+</p><p>Анальгезирующие лекарственные средства (длительная терапия), противосудорожные препараты (в том числе фенитоин и <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%B0%D0%BC%D0%B0%D0%B7%D0%B5%D0%BF%D0%B8%D0%BD" title="Карбамазепин">карбамазепин</a>), эстрогены, пероральные контрацептивы увеличивают потребность в фолиевой кислоте.
+</p><p><a href="/wiki/%D0%90%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B4%D1%8B" title="Антациды">Антациды</a> (в том числе препараты Ca<sup>2+</sup>, Al<sup>3+</sup> и Mg<sup>2+</sup>), колестирамин, сульфонамины (в том числе сульфасалазин) снижают абсорбцию фолиевой кислоты.
+</p><p>Метотрексат, пириметамин, триамтерен, <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC" title="Триметоприм">триметоприм</a> ингибируют дигидрофолатредуктазу и снижают эффект фолиевой кислоты (вместо неё пациентам, применяющим эти препараты, следует назначать кальция фолинат).
+</p><p>В отношении препаратов Zn<sup>2+</sup> однозначная информация отсутствует: одни исследования показывают, что фолаты ингибируют абсорбцию Zn<sup>2+</sup>, другие эти данные опровергают<sup id="cite_ref-regmed_1-7" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9E.D1.81.D0.BE.D0.B1.D1.8B.D0.B5_.D1.83.D0.BA.D0.B0.D0.B7.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Особые_указания">Особые указания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Особые указания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=6" title="Редактировать раздел «Особые указания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Для профилактики гиповитаминоза В9 наиболее предпочтительно сбалансированное питание. Продукты, богатые витамином В9,&#160;— зеленые овощи (салат, шпинат), свежая печень, бобовые, свекла, яйца, сыр, орехи, злаки.
+</p><p>Фолиевую кислоту не применяют для лечения B12-дефицитной (пернициозной), нормоцитарной и апластической анемии, а также анемии рефрактерной к терапии. При пернициозной (B12-дефицитной) анемии фолиевая кислота, улучшая гематологические показатели, маскирует неврологические осложнения. Пока не исключена пернициозная анемия, назначение фолиевой кислоты в дозах, превышающих 0,1 мг/сут, не рекомендуется (исключение&#160;— беременность и период лактации).
+</p><p>Следует иметь в виду, что пациенты, находящиеся на гемодиализе, нуждаются в повышенных количествах фолиевой кислоты.
+</p><p>Во время лечения антациды следует применять спустя 2 ч после приема фолиевой кислоты, колестирамин&#160;— за 4—6 ч до или спустя 1 ч после приема фолиевой кислоты.
+</p><p>Следует иметь в виду, что <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA%D0%B8" title="Антибиотики">антибиотики</a> могут искажать (давать заведомо заниженные показатели) результаты микробиологической оценки концентрации фолиевой кислоты плазмы и эритроцитов.
+</p><p>При применении больших доз фолиевой кислоты, а также терапии в течение длительного периода возможно снижение концентрации витамина B12<sup id="cite_ref-regmed_1-8" class="reference"><a href="#cite_note-regmed-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=7" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-regmed-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-regmed_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-regmed_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-regmed_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-regmed_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-regmed_1-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-regmed_1-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-regmed_1-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-regmed_1-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-regmed_1-8"><sup><i><b>9</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.regmed.ru/search.asp">Поиск по базе данных ЛС, опции поиска: МНН — <i>Фолиевая кислота</i>, флаги <i>«Искать в реестре зарегистрированных ЛС»</i>, <i>«Искать ТКФС»</i>, <i>«Показывать лекформы»</i></a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>&#160;<small class="ref-info">(недоступная ссылка)</small>.&#32;<i>Обращение лекарственных средств</i>.&#32; ФГУ «Научный центр экспертизы средств медицинского применения» Росздравнадзора РФ&#32;(27 марта 2008).&#160;— Типовая клинико-фармакологическая статья является подзаконным актом и не охраняется авторским правом согласно части четвёртой Гражданского кодекса Российской Федерации № 230-ФЗ от 18 декабря 2006 года.&#32;<small>Дата обращения: 6 апреля 2008.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110903144445/http://www.regmed.ru/search.asp">Архивировано</a> 3&#160;сентября 2011&#160;года.</small></span></span></span>
+</li>
+<li id="cite_note-reles-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-reles_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-reles_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-reles_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.reles.ru/cat/drugs/Folic%20acid/">Фолиевая кислота</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<i>Реестр лекарственных средств</i>.&#32; РеЛеС.ру&#32;(30 мая 1997).&#32;<small>Дата обращения: 6 апреля 2008.</small>&#32;<small><a rel="nofollow" class="external text" href="https://www.webcitation.org/68Cvdzrut?url=http://www.reles.ru/cat/drugs/Folic%20acid/">Архивировано</a> 6&#160;июня 2012&#160;года.</small></span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://okeydoc.ru/folievaya-kislota-pravila-priema-dozirovka-riski-razvitiya-raka/#razdel7">Фолиевая кислота при беременности, вынашивании ребенка: правила приема, дозировка, связь с онкологией</a>&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>, <i>ОкейДок</i>&#160;(16 ноября 2015).&#32;<small>Дата обращения 1 апреля 2017.</small></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit&amp;section=8" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141105032142/http://ginecolog-by.ru/statya.php?st=81">Фолиевая кислота – механизм действия, симптомы недостатка, безопасность применения, дозировки и противопоказания</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Антианемические_препараты_—_АТХ_код:_B03" data-name="АТХ код B03"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%90%D0%A2%D0%A5_%D0%BA%D0%BE%D0%B4_B03" title="Перейти к шаблону «АТХ код B03»"><img alt="Перейти к шаблону «АТХ код B03»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Антианемические_препараты_—_АТХ_код:_B03" style="font-size:114%;margin:0 5em">Антианемические препараты&#160;—&#160;<a href="/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%BE-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Анатомо-терапевтическо-химическая классификация">АТХ код:</a> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03">B03</a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px;display:none; text-align:center; padding-right:6px; min-width:6em !important; max-width:6em !important; width:6em !important; background:#e6e6ff;"><span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03A">B03A</a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !important; padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%8B_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0" title="Препараты железа">Препараты железа</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AA">B03AA</a></span> </div> Железа 2+ препараты для перорального назначения</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D1%84%D1%83%D0%BC%D0%B0%D1%80%D0%B0%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Железа фумарат (страница отсутствует)">Железа фумарат</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AA02">B03AA02</a></span>)</small></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D0%B3%D0%BB%D1%8E%D0%BA%D0%BE%D0%BD%D0%B0%D1%82" class="mw-redirect" title="Железа глюконат">Железа глюконат</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AA03">B03AA03</a></span>)</small></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4" class="mw-redirect" title="Железа хлорид">Железа хлорид</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AA05">B03AA05</a></span>)</small></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D1%81%D1%83%D0%BB%D1%8C%D1%84%D0%B0%D1%82" class="mw-redirect" title="Железа сульфат">Железа сульфат</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AA07">B03AA07</a></span>)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AB">B03AB</a></span> </div> Железа 3+ препараты для перорального назначения</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B8%D0%B8%D0%B7%D0%BE%D0%BC%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%B7%D0%B0%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Железа полиизомальтозат (страница отсутствует)">Железа полиизомальтозат</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AB05">B03AB05</a></span>)</small></li>
+<li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D0%B8%D0%BD%D1%81%D1%83%D0%BA%D1%86%D0%B8%D0%BD%D0%B8%D0%BB%D0%B0%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Железа протеинсукцинилат (страница отсутствует)">Железа протеинсукцинилат</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AB09">B03AB09</a></span>)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AC">B03AC</a></span> </div> Железа 3+ препараты для парентерального назначения</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%94%D0%B5%D0%BA%D1%81%D1%82%D1%80%D0%B8%D1%84%D0%B5%D1%80%D1%80%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Декстриферрон (страница отсутствует)">Декстриферрон</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AC01">B03AC01</a></span>)</small></li>
+<li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%B0_%D1%81%D0%B0%D1%85%D0%B0%D1%80%D0%B0%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Железа оксида сахарат (страница отсутствует)">Железа оксида сахарат</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AC02">B03AC02</a></span>)</small></li>
+<li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D0%B4%D0%B5%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Железа гидроксид декстран (страница отсутствует)">Железа [III] гидроксид декстран</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AC06">B03AC06</a></span>)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AD">B03AD</a></span> </div> Препараты железа в комбинации с фолиевой кислотой</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D1%84%D1%83%D0%BC%D0%B0%D1%80%D0%B0%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Железа фумарат (страница отсутствует)">Железа фумарат</a> в комбинации с фолиевой кислотой <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AD02">B03AD02</a></span>)</small></li>
+<li><a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D1%81%D1%83%D0%BB%D1%8C%D1%84%D0%B0%D1%82" class="mw-redirect" title="Железа сульфат">Железа сульфат</a> в комбинации с фолиевой кислотой <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AD03">B03AD03</a></span>)</small></li>
+<li><a href="/w/index.php?title=%D0%94%D0%B5%D0%BA%D1%81%D1%82%D1%80%D0%B8%D1%84%D0%B5%D1%80%D1%80%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Декстриферрон (страница отсутствует)">Декстриферрон</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AD04">B03AD04</a></span>)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AE">B03AE</a></span> </div> Препараты железа в комбинации с другими препаратами</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li>Препараты железа в комбинации с <a href="/wiki/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD_B12" title="Витамин B12">витамином B12</a> и <a class="mw-selflink selflink">фолиевой кислотой</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AE01">B03AE01</a></span>)</small></li>
+<li>Препараты железа в комбинации с <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D1%8B" title="Поливитаминные препараты">поливитаминами</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AE03">B03AE03</a></span>)</small></li>
+<li>Препараты железа в комбинации с другими препаратами <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03AE10">B03AE10</a></span>)</small></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;display:none; text-align:center; padding-right:6px; min-width:6em !important; max-width:6em !important; width:6em !important; background:#e6e6ff;"><span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03B">B03B</a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !important; padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><a href="/wiki/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD_B12" title="Витамин B12">Витамин B12</a> и <a href="/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Фолиевая кислота">фолиевая кислота</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !important; padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BA">B03BA</a></span> </div> <a href="/wiki/%D0%A6%D0%B8%D0%B0%D0%BD%D0%BE%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD" class="mw-redirect" title="Цианокобаламин">Цианокобаламин</a> и его производные</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A6%D0%B8%D0%B0%D0%BD%D0%BE%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD" class="mw-redirect" title="Цианокобаламин">Цианокобаламин</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BA01">B03BA01</a></span>)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !important; padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BB">B03BB</a></span> </div> <a href="/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Фолиевая кислота">Фолиевая кислота</a> и ее производные</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Фолиевая кислота</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BB01">B03BB01</a></span>)</small></li>
+<li><a class="mw-selflink selflink">Фолиевая кислота</a> в комбинации с другими препаратами <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03BB51">B03BB51</a></span>)</small></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;display:none; text-align:center; padding-right:6px; min-width:6em !important; max-width:6em !important; width:6em !important; background:#e6e6ff;"><span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03X">B03X</a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !important; padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;">Прочие антианемические препараты</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px;max-width:200px !important; padding: 4px; word-wrap: break-word !important; white-space: normal !important; height:100%; min-height: 100% !important;"><div style="float:left;"> <span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03XA">B03XA</a></span> </div> Препараты для лечения анемии другие</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;height:100%; min-height: 100% !important;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%AD%D1%80%D0%B8%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D1%8D%D1%82%D0%B8%D0%BD" title="Эритропоэтин">Эритропоэтин</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03XA01">B03XA01</a></span>)</small></li>
+<li><a href="/w/index.php?title=%D0%94%D0%B0%D1%80%D0%B1%D1%8D%D0%BF%D0%BE%D1%8D%D1%82%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Дарбэпоэтин (страница отсутствует)">Дарбэпоэтин альфа</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03XA02">B03XA02</a></span>)</small></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BF%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C_%D1%8D%D0%BF%D0%BE%D1%8D%D1%82%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Метоксиполиэтиленгликоль эпоэтин (страница отсутствует)">Метоксиполиэтиленгликоль эпоэтин бета</a> <small>(<span class="reflink plainlinks"><a rel="nofollow" class="external text" href="http://www.whocc.no/atc_ddd_index/?code=B03XA03">B03XA03</a></span>)</small></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20220510160830
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.584 seconds
+Real time usage: 0.775 seconds
+Preprocessor visited node count: 4948/1000000
+Post‐expand include size: 154962/2097152 bytes
+Template argument size: 19612/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5745/5000000 bytes
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 4284883/52428800 bytes
+Number of Wikibase entities loaded: 6/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  588.066      1 -total
+ 47.38%  278.598      1 Шаблон:Лекарственное_средство
+ 41.98%  246.875      1 Шаблон:Карточка
+ 31.01%  182.343      6 Шаблон:Navbox_subgroups
+ 27.05%  159.079      1 Шаблон:АТХ_код_B03
+ 26.31%  154.709      1 Шаблон:АТХ_код
+ 21.92%  128.899      1 Шаблон:Навигационная_таблица
+ 17.82%  104.816      1 Шаблон:Примечания
+ 16.62%   97.718      8 Шаблон:Wikidata
+ 12.32%   72.452      2 Шаблон:Cite_web
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:1101498-0!canonical and timestamp 20220510160829 and revision id 111278154. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Фолиевая_кислота_(лекарственное_средство)&amp;oldid=111278154">https://ru.wikipedia.org/w/index.php?title=Фолиевая_кислота_(лекарственное_средство)&amp;oldid=111278154</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Лекарственные средства по алфавиту">Лекарственные средства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B_%D0%B3%D0%B5%D0%BC%D0%BE%D0%BF%D0%BE%D1%8D%D0%B7%D0%B0" title="Категория:Стимуляторы гемопоэза">Стимуляторы гемопоэза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Витамины и витаминоподобные средства">Витамины и витаминоподобные средства</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%BC%D0%B8_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0_%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE" title="Категория:Страницы с неизвестными параметрами шаблона Лекарственное средство">Страницы с неизвестными параметрами шаблона Лекарственное средство</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F+%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0+%28%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F+%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0+%28%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;oldid=111278154" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_%28%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%29&amp;id=111278154&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4491386" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F+%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0+%28%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%29" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_%28%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4491386#sitelinks-wikipedia" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 24 декабря 2020 в 17:44.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.775","ppvisitednodes":{"value":4948,"limit":1000000},"postexpandincludesize":{"value":154962,"limit":2097152},"templateargumentsize":{"value":19612,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5745,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00%  588.066      1 -total"," 47.38%  278.598      1 Шаблон:Лекарственное_средство"," 41.98%  246.875      1 Шаблон:Карточка"," 31.01%  182.343      6 Шаблон:Navbox_subgroups"," 27.05%  159.079      1 Шаблон:АТХ_код_B03"," 26.31%  154.709      1 Шаблон:АТХ_код"," 21.92%  128.899      1 Шаблон:Навигационная_таблица"," 17.82%  104.816      1 Шаблон:Примечания"," 16.62%   97.718      8 Шаблон:Wikidata"," 12.32%   72.452      2 Шаблон:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":4284883,"limit":52428800},"limitreport-logs":"Loaded datatype string of P274 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P231 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P662 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P715 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P636 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P274 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1322","timestamp":"20220510160830","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0424\u043e\u043b\u0438\u0435\u0432\u0430\u044f \u043a\u0438\u0441\u043b\u043e\u0442\u0430 (\u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4491386","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4491386","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-06T04:32:58Z","dateModified":"2020-12-24T17:44:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d6\/Folic_acid_structure.svg"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0424\u043e\u043b\u0438\u0435\u0432\u0430\u044f \u043a\u0438\u0441\u043b\u043e\u0442\u0430 (\u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A4%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0_(%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4491386","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4491386","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-06T04:32:58Z","dateModified":"2020-12-24T17:44:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d6\/Folic_acid_structure.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":160,"wgHostname":"mw1405"});});</script>
+</body>
+</html>

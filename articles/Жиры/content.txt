@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Жиры — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"1f6fdf2c-3086-4415-8918-07fc700e80b8","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Жиры","wgTitle":"Жиры","wgCurRevisionId":119373194,"wgRevisionId":119373194,"wgArticleId":40416,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с шаблоном Falseredirect","Статьи со ссылками на Викисклад","Страницы, использующие волшебные ссылки ISBN","Жиры",
+"Триглицериды"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Жиры","wgRelevantArticleId":40416,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":119373194,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q186319","GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.12"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/64/Trimyristin-3D-vdW.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="974"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trimyristin-3D-vdW.png/800px-Trimyristin-3D-vdW.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="649"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trimyristin-3D-vdW.png/640px-Trimyristin-3D-vdW.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="520"/>
+<meta property="og:title" content="Жиры — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D1%8B"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D1%8B"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Жиры rootpage-Жиры skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Жиры</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable dabhide">Запрос «Жир»&#32;перенаправляется сюда; см. также <a href="/wiki/%D0%96%D0%B8%D1%80_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Жир (значения)">другие значения</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:262px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Trimyristin-3D-vdW.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trimyristin-3D-vdW.png/260px-Trimyristin-3D-vdW.png" decoding="async" width="260" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trimyristin-3D-vdW.png/390px-Trimyristin-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trimyristin-3D-vdW.png/520px-Trimyristin-3D-vdW.png 2x" data-file-width="1100" data-file-height="893" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Trimyristin-3D-vdW.png" class="internal" title="Увеличить"></a></div>Шариковая модель триглицерида. Красным цветом выделен кислород, чёрным&#160;— углерод, белым&#160;— водород</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:262px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tripalmitoylglycerol.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tripalmitoylglycerol.png/260px-Tripalmitoylglycerol.png" decoding="async" width="260" height="89" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tripalmitoylglycerol.png/390px-Tripalmitoylglycerol.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/13/Tripalmitoylglycerol.png 2x" data-file-width="494" data-file-height="169" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tripalmitoylglycerol.png" class="internal" title="Увеличить"></a></div>Триглицериды. Зелёным цветом выделен остов <a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%BD" title="Глицерин">глицерина</a>, чёрным на белом фоне&#160;— часть молекулы жирных кислот (на рисунке&#160;— это <a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%BB" title="Углеводородный радикал">радикалы</a> <a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%B8%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Пальмитиновая кислота">пальмитиновой кислоты</a>)</div></div></div>
+<p><b>Жиры́</b>, также <b>триглицери́ды</b>, <b>триацилглицериды</b> — <a href="/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Органические соединения">органические вещества</a>, продукты <a href="/wiki/%D0%AD%D1%82%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Этерификация">этерификации</a> <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Карбоновые кислоты">карбоновых кислот</a> и трёхатомного <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D1%82" class="mw-redirect" title="Спирт">спирта</a> <a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%BD" title="Глицерин">глицерина</a>.
+</p><p>В живых организмах выполняют, прежде всего, структурную и энергетическую функции: они являются основным компонентом <a href="/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BC%D0%B1%D1%80%D0%B0%D0%BD%D0%B0" title="Клеточная мембрана">клеточной мембраны</a>, а в <a href="/wiki/%D0%90%D0%B4%D0%B8%D0%BF%D0%BE%D1%86%D0%B8%D1%82" title="Адипоцит">жировых клетках</a> сохраняется энергетический запас организма.
+</p><p>Наряду с <a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B" title="Углеводы">углеводами</a> и <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8" title="Белки">белками</a>, жиры&#160;— один из главных компонентов <a href="/wiki/%D0%9F%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5" title="Питание">питания</a>. Жиры растительного происхождения называют <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE" title="Масло">маслами</a> (маслами также называют некоторые животные жиры, например, сливочное и топлёное масла). Растительные масла, как правило, имеют жидкую консистенцию при комнатной температуре. Исключение составляют масла тропических растений (<a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Пальмовое масло">пальмовое</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Кокосовое масло">кокосовое</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BA%D0%B0%D0%BE-%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" class="mw-redirect" title="Какао-масло">какао</a> и&#160;т.&#160;п.). Жиры животного происхождения, напротив, при комнатной температуре обычно находятся в застывшей фазе. Исключение составляют <a href="/wiki/%D0%A0%D1%8B%D0%B1%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80" title="Рыбий жир">рыбий жир</a>, говяжий жир с ног (<a href="/w/index.php?title=%D0%9A%D0%BE%D0%BF%D1%8B%D1%82%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Копытное масло (страница отсутствует)">копытное масло</a>), <a href="/wiki/%D0%92%D0%BE%D1%80%D0%B2%D0%B0%D0%BD%D1%8C" title="Ворвань">ворвань</a> и др.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Состав_жиров"><span class="tocnumber">1</span> <span class="toctext">Состав жиров</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Состав_природных_жиров"><span class="tocnumber">2</span> <span class="toctext">Состав природных жиров</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Животные_жиры"><span class="tocnumber">2.1</span> <span class="toctext">Животные жиры</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Растительные_масла"><span class="tocnumber">3</span> <span class="toctext">Растительные масла</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Свойства_жиров"><span class="tocnumber">4</span> <span class="toctext">Свойства жиров</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Физические_свойства"><span class="tocnumber">5</span> <span class="toctext">Физические свойства</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Классификация"><span class="tocnumber">5.1</span> <span class="toctext">Классификация</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Номенклатура"><span class="tocnumber">5.2</span> <span class="toctext">Номенклатура</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Химические_свойства"><span class="tocnumber">6</span> <span class="toctext">Химические свойства</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Гидролиз_жиров"><span class="tocnumber">6.1</span> <span class="toctext">Гидролиз жиров</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Гидрирование_(гидрогенизация)_жиров"><span class="tocnumber">6.2</span> <span class="toctext">Гидрирование (гидрогенизация) жиров</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Пищевые_свойства_жиров"><span class="tocnumber">7</span> <span class="toctext">Пищевые свойства жиров</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Применение_жиров"><span class="tocnumber">8</span> <span class="toctext">Применение жиров</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#См._также"><span class="tocnumber">9</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Примечания"><span class="tocnumber">10</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Литература"><span class="tocnumber">11</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A1.D0.BE.D1.81.D1.82.D0.B0.D0.B2_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Состав_жиров">Состав жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Состав жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=1" title="Редактировать раздел «Состав жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Состав жиров определили французские ученые <a href="/wiki/%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C_%D0%AD%D0%B6%D0%B5%D0%BD_%D0%A8%D0%B5%D0%B2%D1%80%D1%91%D0%BB%D1%8C" class="mw-redirect" title="Мишель Эжен Шеврёль">М. Шеврель</a> и <a href="/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%B5%D0%BD_%D0%91%D0%B5%D1%80%D1%82%D0%BB%D0%BE" class="mw-redirect" title="Марселен Бертло">М. Бертло</a>.
+В 1811 году М. Шеврель установил, что при нагревании смеси жира с водой в щелочной среде образуются <a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%BD" title="Глицерин">глицерин</a> и <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Карбоновые кислоты">карбоновые кислоты</a> (стеариновая и олеиновая). В 1854 году химик М. Бертло осуществил обратную реакцию и впервые синтезировал жир, нагревая смесь глицерина и карбоновых кислот.
+</p><p>Состав жиров отвечает общей формуле
+</p>
+<dl><dd><dl><dd><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Triglyceride.svg" class="image"><img alt="Triglyceride.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Triglyceride.svg/220px-Triglyceride.svg.png" decoding="async" width="220" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Triglyceride.svg/330px-Triglyceride.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Triglyceride.svg/440px-Triglyceride.svg.png 2x" data-file-width="262" data-file-height="144" /></a></dd></dl></dd></dl>
+<p>где R¹, R² и R³&#160;— радикалы (одинаковых или различных) жирных кислот.
+</p><p>Природные жиры содержат в своём составе три кислотных радикала, имеющих неразветвлённую структуру и, как правило, чётное число атомов углерода (содержание «нечётных» кислотных радикалов в жирах обычно менее 0,1&#160;%).
+</p><p>Природные жиры чаще всего содержат следующие жирные кислоты:
+<b>Насыщенные:</b><br />
+<i><a href="/wiki/%D0%90%D0%BB%D0%BA%D0%B0%D0%BD%D1%8B" title="Алканы">Алкановые кислоты</a></i>:
+</p>
+<ul><li><a href="/wiki/%D0%A1%D1%82%D0%B5%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Стеариновая кислота">стеариновая</a> (C<sub>17</sub>H<sub>35</sub>COOH)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Маргариновая кислота">маргариновая</a> (C<sub>16</sub>H<sub>33</sub>COOH)</li>
+<li><a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%B8%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Пальмитиновая кислота">пальмитиновая</a> (C<sub>15</sub>H<sub>31</sub>COOH)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Капроновая кислота">капроновая</a> (C<sub>5</sub>H<sub>11</sub>COOH)</li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Масляная кислота">масляная</a> (C<sub>3</sub>H<sub>7</sub>COOH)</li></ul>
+<p><b>Ненасыщенные:</b><br />
+<i><a href="/wiki/%D0%90%D0%BB%D0%BA%D0%B5%D0%BD%D1%8B" title="Алкены">Алкеновые кислоты</a></i>:
+</p>
+<ul><li><a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%B8%D1%82%D0%BE%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Пальмитолеиновая кислота">пальмитолеиновая</a> (C<sub>15</sub>H<sub>29</sub>COOH, <b>1</b> <a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)" class="mw-redirect" title="Двойная связь (химия)">двойная связь</a>)</li>
+<li><a href="/wiki/%D0%9E%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Олеиновая кислота">олеиновая</a> (C<sub>17</sub>H<sub>33</sub>COOH, <b>1</b> <a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)" class="mw-redirect" title="Двойная связь (химия)">двойная связь</a>)</li></ul>
+<p><i><a href="/wiki/%D0%90%D0%BB%D0%BA%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%8B" class="mw-redirect" title="Алкадиены">Алкадиеновые кислоты</a></i>:
+</p>
+<ul><li><a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Линолевая кислота">линолевая</a> (C<sub>17</sub>H<sub>31</sub>COOH, <b>2</b> <a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)" class="mw-redirect" title="Двойная связь (химия)">двойные связи</a>)</li></ul>
+<p><i>Алкатриеновые кислоты</i>:
+</p>
+<ul><li><a href="/wiki/%D0%90%D0%BB%D1%8C%D1%84%D0%B0-%D0%BB%D0%B8%D0%BD%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Альфа-линоленовая кислота">линоленовая</a> (C<sub>17</sub>H<sub>29</sub>COOH, <b>3</b> <a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)" class="mw-redirect" title="Двойная связь (химия)">двойные связи</a>)</li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B0%D1%85%D0%B8%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Арахидоновая кислота">арахидоновая</a> (C<sub>19</sub>H<sub>31</sub>COOH, <b>4</b> <a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D1%8F)" class="mw-redirect" title="Двойная связь (химия)">двойные связи</a>, реже встречается)</li></ul>
+<p>В состав некоторых природных жиров входят остатки и насыщенных, и ненасыщенных карбоновых кислот.
+</p>
+<h2><span id=".D0.A1.D0.BE.D1.81.D1.82.D0.B0.D0.B2_.D0.BF.D1.80.D0.B8.D1.80.D0.BE.D0.B4.D0.BD.D1.8B.D1.85_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Состав_природных_жиров">Состав природных жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Состав природных жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=2" title="Редактировать раздел «Состав природных жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption><i>Приблизительный состав твёрдых и жидких жиров (триглицеридов)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>:</i>
+</caption>
+<tbody><tr>
+<th rowspan="2">Триглицериды
+</th>
+<th colspan="5">Остатки кислот,&#160;% по массе
+</th></tr>
+<tr>
+<td>Пальмитиновая</td>
+<td>Стеариновая</td>
+<td>Олеиновая</td>
+<td>Линолевая</td>
+<td>Линоленовая
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Сливочное масло">Сливочное масло</a></td>
+<td>25</td>
+<td>11</td>
+<td>34</td>
+<td>6</td>
+<td>5
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Подсолнечное масло">Подсолнечное масло</a></td>
+<td>11</td>
+<td>4</td>
+<td>38</td>
+<td>46</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Оливковое масло">Оливковое масло</a></td>
+<td>10</td>
+<td>2</td>
+<td>82</td>
+<td>4</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9B%D1%8C%D0%BD%D1%8F%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Льняное масло">Льняное масло</a></td>
+<td>5</td>
+<td>3</td>
+<td>5</td>
+<td>62</td>
+<td>25
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Пальмовое масло">Пальмовое масло</a></td>
+<td>44</td>
+<td>5</td>
+<td>39</td>
+<td>11</td>
+<td>-
+</td></tr>
+<tr>
+<td>Бараний жир (твёрдый)</td>
+<td>38</td>
+<td>30</td>
+<td>35</td>
+<td>3</td>
+<td>9
+</td></tr>
+<tr>
+<td>Говяжий жир (твёрдый)</td>
+<td>31</td>
+<td>26</td>
+<td>40</td>
+<td>2</td>
+<td>2
+</td></tr>
+<tr>
+<td>Свиной жир (твёрдый)</td>
+<td>27</td>
+<td>14</td>
+<td>45</td>
+<td>5</td>
+<td>5
+</td></tr>
+<tr>
+<td>Жиры в организме человека</td>
+<td>25</td>
+<td>8</td>
+<td>46</td>
+<td>10</td>
+<td>-
+</td></tr></tbody></table>
+<h3><span id=".D0.96.D0.B8.D0.B2.D0.BE.D1.82.D0.BD.D1.8B.D0.B5_.D0.B6.D0.B8.D1.80.D1.8B"></span><span class="mw-headline" id="Животные_жиры">Животные жиры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Животные жиры»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=3" title="Редактировать раздел «Животные жиры»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Чаще всего в <a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B8%D1%80%D1%8B" title="Животные жиры">животных жирах</a> встречаются стеариновая и пальмитиновая кислоты, ненасыщенные жирные кислоты представлены в основном олеиновой, линолевой и линоленовой кислотами. Физико-химические и химические свойства жиров в значительной мере определяются соотношением входящих в их состав насыщенных и ненасыщенных жирных кислот.
+</p>
+<h2><span id=".D0.A0.D0.B0.D1.81.D1.82.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BC.D0.B0.D1.81.D0.BB.D0.B0"></span><span class="mw-headline" id="Растительные_масла"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%B0" class="mw-redirect" title="Растительные масла">Растительные масла</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Растительные масла»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=4" title="Редактировать раздел «Растительные масла»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В растениях жиры содержатся в сравнительно небольших количествах, за исключением семян <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Масличные растения">масличных растений</a>, в которых содержание жиров может быть более 50&#160;%.
+</p>
+<h2><span id=".D0.A1.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Свойства_жиров">Свойства жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Свойства жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=5" title="Редактировать раздел «Свойства жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Энергетическая ценность жира примерно равна 9,3 <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%BE%D1%80%D0%B8%D1%8F" title="Калория">ккал</a> на грамм, что соответствует 39 <a href="/wiki/%D0%9A%D0%B8%D0%BB%D0%BE" class="mw-redirect" title="Кило">к</a><a href="/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль">Дж</a>/г. Таким образом, энергия, выделяемая при расходовании 1 грамма жира, приблизительно соответствует, с учётом <a href="/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Ускорение свободного падения">ускорения свободного падения</a>, работе, совершенной при поднятии груза весом 39000 Н (массой ≈ 4000 кг = 4 тонны) на высоту 1 метр.
+</p><p>При сильном взбалтывании с водой жидкие (или расплавленные) жиры образуют более или менее устойчивые <a href="/wiki/%D0%AD%D0%BC%D1%83%D0%BB%D1%8C%D1%81%D0%B8%D0%B8" class="mw-redirect" title="Эмульсии">эмульсии</a> (см. <a href="/wiki/%D0%93%D0%BE%D0%BC%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Гомогенизация">гомогенизация</a>). Природной эмульсией жира в воде является <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE" title="Молоко">молоко</a>.
+</p>
+<h2><span id=".D0.A4.D0.B8.D0.B7.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Физические_свойства">Физические свойства</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Физические свойства»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=6" title="Редактировать раздел «Физические свойства»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Жиры&#160;— вязкие жидкости или твёрдые вещества, легче воды. Их плотность колеблется в пределах 0,9—0,95 г/см³. Жиры гидрофобны, практически нерастворимы в воде, хорошо растворимы в органических растворителях (бензол, дихлорэтан, эфир и др.) и частично растворимы в этаноле (5—10&#160;%).
+</p>
+<h3><span id=".D0.9A.D0.BB.D0.B0.D1.81.D1.81.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Классификация">Классификация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Классификация»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=7" title="Редактировать раздел «Классификация»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Чем больше в жирах содержание ненасыщенных кислот, тем ниже температура плавления жиров.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<table class="standard">
+<tbody><tr>
+<th>Агрегатное состояние жиров</th>
+<th>Различия в химическом строении</th>
+<th>Происхождение жиров</th>
+<th>Исключения
+</th></tr>
+<tr>
+<td>Твёрдые жиры</td>
+<td>Содержат остатки насыщенных <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Карбоновые кислоты">ВКК</a></td>
+<td rowspan="2">Животные жиры</td>
+<td rowspan="2">Рыбий жир(жидк. при н/у)
+</td></tr>
+<tr>
+<td>Смешанные жиры</td>
+<td>Содержат остатки насыщенных и ненасыщенных <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Карбоновые кислоты">ВКК</a>
+</td></tr>
+<tr>
+<td>Жидкие жиры(масла)</td>
+<td>Содержат остатки ненасыщенных <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Карбоновые кислоты">ВКК</a></td>
+<td>Растительные жиры</td>
+<td>Кокосовое масло, какао масло(твёрд. при н/у)
+</td></tr></tbody></table>
+<h3><span id=".D0.9D.D0.BE.D0.BC.D0.B5.D0.BD.D0.BA.D0.BB.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Номенклатура">Номенклатура</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Номенклатура»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=8" title="Редактировать раздел «Номенклатура»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>По тривиальной номенклатуре глицериды называют, добавляя окончание -ид к сокращенному названию кислоты и приставку, показывающую, сколько гидроксильных групп в молекуле глицерина проэтерифицировано.
+</p>
+<h2><span id=".D0.A5.D0.B8.D0.BC.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0"></span><span class="mw-headline" id="Химические_свойства">Химические свойства</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Химические свойства»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=9" title="Редактировать раздел «Химические свойства»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.93.D0.B8.D0.B4.D1.80.D0.BE.D0.BB.D0.B8.D0.B7_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Гидролиз_жиров">Гидролиз жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Гидролиз жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=10" title="Редактировать раздел «Гидролиз жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Гидролиз для жиров характерен, так как они являются <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5_%D1%8D%D1%84%D0%B8%D1%80%D1%8B" title="Сложные эфиры">сложными эфирами</a>. Он осуществляется под действием минеральных кислот и щелочей при нагревании. Гидролиз жиров в живых организмах происходит под влиянием ферментов. Результат гидролиза&#160;— образование глицерина и соответствующих карбоновых кислот:
+С<sub>3</sub>H<sub>5</sub>(COO)<sub>3</sub>-R + 3H<sub>2</sub>O ↔ C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> + 3RCOOH
+</p><p>Расщепление жиров на <a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%BD" title="Глицерин">глицерин</a> и соли высших карбоновых кислот проводится обработкой их щёлочью&#160;— (<a href="/wiki/%D0%95%D0%B4%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%82%D1%80" class="mw-redirect" title="Едкий натр">едким натром</a>), перегретым паром, иногда&#160;— минеральными кислотами. Этот процесс называется <a href="/wiki/%D0%9E%D0%BC%D1%8B%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Омыление">омыление</a> жиров (см. <a href="/wiki/%D0%9C%D1%8B%D0%BB%D0%BE" title="Мыло">Мыло</a>).<br />
+С<sub>3</sub>H<sub>5</sub>(COO)<sub>3</sub>-(C<sub>17</sub>H<sub>35</sub>)<sub>3</sub> + 3NaOH → C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> + 3C<sub>17</sub>H<sub>35</sub>COONa<br />
+тристеарин (жир) + едкий натр → глицерин + стеарат натрия (мыло)
+</p>
+<h3><span id=".D0.93.D0.B8.D0.B4.D1.80.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.28.D0.B3.D0.B8.D0.B4.D1.80.D0.BE.D0.B3.D0.B5.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D1.8F.29_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Гидрирование_(гидрогенизация)_жиров">Гидрирование (гидрогенизация) жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Гидрирование (гидрогенизация) жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=11" title="Редактировать раздел «Гидрирование (гидрогенизация) жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable dabhide">Запрос «<span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B6%D0%B8%D1%80%D0%BE%D0%B2&amp;redirect=no">Гидрогенизация жиров</a></span>»<span style="font-style:normal; font-weight:normal;"><sup><a href="https://www.wikidata.org/wiki/Q17321635#sitelinks-wikipedia" class="extiw" title="d:Q17321635">[d&#93;</a></sup></span> перенаправляется сюда. На эту тему нужно <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:EditPage/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B6%D0%B8%D1%80%D0%BE%D0%B2" title="Служебная:EditPage/Гидрогенизация жиров">создать отдельную статью</a>.</div>
+<p>В составе растительных масел содержатся остатки ненасыщенных карбоновых кислот, поэтому они могут подвергаться <a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Гидрирование">гидрированию</a>. Через нагретую смесь масла с тонко измельченным никелевым катализатором пропускают водород, который присоединяется по месту двойных связей ненасыщенных углеводородных радикалов. В результате реакции жидкое масло превращается в твёрдый жир. Этот жир называется <a href="/wiki/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BC%D0%B0%D1%81" title="Саломас">саломасом</a>, или комбинированным жиром. При гидрировании, как <a href="/wiki/%D0%9F%D0%BE%D0%B1%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" class="mw-redirect" title="Побочный эффект">побочный эффект</a>, происходит <a href="/wiki/%D0%98%D0%B7%D0%BE%D0%BC%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" title="Изомеризация">изомеризация</a> некоторых из оставшихся двойных связей, тем самым некоторые молекулы жира превращаются в <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B6%D0%B8%D1%80%D1%8B" title="Трансжиры">трансжиры</a>, доля трансжиров в масле увеличивается.
+</p>
+<h2><span id=".D0.9F.D0.B8.D1.89.D0.B5.D0.B2.D1.8B.D0.B5_.D1.81.D0.B2.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.B0_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Пищевые_свойства_жиров">Пищевые свойства жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редактировать раздел «Пищевые свойства жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=12" title="Редактировать раздел «Пищевые свойства жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%96%D0%B8%D1%80%D1%8B_(%D0%B4%D0%B8%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Жиры (диетология)">Жиры (диетология)</a></b></div>
+<p>Жиры являются одним из основных источников энергии для млекопитающих. <a href="/wiki/%D0%94%D0%B8%D1%81%D0%BF%D0%B5%D1%80%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Диспергирование">Эмульгирование</a> жиров в <a href="/wiki/%D0%9A%D0%B8%D1%88%D0%B5%D1%87%D0%BD%D0%B8%D0%BA" title="Кишечник">кишечнике</a> (необходимое условие их всасывания) осуществляется при участии солей <a href="/wiki/%D0%96%D1%91%D0%BB%D1%87%D0%BD%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Жёлчные кислоты">жёлчных кислот</a>. Энергетическая ценность жиров примерно в 2 раза выше, чем углеводов, при условии их биологической доступности и здорового усвоения организмом.
+</p><p><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B8%D1%80%D1%8B" title="Насыщенные жиры">Насыщенные жиры</a> расщепляются в организме на 25—30&#160;%, а <a href="/wiki/%D0%9D%D0%B5%D0%BD%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B8%D1%80%D1%8B" title="Ненасыщенные жиры">ненасыщенные жиры</a> расщепляются полностью.
+</p><p>Благодаря крайне низкой теплопроводности, жир, откладываемый в подкожной жировой клетчатке, служит теплоизолятором, предохраняющим организм от потери тепла (у китов, тюленей и др.).
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B6.D0.B8.D1.80.D0.BE.D0.B2"></span><span class="mw-headline" id="Применение_жиров">Применение жиров</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Редактировать раздел «Применение жиров»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=13" title="Редактировать раздел «Применение жиров»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Пищевая промышленность (в частности, кондитерская)</li>
+<li>Фармация</li>
+<li>Производство мыла и косметических изделий</li>
+<li>Производство смазочных материалов</li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=14" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9B%D0%B8%D0%BF%D0%B8%D0%B4%D1%8B" title="Липиды">Липиды</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=15" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Темирбулатова&#160;А.&#160;Е.&#160;— Учебник по химии для 11х классов естественно-математического направления, 2011&#160;— С.218</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">под ред. А.&#160;С.&#160;Егорова&#160;— Репетитор по химии, 2009.&#160;— С.642</span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit&amp;section=16" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Triglycerides" class="extiw" title="commons:Category:Triglycerides">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<ul><li><span class="citation" id="CITEREFБРЭ2016"><a rel="nofollow" class="external text" href="http://bigenc.ru/text/4201876">Триглицериды</a>&#160;//&#32;Телевизионная башня&#160;— Улан-Батор [Электронный ресурс].&#160;— 2016.&#160;— С.&#160;389.&#160;— (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Большая российская энциклопедия">Большая российская энциклопедия</a>&#160;: <span class="nowrap">[в 35 т.]</span>&#160;/ гл. ред. <span class="nowrap"><a href="/wiki/%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Осипов, Юрий Сергеевич">Ю. С. Осипов</a></span>&#160;; 2004—2017, т.&#160;32).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785852703699" class="internal mw-magiclink-isbn">ISBN 978-5-85270-369-9</a>.</span></li>
+<li><span class="citation" id="CITEREFБРЭ2008"><a rel="nofollow" class="external text" href="http://bigenc.ru/text/1983070">Жиры</a>&#160;//&#32;Железное дерево&#160;— Излучение [Электронный ресурс].&#160;— 2008.&#160;— С.&#160;98—99.&#160;— (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Большая российская энциклопедия">Большая российская энциклопедия</a>&#160;: <span class="nowrap">[в 35 т.]</span>&#160;/ гл. ред. <span class="nowrap"><a href="/wiki/%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Осипов, Юрий Сергеевич">Ю. С. Осипов</a></span>&#160;; 2004—2017, т.&#160;10).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785852703415" class="internal mw-magiclink-isbn">ISBN 978-5-85270-341-5</a>.</span></li>
+<li><span class="citation" id="CITEREFБРЭ"><a rel="nofollow" class="external text" href="http://bigenc.ru/text/3494998">Растительные масла жирные</a>&#160;/ Паронян В. Х.&#160;//&#32;<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Большая российская энциклопедия">Большая российская энциклопедия</a>&#160;: <span class="nowrap">[в 35 т.]</span>&#160;/ гл. ред. <span class="nowrap"><a href="/wiki/%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Осипов, Юрий Сергеевич">Ю. С. Осипов</a></span>.&#160;— <abbr title="Москва">М.</abbr>&#160;: Большая российская энциклопедия, 2004—2017.</span></li>
+<li><i>Тютюнников, Б. Н.</i> Химия жиров / Б.&#160;Н.&#160;Тютюнников, З.&#160;И.&#160;Бухштаб, Ф.&#160;Ф.&#160;Гладкий и др.&#160;— 3-е изд., перераб. и доп.&#160;— <abbr title="Москва">М.</abbr>: Колос, 1992.&#160;— 448 с.</li>
+<li><i>Беззубов, Л. П.</i> Химия жиров / Л.&#160;П.&#160;Беззубов.&#160;— 3-е изд.&#160;— <abbr title="Москва">М.</abbr>: Пищевая промышленность, 1975.&#160;— 280 с.</li>
+<li><i>Щербаков, В. Г.</i> Химия и биохимия переработки масличных семян / В.&#160;Г.&#160;Щербаков.&#160;— <abbr title="Москва">М.</abbr>: Пищевая промышленность, 1977.&#160;— 180 с.</li>
+<li><i>Евстигнеева&#160;Р.&#160;П.</i> Химия липидов / Р.&#160;П.&#160;Евстигнеева, Е.&#160;Н.&#160;Звонкова, Г.&#160;А.&#160;Серебренникова, В.&#160;И.&#160;Швец.&#160;— <abbr title="Москва">М.</abbr>: Химия, 1983.&#160;— 296 с., ил.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Жиры_и_масла" data-name="Жиры и масла"><table class="nowraplinks hlist hlist-items-nowrap collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%96%D0%B8%D1%80%D1%8B_%D0%B8_%D0%BC%D0%B0%D1%81%D0%BB%D0%B0" title="Перейти к шаблону «Жиры и масла»"><img alt="Перейти к шаблону «Жиры и масла»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Жиры_и_масла" style="font-size:114%;margin:0 5em"><a class="mw-selflink selflink">Жиры</a> и <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE" title="Масло">масла</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B8%D1%80%D1%8B" title="Животные жиры">Животные жиры</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">Птичьи жиры</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Куриный жир (страница отсутствует)">Куриный жир</a></li>
+<li><a href="/w/index.php?title=%D0%A3%D1%82%D0%B8%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Утиный жир (страница отсутствует)">Утиный жир</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D1%81%D0%B8%D0%BD%D1%8B%D0%B9_%D1%81%D0%BC%D0%B0%D0%BB%D0%B5%D1%86" title="Гусиный смалец">Гусиный смалец</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80" title="Молочный жир">Молочные жиры</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9A%D0%BE%D0%B7%D1%8C%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Козье масло (страница отсутствует)">Козье масло</a></li>
+<li><a href="/wiki/%D0%A1%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Сливочное масло">Сливочное масло</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D1%91%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Топлёное масло">Топлёное масло</a> <i>(<a href="/wiki/%D0%93%D1%85%D0%B8" title="Гхи">Гхи</a>)</i></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%B8%D0%B7_%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0_%D1%8F%D0%BA%D0%B0" title="Масло из молока яка">Масло из молока яка</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Жиры наземных животных</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>Свиной жир</dt>
+<dd><a href="/wiki/%D0%91%D0%B5%D0%BA%D0%BE%D0%BD" title="Бекон">Бекон</a></dd>
+<dd><a href="/wiki/%D0%9B%D0%B0%D1%80%D0%B4%D0%BE" title="Лардо">Лардо</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%B0%D0%BB%D0%BE" title="Сало">Сало</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BC%D0%B0%D0%BB%D0%B5%D1%86" title="Смалец">Смалец</a></dd>
+<dd><a href="/wiki/%D0%A8%D0%BF%D0%B8%D0%BA" title="Шпик">Шпик</a></dd></dl>
+<dl><dt>Говяжий и бараний жир</dt>
+<dd><a href="/w/index.php?title=%D0%93%D0%BE%D0%B2%D1%8F%D0%B6%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Говяжий жир (страница отсутствует)">Говяжий жир</a></dd>
+<dd><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80" class="mw-redirect" title="Бараний жир">Бараний жир</a></dd>
+<dd><a href="/wiki/%D0%9A%D1%83%D1%80%D0%B4%D1%8E%D0%BA" title="Курдюк">Курдючный жир</a></dd></dl>
+<dl><dt>Жиры других с/х животных</dt>
+<dd>&#160;<a href="/w/index.php?title=%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Олений жир (страница отсутствует)">Олений жир</a></dd>
+<dd><a href="/w/index.php?title=%D0%9A%D0%BE%D0%B7%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Козий жир (страница отсутствует)">Козий жир</a></dd>
+<dd><a href="/w/index.php?title=%D0%9D%D1%83%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Нутриевый жир (страница отсутствует)">Нутриевый жир</a></dd></dl>
+<dl><dt>Жиры диких животных</dt>
+<dd><a href="/w/index.php?title=%D0%91%D0%B0%D1%80%D1%81%D1%83%D1%87%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Барсучий жир (страница отсутствует)">Барсучий жир</a></dd>
+<dd><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Норковое масло">Норковое масло</a></dd>
+<dd><a href="/w/index.php?title=%D0%A1%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Собачий жир (страница отсутствует)">Собачий жир</a></dd>
+<dd><a href="/w/index.php?title=%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Медвежий жир (страница отсутствует)">Медвежий жир</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Жиры водных животных</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D0%BE%D1%80%D0%B2%D0%B0%D0%BD%D1%8C" title="Ворвань">Ворвань</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D1%8E%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Тюлений жир (страница отсутствует)">Тюлений жир</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Жиры рыб</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A0%D1%8B%D0%B1%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80" title="Рыбий жир">Рыбий жир</a> (печени трески)</li>
+<li><a href="/w/index.php?title=%D0%9B%D0%BE%D1%81%D0%BE%D1%81%D1%91%D0%B2%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Лососёвый жир (страница отсутствует)">Лососёвый жир</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Растительное масло">Растительные масла</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">Из семян</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%90%D0%B1%D1%80%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Абрикосовое масло (страница отсутствует)">Абрикосовое масло</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B0%D1%85%D0%B8%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Арахисовое масло">Арахисовое масло</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD_%D0%B0%D1%80%D0%B1%D1%83%D0%B7%D0%B0" title="Масло семян арбуза">Масло семян арбуза</a></li>
+<li><a href="/w/index.php?title=%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Буковое масло (страница отсутствует)">Буковое масло</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%B2%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D1%8B%D1%85_%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%B5%D0%BA" title="Масло виноградных косточек">Масло виноградных косточек</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%BA%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%B5%D0%BA_%D0%B2%D0%B8%D1%88%D0%BD%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Масло косточек вишни (страница отсутствует)">Масло косточек вишни</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%80%D1%87%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Горчичное масло">Горчичное масло</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%B6%D0%BE%D0%B6%D0%BE%D0%B1%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Масло жожоба (страница отсутствует)">Масло жожоба</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%BA%D0%B0%D0%BA%D0%B0%D0%BE" title="Масло какао">Масло какао</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BB%D0%B8%D0%B8" title="Масло камелии">Масло камелии</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Касторовое масло">Касторовое масло</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%BA%D0%B5%D0%B4%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D1%80%D0%B5%D1%85%D0%B0" title="Масло кедрового ореха">Масло кедрового ореха</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%BA%D0%B5%D1%88%D1%8C%D1%8E&amp;action=edit&amp;redlink=1" class="new" title="Масло кешью (страница отсутствует)">Масло кешью</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BE%D0%BF%D0%BB%D1%8F%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Конопляное масло">Конопляное масло</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Кротоновое масло">Кротоновое масло</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Кукурузное масло">Кукурузное масло</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BD%D0%B6%D1%83%D1%82%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Кунжутное масло">Кунжутное масло</a></li>
+<li><a href="/wiki/%D0%9B%D1%8C%D0%BD%D1%8F%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Льняное масло">Льняное масло</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Маковое масло">Маковое масло</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D1%81%D1%81%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Макассаровое масло">Макассаровое масло</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Миндальное масло">Миндальное масло</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Ореховое масло">Ореховое масло</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Пальмовое масло">Пальмовое масло</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Подсолнечное масло">Подсолнечное масло</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%B7%D0%B0%D1%80%D0%BE%D0%B4%D1%8B%D1%88%D0%B5%D0%B9_%D0%BF%D1%88%D0%B5%D0%BD%D0%B8%D1%86%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Масло зародышей пшеницы (страница отсутствует)">Масло зародышей пшеницы</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BF%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Рапсовое масло">Рапсовое масло</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D1%80%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BF%D1%88%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Масло расторопши (страница отсутствует)">Масло расторопши</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D1%85_%D0%BE%D1%82%D1%80%D1%83%D0%B1%D0%B5%D0%B9&amp;action=edit&amp;redlink=1" class="new" title="Масло рисовых отрубей (страница отсутствует)">Масло рисовых отрубей</a></li>
+<li><a href="/wiki/%D0%A0%D1%8B%D0%B6%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Рыжиковое масло">Рыжиковое масло</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Соевое масло">Соевое масло</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Тунговое масло">Тунговое масло</a></li>
+<li><a href="/wiki/%D0%A2%D1%8B%D0%BA%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Тыквенное масло">Тыквенное масло</a></li>
+<li><a href="/w/index.php?title=%D0%A4%D0%B8%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Фисташковое масло (страница отсутствует)">Фисташковое масло</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D1%84%D1%83%D0%BD%D0%B4%D1%83%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Масло фундука (страница отсутствует)">Масло фундука</a></li>
+<li><a href="/wiki/%D0%A5%D0%BB%D0%BE%D0%BF%D1%87%D0%B0%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Хлопчатниковое масло">Хлопчатниковое масло</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Из мякоти</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%B0%D0%B2%D0%BE%D0%BA%D0%B0%D0%B4%D0%BE" title="Масло авокадо">Масло авокадо</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Аргановое масло">Аргановое масло</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Кокосовое масло">Кокосовое масло</a></li>
+<li><a href="/w/index.php?title=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE_%D0%BC%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Масло макадамии (страница отсутствует)">Масло макадамии</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D0%BB%D0%B5%D0%BF%D0%B8%D1%85%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Облепиховое масло">Облепиховое масло</a></li>
+<li><a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Оливковое масло">Оливковое масло</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Красное пальмовое масло">Красное пальмовое масло</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D1%84%D0%BB%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE" title="Сафлоровое масло">Сафлоровое масло</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/w/index.php?title=%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B8%D1%80%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Модифицированные жиры (страница отсутствует)">Модифицированные жиры</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B6%D0%B8%D1%80%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Гидрогенизированные жиры (страница отсутствует)">Гидрогенизированные жиры</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Комбинированный жир (страница отсутствует)">Комбинированный жир</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D0%B8%D1%80" title="Кондитерский жир">Кондитерский жир</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80" title="Костный жир">Костный жир</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80" class="mw-redirect" title="Кулинарный жир">Кулинарный жир</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D0%BD" title="Маргарин">Маргарин</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D0%BB%D0%B5%D0%BE%D0%BC%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Олеомаргарин (страница отсутствует)">Олеомаргарин</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D0%BB%D0%B5%D0%B1%D0%BE%D0%BF%D0%B5%D0%BA%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B8%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Хлебопекарный жир (страница отсутствует)">Хлебопекарный жир</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>См. также: <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B0%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BC%D0%B0%D1%81%D0%B5%D0%BB" title="Список растительных масел">Список растительных масел</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%B0" title="Нефтяные масла">Нефтяные масла</a></li>
+<li><a href="/wiki/%D0%AD%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%81%D0%BB%D0%B0" title="Эфирные масла">Эфирные масла</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1358
+Cached time: 20220526090436
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.361 seconds
+Real time usage: 0.441 seconds
+Preprocessor visited node count: 3330/1000000
+Post‐expand include size: 45338/2097152 bytes
+Template argument size: 4215/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1772/5000000 bytes
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 2827084/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  347.341      1 -total
+ 33.59%  116.667      3 Шаблон:БРЭ
+ 32.25%  112.015      3 Шаблон:Публикация
+ 26.57%   92.300      1 Шаблон:Родственные_проекты
+ 15.90%   55.219      2 Шаблон:Другое_значение
+ 13.83%   48.037      1 Шаблон:Жиры_и_масла
+ 12.97%   45.045      1 Шаблон:Навигационная_таблица
+ 10.75%   37.327      1 Шаблон:←
+  9.05%   31.435      1 Шаблон:See_other_values
+  8.68%   30.161      1 Шаблон:ЛП
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:40416-0!canonical and timestamp 20220526090436 and revision id 119373194. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Жиры&amp;oldid=119373194">https://ru.wikipedia.org/w/index.php?title=Жиры&amp;oldid=119373194</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D0%B8%D1%80%D1%8B" title="Категория:Жиры">Жиры</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B8%D0%B3%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%B4%D1%8B" title="Категория:Триглицериды">Триглицериды</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC_Falseredirect" title="Категория:Википедия:Статьи с шаблоном Falseredirect">Википедия:Статьи с шаблоном Falseredirect</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%96%D0%B8%D1%80%D1%8B" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%96%D0%B8%D1%80%D1%8B" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%96%D0%B8%D1%80%D1%8B" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%96%D0%B8%D1%80%D1%8B" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%96%D0%B8%D1%80%D1%8B"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%96%D0%B8%D1%80%D1%8B" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%96%D0%B8%D1%80%D1%8B" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;oldid=119373194" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%96%D0%B8%D1%80%D1%8B&amp;id=119373194&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186319" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%96%D0%B8%D1%80%D1%8B" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%96%D0%B8%D1%80%D1%8B&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<label
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Triglycerides" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Trigliceridos" title="Trigliceridos — арагонский" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A7%D9%84%D8%BA%D9%84%D9%8A%D8%B3%D8%B1%D9%8A%D8%AF" title="ثلاثي الغليسريد — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Triqliseridl%C9%99r" title="Triqliseridlər — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A2%D0%BB%D1%83%D1%88%D1%87%D1%8B" title="Тлушчы — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A2%D0%BB%D1%83%D1%88%D1%87%D1%8B" title="Тлушчы — Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B3%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%B4" title="Триглицерид — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%A1" title="ট্রাইগ্লিসেরাইড — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Triacilglicerol" title="Triacilglicerol — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%AA%D8%B1%DB%8C%DA%AF%D9%84%DB%8C%D8%B3%DB%8E%D8%B1%D8%AF" title="تریگلیسێرد — сорани" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Triacylglycerol" title="Triacylglycerol — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Triglycerid" title="Triglycerid — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Triglyceride" title="Triglyceride — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%B9%CE%B3%CE%BB%CF%85%CE%BA%CE%B5%CF%81%CE%AF%CE%B4%CE%B9%CE%B1" title="Τριγλυκερίδια — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Triglyceride" title="Triglyceride — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Triglicerido" title="Triglicerido — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Triglic%C3%A9rido" title="Triglicérido — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Trigl%C3%BCtseriidid" title="Triglütseriidid — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Triglizerido" title="Triglizerido — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DB%8C%E2%80%8C%DA%AF%D9%84%DB%8C%D8%B3%D8%B1%DB%8C%D8%AF" title="تری‌گلیسرید — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Triglyseridi" title="Triglyseridi — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Triglyc%C3%A9ride" title="Triglycéride — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Tr%C3%ADghlicr%C3%ADd" title="Tríghlicríd — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Triacilglic%C3%A9rido" title="Triacilglicérido — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%A8%D7%99%D7%92%D7%9C%D7%99%D7%A6%D7%A8%D7%99%D7%93" title="טריגליצריד — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%88%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%A1" title="ट्राईग्लीसेराइड — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Trigliceridi" title="Trigliceridi — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Trigliceridek" title="Trigliceridek — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Trigliserida" title="Trigliserida — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/%C3%9Er%C3%ADgl%C3%BDser%C3%AD%C3%B0" title="Þríglýseríð — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Trigliceridi" title="Trigliceridi — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B7%E3%83%AB%E3%82%B0%E3%83%AA%E3%82%BB%E3%83%AD%E3%83%BC%E3%83%AB" title="トリアシルグリセロール — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BB%D0%B0%D1%80" title="Майлар — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%9D%BC%EC%9D%B4%EA%B8%80%EB%A6%AC%EC%84%B8%EB%9D%BC%EC%9D%B4%EB%93%9C" title="트라이글리세라이드 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BB%D0%B0%D1%80" title="Майлар — киргизский" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Trigliceridai" title="Trigliceridai — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B3%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%B4" title="Триглицерид — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Trigliserida" title="Trigliserida — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Triacylglycerol" title="Triacylglycerol — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Triglyserider" title="Triglyserider — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Triacyloglicerole" title="Triacyloglicerole — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Triacilglicerol" title="Triacilglicerol — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Triglicerid%C4%83" title="Trigliceridă — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Triglicerid" title="Triglicerid — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Triglyceride" title="Triglyceride — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Triacylglycerol" title="Triacylglycerol — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Triacilglicerol" title="Triacilglicerol — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Triglicerid" title="Triglicerid — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Triglycerid" title="Triglycerid — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AE%BF%E0%AE%B0%E0%AF%88%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%9A%E0%AE%B0%E0%AF%88%E0%AE%9F%E0%AF%81" title="டிரைகிளிசரைடு — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B2%D2%93%D0%B0%D0%BD" title="Равған — таджикский" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B9%8C" title="ไตรกลีเซอไรด์ — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Trigliserit" title="Trigliserit — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BB%D0%B0%D1%80" title="Майлар — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча/tatarça</span></a></li><li class="interlanguage-link interwiki-tyv mw-list-item"><a href="https://tyv.wikipedia.org/wiki/%D2%AE%D1%81%D1%82%D0%B5%D1%80" title="Үстер — тувинский" lang="tyv" hreflang="tyv" class="interlanguage-link-target"><span>Тыва дыл</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B3%D0%BB%D1%96%D1%86%D0%B5%D1%80%D0%B8%D0%B4%D0%B8" title="Тригліцериди — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Yog%CA%BB" title="Yogʻ — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Triglixerit" title="Triglixerit — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%94%98%E6%B2%B9%E4%B8%89%E9%85%AF" title="甘油三酯 — ву" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%B8%89%E9%85%B8%E7%94%98%E6%B2%B9%E9%85%AF" title="三酸甘油酯 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/I%C3%BB-chi" title="Iû-chi — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186319#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 января 2022 в 10:59.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%96%D0%B8%D1%80%D1%8B&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.361","walltime":"0.441","ppvisitednodes":{"value":3330,"limit":1000000},"postexpandincludesize":{"value":45338,"limit":2097152},"templateargumentsize":{"value":4215,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1772,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  347.341      1 -total"," 33.59%  116.667      3 Шаблон:БРЭ"," 32.25%  112.015      3 Шаблон:Публикация"," 26.57%   92.300      1 Шаблон:Родственные_проекты"," 15.90%   55.219      2 Шаблон:Другое_значение"," 13.83%   48.037      1 Шаблон:Жиры_и_масла"," 12.97%   45.045      1 Шаблон:Навигационная_таблица"," 10.75%   37.327      1 Шаблон:←","  9.05%   31.435      1 Шаблон:See_other_values","  8.68%   30.161      1 Шаблон:ЛП"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":2827084,"limit":52428800}},"cachereport":{"origin":"mw1358","timestamp":"20220526090436","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0416\u0438\u0440\u044b","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%96%D0%B8%D1%80%D1%8B","sameAs":"http:\/\/www.wikidata.org\/entity\/Q186319","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q186319","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-25T14:01:55Z","dateModified":"2022-01-15T10:59:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/64\/Trimyristin-3D-vdW.png","headline":"\u043e\u0440\u0433\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0416\u0438\u0440\u044b","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%96%D0%B8%D1%80%D1%8B","sameAs":"http:\/\/www.wikidata.org\/entity\/Q186319","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q186319","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-25T14:01:55Z","dateModified":"2022-01-15T10:59:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/64\/Trimyristin-3D-vdW.png","headline":"\u043e\u0440\u0433\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1389"});});</script>
+</body>
+</html>

@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Биологическая систематика — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"44c2726f-11b2-4d7e-826b-fc87a379f7dc","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Биологическая_систематика","wgTitle":"Биологическая систематика","wgCurRevisionId":121550763,"wgRevisionId":121550763,"wgArticleId":41237,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN",
+"Википедия:Статьи с шаблоном Falseredirect","Википедия:Нет источников с марта 2014","Википедия:Статьи без источников (не распределённые по типам)","Википедия:Статьи с утверждениями без источников более 14 дней","Статьи со ссылками на Викисклад","Википедия:Статьи с нерабочими ссылками с марта 2017","Википедия:Статьи с нерабочими ссылками","Википедия:Статьи без изображений (указано в Викиданных: P373)","Википедия:Статьи без изображений (не распределённые по типам)","Биологическая систематика"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Биологическая_систематика","wgRelevantArticleId":41237,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":121550763,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q3516404","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.12"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Биологическая систематика — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Биологическая_систематика rootpage-Биологическая_систематика skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Биологическая систематика</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable dabhide">Запрос «<span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F&amp;redirect=no">Биологическая классификация</a></span>»<span style="font-style:normal; font-weight:normal;"><sup><a href="https://www.wikidata.org/wiki/Q11398#sitelinks-wikipedia" class="extiw" title="d:Q11398">[d&#93;</a></sup></span> перенаправляется сюда. На эту тему нужно <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:EditPage/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Служебная:EditPage/Биологическая классификация">создать отдельную статью</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><div class="noresize"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Biological_classification_L_Pengo_vflip_russian.svg" title="&#x424;&#x430;&#x439;&#x43b;:Biological classification L Pengo vflip russian.svg"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Biological_classification_L_Pengo_vflip_russian.svg/170px-Biological_classification_L_Pengo_vflip_russian.svg.png" decoding="async" width="170" height="436" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Biological_classification_L_Pengo_vflip_russian.svg/255px-Biological_classification_L_Pengo_vflip_russian.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Biological_classification_L_Pengo_vflip_russian.svg/340px-Biological_classification_L_Pengo_vflip_russian.svg.png 2x" data-file-width="230" data-file-height="590" usemap="#ImageMap_dcadeabaf7070e94" /></a><map name="ImageMap_dcadeabaf7070e94"><area href="/wiki/%D0%91%D0%B8%D0%BE%D1%82%D0%B0_(%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" shape="rect" coords="74,11,166,42" alt="&#x411;&#x438;&#x43e;&#x442;&#x430;" title="&#x411;&#x438;&#x43e;&#x442;&#x430;" /><area href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,58,166,89" alt="&#x434;&#x43e;&#x43c;&#x435;&#x43d;" title="&#x434;&#x43e;&#x43c;&#x435;&#x43d;" /><area href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,105,166,136" alt="&#x446;&#x430;&#x440;&#x441;&#x442;&#x432;&#x43e;" title="&#x446;&#x430;&#x440;&#x441;&#x442;&#x432;&#x43e;" /><area href="/wiki/%D0%A2%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,152,166,183" alt="&#x442;&#x438;&#x43f;" title="&#x442;&#x438;&#x43f;" /><area href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,198,166,229" alt="&#x43a;&#x43b;&#x430;&#x441;&#x441;" title="&#x43a;&#x43b;&#x430;&#x441;&#x441;" /><area href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,245,166,276" alt="&#x43e;&#x442;&#x440;&#x44f;&#x434;" title="&#x43e;&#x442;&#x440;&#x44f;&#x434;" /><area href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,292,166,323" alt="&#x441;&#x435;&#x43c;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43e;" title="&#x441;&#x435;&#x43c;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43e;" /><area href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" shape="rect" coords="74,339,166,370" alt="&#x440;&#x43e;&#x434;" title="&#x440;&#x43e;&#x434;" /><area href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" shape="rect" coords="74,386,166,417" alt="&#x432;&#x438;&#x434;" title="&#x432;&#x438;&#x434;" /></map></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Biological_classification_L_Pengo_vflip_russian.svg" class="internal" title="&#x423;&#x432;&#x435;&#x43b;&#x438;&#x447;&#x438;&#x442;&#x44c;"></a></div>&#x418;&#x435;&#x440;&#x430;&#x440;&#x445;&#x438;&#x44f; &#x431;&#x438;&#x43e;&#x43b;&#x43e;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x43e;&#x439; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;&#x442;&#x438;&#x43a;&#x438; &#x432;&#x43e;&#x441;&#x44c;&#x43c;&#x438; &#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x43d;&#x44b;&#x445; <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="&#x422;&#x430;&#x43a;&#x441;&#x43e;&#x43d;">&#x442;&#x430;&#x43a;&#x441;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x445;</a> <a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="&#x420;&#x430;&#x43d;&#x433; (&#x431;&#x438;&#x43e;&#x43b;&#x43e;&#x433;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;&#x442;&#x438;&#x43a;&#x430;)">&#x440;&#x430;&#x43d;&#x433;&#x43e;&#x432;</a>.  &#x41f;&#x440;&#x43e;&#x43c;&#x435;&#x436;&#x443;&#x442;&#x43e;&#x447;&#x43d;&#x44b;&#x435; &#x43a;&#x430;&#x442;&#x435;&#x433;&#x43e;&#x440;&#x438;&#x438; &#x43d;&#x435; &#x43f;&#x43e;&#x43a;&#x430;&#x437;&#x430;&#x43d;&#x44b;</div></div></div>
+<div class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Систематика (значения)">Систематика (значения)</a>.</div>
+<p><b>Биологи́ческая система́тика</b>&#160;— научная дисциплина, в задачи которой входит разработка принципов <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Классификация">классификации</a> живых <a href="/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" title="Организм">организмов</a> и практическое приложение этих принципов к построению <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B8%D1%80%D0%B0" title="Система органического мира">системы органического мира</a>. Под классификацией здесь понимается описание и размещение в системе всех современных и вымерших организмов<sup id="cite_ref-_62436c3f82fc0737_1-0" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Цели_и_принципы_систематики"><span class="tocnumber">1</span> <span class="toctext">Цели и принципы систематики</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#История_систематики"><span class="tocnumber">2</span> <span class="toctext">История систематики</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Линней"><span class="tocnumber">2.1</span> <span class="toctext">Линней</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#После_Линнея"><span class="tocnumber">2.2</span> <span class="toctext">После Линнея</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Наименование_и_описание_таксонов"><span class="tocnumber">3</span> <span class="toctext">Наименование и описание таксонов</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Диагностика_таксонов"><span class="tocnumber">4</span> <span class="toctext">Диагностика таксонов</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Иерархия"><span class="tocnumber">5</span> <span class="toctext">Иерархия</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Современные_разработки"><span class="tocnumber">6</span> <span class="toctext">Современные разработки</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Эволюция_систем_классификации"><span class="tocnumber">6.1</span> <span class="toctext">Эволюция систем классификации</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#См._также"><span class="tocnumber">7</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Литература"><span class="tocnumber">9</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A6.D0.B5.D0.BB.D0.B8_.D0.B8_.D0.BF.D1.80.D0.B8.D0.BD.D1.86.D0.B8.D0.BF.D1.8B_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Цели_и_принципы_систематики">Цели и принципы систематики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Цели и принципы систематики»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=1" title="Редактировать раздел «Цели и принципы систематики»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Завершающим этапом работы учёного-систематика, отражающим его представления о некой группе живых организмов, является создание Естественной Системы. Предполагается, что эта система, с одной стороны, лежит в основе природных явлений, с другой стороны, является лишь этапом на пути научного исследования. В соответствии с принципом познавательной неисчерпаемости природы естественная система недостижима<sup id="cite_ref-_d98ef0db4467c981_2-0" class="reference"><a href="#cite_note-_d98ef0db4467c981-2">&#91;2&#93;</a></sup>.
+</p><p><style data-mw-deduplicate="TemplateStyles:r117903712">.mw-parser-output .ts-Начало_цитаты-quote{padding:0.25em 1em}.mw-parser-output .ts-Начало_цитаты-source{margin:1em 0 0 5%}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin:0 -1em -0.25em}body.skin-minerva .mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin-left:0}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-header.ts-oq-header,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding-left:1.052632em;padding-right:1.052632em}</style>
+</p>
+<blockquote class="ts-Начало_цитаты-quote"><p>
+«Углублённое изучение уже известных групп, всё более разъясняя их взаимные соотношения, будет требовать других сопоставлений или, точнее сказать, перестановки членов. Нам кажется, что естественная система всегда будет подвергаться постоянным изменениям, так как каждая попытка может быть выполнена только в связи с состоянием научных знаний своего времени.» <br /><style data-mw-deduplicate="TemplateStyles:r113287791">.mw-parser-output .ts-Конец_цитаты-source{margin:0.357143em 2em 0 0;text-align:right}</style></p><div class="ts-Конец_цитаты-source">— <cite><a href="/wiki/%D0%91%D1%8D%D1%80,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D1%84%D0%BE%D0%BD" title="Бэр, Карл Эрнст фон">К. М. Бэр</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></cite></div></blockquote>
+<p>Основные цели систематики:
+</p>
+<ul><li>наименование (в том числе и описание) <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="Таксон">таксонов</a>,</li>
+<li>диагностика (определение, то есть нахождение места в системе),</li>
+<li>экстраполяция, то есть предсказание признаков объекта, основывающееся на том, что он относится к тому или иному таксону. Например, если на основании строения зубов мы отнесли животное к <a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">отряду</a> <a href="/wiki/%D0%93%D1%80%D1%8B%D0%B7%D1%83%D0%BD%D1%8B" title="Грызуны">грызунов</a>, то можем предполагать, что у него имеется длинная <a href="/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D0%B0%D1%8F_%D0%BA%D0%B8%D1%88%D0%BA%D0%B0" title="Слепая кишка">слепая кишка</a> и стопоходящие <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Конечности">конечности</a>, даже если нам неизвестны эти части тела.</li></ul>
+<p>Систематика всегда предполагает, что:
+</p>
+<ul><li>окружающее нас разнообразие живых организмов имеет определённую внутреннюю структуру,</li>
+<li>эта структура организована иерархически, то есть разные таксоны последовательно подчинены друг другу,</li>
+<li>эта структура познаваема до конца, а значит, возможно построение полной и всеобъемлющей системы органического мира («естественной системы»).</li></ul>
+<p>Эти предположения, лежащие в основе любой таксономической работы, можно назвать <a href="/wiki/%D0%90%D0%BA%D1%81%D0%B8%D0%BE%D0%BC%D0%B0" title="Аксиома">аксиомами</a> систематики<sup id="cite_ref-_62436c3f82fc0737_1-1" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p><p>Современные <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" title="Классификация">классификации</a> живых организмов построены по иерархическому принципу. Различные уровни иерархии (<a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Ранг (биологическая систематика)">ранги</a>) имеют собственные названия (от высших к низшим): <a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">домен</a>, реалм, <a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Царство (биология)">царство</a>, <a href="/wiki/%D0%A2%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тип (биология)">тип</a> или <a href="/wiki/%D0%9E%D1%82%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Отдел (биология)">отдел</a>, <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Класс (биология)">класс</a>, <a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">отряд</a> или <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Порядок (биология)">порядок</a>, <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">семейство</a>, <a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">род</a> и, собственно, <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">вид</a>. Виды состоят уже из отдельных <a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%B9_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC" class="mw-redirect" title="Живой организм">особей</a>.
+</p><p>Принято, что любой конкретный организм должен последовательно принадлежать ко всем семи категориям. В сложных системах часто выделяют дополнительные категории, например, используя для этого приставки <i>над-</i> и <i>под-</i> (надкласс, подтип и&#160;т.&#160;п.). Каждый таксон должен иметь определённый ранг, то есть относиться к какой-либо таксономической категории.
+</p><p>Этот принцип построения системы получил название <i>Линнеевской иерархии</i>, по имени шведского натуралиста <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D0%B9,_%D0%9A%D0%B0%D1%80%D0%BB" title="Линней, Карл">Карла Линнея</a>, труды которого были положены в основу традиции современной научной систематики.
+</p><p>Сравнительно новым является понятие <i>надцарства</i>, или биологического <a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">домена</a>. Оно было предложено в 1990 году <a href="/wiki/%D0%92%D1%91%D0%B7%D0%B5,_%D0%9A%D0%B0%D1%80%D0%BB" title="Вёзе, Карл">Карлом Вёзе</a> и ввело разделение всех биологических <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="Таксон">таксонов</a> на три домена:
+</p>
+<ul><li><a href="/wiki/%D0%AD%D1%83%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Эукариоты">эукариоты</a>&#160;— домен, объединивший все организмы, клетки которых содержат ядро.</li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" title="Бактерии">бактерии</a>&#160;— домен прокариотических микроорганизмов.</li>
+<li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B8" title="Археи">археи</a>&#160;— домен одноклеточных микроорганизмов, не имеющие ядра, а также каких-либо мембранных органелл.</li></ul>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="История_систематики">История систематики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «История систематики»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=2" title="Редактировать раздел «История систематики»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Первые известные нам попытки классифицировать формы жизни предприняли в античном мире <a href="/w/index.php?title=%D0%93%D0%B5%D0%BF%D1%82%D0%B0%D0%B4%D0%BE%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Гептадор (страница отсутствует)">Гептадор</a>, а затем <a href="/wiki/%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%82%D0%B5%D0%BB%D1%8C" title="Аристотель">Аристотель</a> и его ученик <a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%84%D1%80%D0%B0%D1%81%D1%82" title="Теофраст">Теофраст</a>, которые объединяли всё живое в соответствии со своими философскими взглядами. Они дали довольно подробную систему живых организмов. Растения были разделены ими на деревья и травы, а животные&#160;— на группы с «горячей» и «холодной» кровью. Последний признак имел большое значение для выявления собственной, внутренней упорядоченности живой природы. Так родилась естественная система, отражающая упорядоченность, имеющуюся в природе<sup id="cite_ref-_62436c3f82fc0737_1-2" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p><p>В <a href="/wiki/1172_%D0%B3%D0%BE%D0%B4" title="1172 год">1172 году</a> арабский философ <a href="/wiki/%D0%90%D0%B2%D0%B5%D1%80%D1%80%D0%BE%D1%8D%D1%81" class="mw-redirect" title="Аверроэс">Аверроэс</a> сделал сокращённый перевод трудов Аристотеля на <a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Арабский язык">арабский язык</a>. Его собственные комментарии были утеряны, но сам перевод дошёл до наших дней на <a href="/wiki/%D0%9B%D0%B0%D1%82%D1%8B%D0%BD%D1%8C" class="mw-redirect" title="Латынь">латыни</a>.
+</p><p>Большой вклад сделал швейцарский профессор <a href="/wiki/%D0%93%D0%B5%D1%81%D0%BD%D0%B5%D1%80,_%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4" title="Геснер, Конрад">Конрад Геснер</a> (1516—1565).
+</p><p><a href="/wiki/%D0%AD%D0%BF%D0%BE%D1%85%D0%B0_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%85_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B9" class="mw-redirect" title="Эпоха великих открытий">Эпоха великих открытий</a> позволила учёным существенно расширить знания о живой природе. В конце <a href="/wiki/XVI_%D0%B2%D0%B5%D0%BA" title="XVI век">XVI</a>&#160;— начале <a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII веков</a> начинается кропотливое изучение живого мира, вначале направленное на хорошо знакомые типы, постепенно расширившееся, пока, наконец, не сформировался достаточный объём знаний, составивший основу научной классификации. Использование этих знаний для классификации форм жизни стало долгом для многих известных медиков, таких как <a href="/wiki/%D0%A4%D0%B0%D0%B1%D1%80%D0%B8%D1%86%D0%B8%D0%B9,_%D0%98%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BC" title="Фабриций, Иероним">Иероним Фабриций</a> (1537—1619), последователь <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%86%D0%B5%D0%BB%D1%8C%D1%81" title="Парацельс">Парацельса</a> <span data-interwiki-lang="en" data-interwiki-article="Peder Soerensen"><a href="/w/index.php?title=%D0%A1%D1%91%D1%80%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%9F%D0%B5%D0%B4%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Сёренсен, Педер (страница отсутствует)">Педер Сёренсен</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Peder_Soerensen" class="extiw" title="en:Peder Soerensen"><span title="Peder Soerensen — версия статьи «Сёренсен, Педер» на английском языке">[en]</span></a></sup></span> (1542—1602, известен также как
+Петрус Северинус), естествоиспытатель <a href="/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B5%D0%B9,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC" title="Гарвей, Уильям">Уильям Гарвей</a> (1578—1657), английский анатом <a href="/wiki/%D0%A2%D0%B0%D0%B9%D1%81%D0%BE%D0%BD,_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Тайсон, Эдвард">Эдвард Тайсон</a> (1649—1708). Свой вклад сделали <a href="/wiki/%D0%AD%D0%BD%D1%82%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Энтомология">энтомологи</a> и первые микроскописты <a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%B3%D0%B8,_%D0%9C%D0%B0%D1%80%D1%87%D0%B5%D0%BB%D0%BB%D0%BE" title="Мальпиги, Марчелло">Марчелло Мальпиги</a> (1628—1694), <a href="/wiki/%D0%A1%D0%B2%D0%B0%D0%BC%D0%BC%D0%B5%D1%80%D0%B4%D0%B0%D0%BC,_%D0%AF%D0%BD" title="Сваммердам, Ян">Ян Сваммердам</a> (1637—1680) и <a href="/wiki/%D0%93%D1%83%D0%BA,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Гук, Роберт">Роберт Гук</a> (1635—1702).
+</p><p>Английский натуралист <a href="/wiki/%D0%A0%D1%8D%D0%B9,_%D0%94%D0%B6%D0%BE%D0%BD_(%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82)" class="mw-redirect" title="Рэй, Джон (натуралист)">Джон Рей</a> (1627—1705) опубликовал важные работы по растениям, животным и натуральной теологии. Подход, использованный им при классификации растений в его «Historia Plantarum», стал важным шагом по направлению к современной <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Таксономия">таксономии</a>. Рей отверг <a href="/wiki/%D0%94%D0%B8%D1%85%D0%BE%D1%82%D0%BE%D0%BC%D0%B8%D1%8F" title="Дихотомия">дихотомическое деление</a>, которое использовалось для классификации видов и типов, предложив систематизировать их по схожести и отличиям, выявленным в процессе изучения.
+</p>
+<h3><span id=".D0.9B.D0.B8.D0.BD.D0.BD.D0.B5.D0.B9"></span><span class="mw-headline" id="Линней">Линней</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Линней»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=3" title="Редактировать раздел «Линней»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r117982203">.mw-parser-output .ts-Врезка{padding:.5em 1em;overflow:hidden;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Врезка-centered{margin-left:auto;margin-right:auto}.mw-parser-output .ts-Врезка-заголовок{padding-bottom:.2em;border-bottom:1px solid #aaa;font-size:110%;font-weight:bold}.mw-parser-output .ts-Врезка-содержание{margin:.4em 0}.mw-parser-output .ts-Врезка-подпись{margin-top:.5em;line-height:150%;text-align:right}.mw-parser-output .ts-Врезка:not(.ts-Врезка-resized) .ts-Врезка-подпись{font-size:95%}.mw-parser-output .ts-Врезка-оригинал-frame{padding-left:0;padding-right:0}.mw-parser-output .ts-Врезка-resized .ts-Врезка-оригинал-frame{font-size:100%}.mw-parser-output .ts-Врезка-оригинал-header{color:#888}.mw-parser-output .ts-Врезка-оригинал-header .ref-info{font-size:100%}@media(max-width:719px){.mw-parser-output .ts-Врезка{width:100%!important;max-width:100%!important;float:none!important;margin-left:0!important;margin-right:0!important;box-sizing:border-box}}</style><div class="ts-Врезка tright" style="width:220px;">
+<div class="ts-Врезка-содержание">
+<p>Порядок есть подразделение классов, вводимое для того, чтобы не разграничивать роды в числе большем, чем их легко может воспринять разум. <br />Карл Линней
+</p>
+</div>
+</div>
+<p>К началу <a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII века</a> наукой был накоплен большой объём биологических знаний, однако с точки зрения структурирования этих знаний биология существенным образом отставала от других естественных наук, активно развивавшихся в результате научной революции. Определяющим вкладом в устранении этого отставания стала деятельность <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">шведского</a> естествоиспытателя <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D0%B9,_%D0%9A%D0%B0%D1%80%D0%BB" title="Линней, Карл">Карла Линнея</a> (1707—1778), который определил и реализовал на практике основные положения научной систематики, что позволило <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Биология">биологии</a> в достаточно короткие сроки стать полноценной наукой<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>.
+</p><p>Главным в систематике, по мнению Линнея, является построение естественной системы, которая, в отличие от каталожного списка, «сама по себе указывает даже на пропущенные растения». Он был автором одной из популярных <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D1%8F" title="Система Линнея">искусственных систем растений</a>, в которой <a href="/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Цветковые растения">цветковые растения</a> распределялись по классам в зависимости от числа <a href="/wiki/%D0%A2%D1%8B%D1%87%D0%B8%D0%BD%D0%BA%D0%B0" title="Тычинка">тычинок</a> и <a href="/wiki/%D0%9F%D0%B5%D1%81%D1%82%D0%B8%D0%BA" title="Пестик">пестиков</a> в <a href="/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%BA" title="Цветок">цветке</a><sup id="cite_ref-_62436c3f82fc0737_1-3" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>. Работа Линнея «<a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%8B" class="mw-redirect" title="Система Природы">Система Природы</a>» (<i>Systema Naturae</i>, 1735), в которой он разделил природный мир на три <a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Царство (биология)">царства</a>&#160;— минеральное, растительное и животное, была переиздана по меньшей мере тринадцать раз ещё при его жизни.
+</p><p>Линней использовал в классификации четыре уровня (<a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Ранг (биология)">ранга</a>): <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Класс (биология)">классы</a>, <a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">отряды</a>, <a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">роды</a> и <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">виды</a>. Введённый Линнеем метод формирования научного названия для каждого из видов используется до сих пор (применявшиеся ранее длинные названия, состоящие из большого количества слов, давали описание видов, но не были строго формализованы). Использование латинского названия из двух слов&#160;— название рода, затем <a href="/wiki/%D0%92%D0%B8%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9_%D1%8D%D0%BF%D0%B8%D1%82%D0%B5%D1%82" class="mw-redirect" title="Видовой эпитет">видовой эпитет</a>&#160;— позволило отделить номенклатуру от <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Таксономия">таксономии</a>. Данное соглашение о названиях видов получило наименование «<a href="/wiki/%D0%91%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0" class="mw-redirect" title="Бинарная номенклатура">бинарная номенклатура</a>».
+</p>
+<h3><span id=".D0.9F.D0.BE.D1.81.D0.BB.D0.B5_.D0.9B.D0.B8.D0.BD.D0.BD.D0.B5.D1.8F"></span><span class="mw-headline" id="После_Линнея">После Линнея</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «После Линнея»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=4" title="Редактировать раздел «После Линнея»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В конце XVIII века <a href="/wiki/%D0%96%D1%8E%D1%81%D1%81%D1%8C%D1%91,_%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%9B%D0%BE%D1%80%D0%B0%D0%BD_%D0%B4%D0%B5" title="Жюссьё, Антуан Лоран де">Антуан Жюссьё</a> ввёл категорию <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">семейства</a>, а в начале XIX века <a href="/wiki/%D0%9A%D1%8E%D0%B2%D1%8C%D0%B5,_%D0%96%D0%BE%D1%80%D0%B6_%D0%9B%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B4" title="Кювье, Жорж Леопольд">Жорж Кювье</a> сформулировал понятие о <a href="/wiki/%D0%A2%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тип (биология)">типе</a> животных. Вслед за этим категория, аналогичная типу,&#160;— <a href="/wiki/%D0%9E%D1%82%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Отдел (биология)">отдел</a>&#160;— была введена для растений.
+</p><p><a href="/wiki/%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" class="mw-redirect" title="Дарвин, Чарлз Роберт">Чарлз Дарвин</a> предложил понимать естественную систему как результат исторического развития живой природы. Он писал в книге «<a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2" title="Происхождение видов">Происхождение видов</a>»:
+</p>
+<blockquote><p>…общность происхождения &lt;…&gt; и есть та связь между организмами, которая раскрывается перед нами при помощи наших классификаций.</p></blockquote><p> Это высказывание положило начало новой эпохе в истории систематики, эпохе <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Филогенетика">филогенетической</a> (то есть основанной на родстве организмов) систематики<sup id="cite_ref-_62436c3f82fc0737_1-4" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p><p>Дарвин предположил, что наблюдаемая таксономическая структура, в частности, <a href="/wiki/%D0%98%D0%B5%D1%80%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Иерархия">иерархия</a> таксонов, связана с их происхождением друг от друга. Так возникла эволюционная систематика, ставящая во главу угла выяснение <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D0%B7" title="Филогенез">происхождения организмов</a>, для чего используются как морфологические, так и <a href="/wiki/%D0%AD%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Эмбриология">эмбриологические</a> и <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Палеонтология">палеонтологические</a> методы.
+</p><p>Новый шаг в этом направлении был сделан последователем Дарвина, немецким биологом <a href="/wiki/%D0%93%D0%B5%D0%BA%D0%BA%D0%B5%D0%BB%D1%8C,_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85" title="Геккель, Эрнст Генрих">Эрнстом Геккелем</a>. Из <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Генеалогия">генеалогии</a> Геккель заимствовал понятие «<a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D1%80%D0%B5%D0%B2%D0%BE" title="Генеалогическое древо">генеалогическое (родословное) древо</a>». Родословное древо Геккеля включало все известные к тому времени крупные группы живых организмов, а также некоторые неизвестные (гипотетические) группы, которые играли роль «неизвестного предка» и помещались в развилках ветвей или в основании этого древа. Такое чрезвычайно наглядное изображение очень помогло <a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%81%D1%82" class="mw-redirect" title="Эволюционист">эволюционистам</a>, и с тех пор&#160;— с конца XIX века&#160;— <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE" title="Филогенетическое дерево">филогенетическая систематика</a> Дарвина—Геккеля господствует в биологической науке. Одним из первых следствий победы филогенетики стало изменение последовательности в преподавании курсов ботаники и зоологии в школах и университетах: если раньше изложение начинали с <a href="/wiki/%D0%9C%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5" title="Млекопитающие">млекопитающих</a> (как в «Жизни животных» <a href="/wiki/%D0%91%D1%80%D0%B5%D0%BC,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4" title="Брем, Альфред">А. Брема</a>), а затем спускались «вниз» по «лестнице природы», то теперь изложение начинают с бактерий или одноклеточных животных<sup id="cite_ref-_62436c3f82fc0737_1-5" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p><p>Геккель очень хотел<span style="background: #ffeaea; color: #444444;"></span><sup class="noprint" style="white-space: nowrap">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники"><span title="не указан источник на утверждение (29 марта 2014)" style="">источник не указан 2980 дней</span></a></i>&#93;</sup>, чтобы на каждой развилке дерева можно было разместить какой-нибудь организм. Такой организм и был бы родительской (предковой) формой для всей ветки. Но если такие организмы и находили, впоследствии признавали их не предками, а «боковыми ветвями» эволюции. Так произошло, например, с <a href="/wiki/%D0%A2%D1%83%D0%BF%D0%B0%D0%B9%D1%8F" class="mw-redirect" title="Тупайя">тупайями</a>, <a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D1%81" title="Археоптерикс">археоптериксом</a>, <a href="/wiki/%D0%9B%D0%B0%D0%BD%D1%86%D0%B5%D1%82%D0%BD%D0%B8%D0%BA" class="mw-redirect" title="Ланцетник">ланцетником</a>, <a href="/wiki/%D0%A2%D1%80%D0%B8%D1%85%D0%BE%D0%BF%D0%BB%D0%B0%D0%BA%D1%81" class="mw-redirect" title="Трихоплакс">трихоплаксом</a> и многими другими организмами. Геккель мечтал найти организм, который можно было бы поместить в самое основание дерева, и даже однажды сообщил, что он найден. Организм представлял собой комок <a href="/wiki/%D0%A1%D0%BB%D0%B8%D0%B7%D1%8C" title="Слизь">слизи</a> и получил название <a href="/w/index.php?title=%D0%91%D0%B0%D1%82%D0%B8%D0%B4%D0%B8%D0%B9&amp;action=edit&amp;redlink=1" class="new" title="Батидий (страница отсутствует)">батидий</a>, но вскоре оказалось, что это&#160;— продукт <a href="/wiki/%D0%94%D0%B5%D0%B3%D1%80%D0%B0%D0%B4%D0%B0%D1%86%D0%B8%D1%8F" title="Деградация">деградации</a> морских животных. Такое существо (по-английски оно называется <i>last common ancestor</i>, сокращённо <i>LCA</i>) не найдено до сих пор.
+</p>
+<h2><span id=".D0.9D.D0.B0.D0.B8.D0.BC.D0.B5.D0.BD.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.BE.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5_.D1.82.D0.B0.D0.BA.D1.81.D0.BE.D0.BD.D0.BE.D0.B2"></span><span class="mw-headline" id="Наименование_и_описание_таксонов">Наименование и описание таксонов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Наименование и описание таксонов»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=5" title="Редактировать раздел «Наименование и описание таксонов»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>К началу XX века в систематике оформилось семь основных таксономических категорий:
+</p>
+<ul><li><i>царство</i>&#160;— regnum</li>
+<li><i>тип</i>&#160;— phylum (у растений <i>отдел</i>&#160;— divisio)</li>
+<li><i>класс</i>&#160;— classis</li>
+<li><i>отряд</i> (у растений <i>порядок</i>)&#160;— ordo</li>
+<li><i>семейство</i>&#160;— familia</li>
+<li><i>род</i>&#160;— genus</li>
+<li><i>вид</i>&#160;— species</li></ul>
+<p>Любое растение или животное должно последовательно принадлежать ко всем семи категориям. Часто систематики выделяют дополнительные категории, используя для этого приставки <i>под-</i> (sub-), <i>инфра-</i> (infra-) и <i>над-</i> (super-), например: <i>подтип</i>, <i>инфракласс</i>, <i>надкласс</i>. Такие категории обязательными не являются, то есть при систематизации объекта их можно пропустить. Кроме того, часто выделяются и другие категории: <i><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Раздел (биология)">раздел</a></i> (divisio) между <i>подцарством</i> и <i>надтипом</i> у животных, <i><a href="/w/index.php?title=%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Когорта (биология) (страница отсутствует)">когорта</a></i> (cohors) между <i>подклассом</i> и <i>надпорядком</i>, <i><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Триба (биология)">триба</a></i> (tribus) между <i>подсемейством</i> и <i>родом</i>, <i><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Секция (ботаника)">секция</a></i> (sectio) между <i>подродом</i> и <i>видом</i>, и так далее. Часто такие категории используются лишь в систематике каких-то конкретных таксонов (например, насекомых). Обычно названия таксонов формируются с помощью стандартных суффиксов.
+</p>
+<table class="wikitable">
+<caption>Полная иерархия рангов с суффиксами или обозначениями
+</caption>
+<tbody><tr>
+<th>Наименование на русском языке
+</th>
+<th>Международное наименование
+</th>
+<th><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</th>
+<th><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</th>
+<th><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B" title="Грибы">Грибы</a>
+</th>
+<th><a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" title="Бактерии">Бактерии</a>
+</th>
+<th><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B8" title="Археи">Археи</a>
+</th></tr>
+<tr>
+<td><b><a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">отряд</a></b><sup id="cite_ref-zoo_5-0" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>/<b><a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">порядок</a></b>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q36602" class="extiw" title="d:Q36602">ordo</a>
+</td>
+<td><i>-iformes, -ida</i><sup id="cite_ref-unofficial_6-0" class="reference"><a href="#cite_note-unofficial-6">&#91;прим. 2&#93;</a></sup>
+</td>
+<td align="center" colspan="4"><i>-ales</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%82%D1%80%D1%8F%D0%B4" class="mw-redirect" title="Подотряд">подотряд</a><sup id="cite_ref-zoo_5-1" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>/<a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA" class="mw-redirect" title="Подпорядок">подпорядок</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q5867959" class="extiw" title="d:Q5867959">subordo</a>
+</td>
+<td>+
+</td>
+<td align="center" colspan="3"><i>-ineae</i>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%BE%D1%82%D1%80%D1%8F%D0%B4" class="mw-redirect" title="Инфраотряд">инфраотряд</a><sup id="cite_ref-zoo_5-2" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>/<a href="/w/index.php?title=%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Инфрапорядок (страница отсутствует)">инфрапорядок</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q2889003" class="extiw" title="d:Q2889003">infraordo</a>
+</td>
+<td>+
+</td>
+<td align="center" colspan="3"><i>-aria</i>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B2%D0%BE%D1%82%D1%80%D1%8F%D0%B4" class="mw-redirect" title="Парвотряд">парвотряд</a><sup id="cite_ref-zoo_5-3" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup> (микротряд)
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q6311258" class="extiw" title="d:Q6311258">parvordo</a>
+</td>
+<td>+
+</td>
+<td align="center" colspan="4">-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Секция (зоология) (страница отсутствует)">секция</a><sup id="cite_ref-zoo_5-4" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q10861426" class="extiw" title="d:Q10861426">sectio</a>
+</td>
+<td>+
+</td>
+<td align="center" colspan="4">-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Подсекция (зоология) (страница отсутствует)">подсекция</a><sup id="cite_ref-zoo_5-5" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q10861375" class="extiw" title="d:Q10861375">subsectio</a>
+</td>
+<td>+
+</td>
+<td align="center" colspan="4">-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%93%D0%B8%D0%B3%D0%B0%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Гигасемейство (страница отсутствует)">гига-</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;5&#93;</a></sup>/<a href="/w/index.php?title=%D0%9C%D0%B5%D0%B3%D0%B0%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Мегасемейство (страница отсутствует)">мега-</a>/<a href="/w/index.php?title=%D0%93%D1%80%D0%B0%D0%BD%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Грандсемейство (страница отсутствует)">гранд-</a>/<a href="/w/index.php?title=%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Гиперсемейство (страница отсутствует)">гиперсемейство</a><sup id="cite_ref-zoo_5-6" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>
+</td>
+<td>?
+</td>
+<td>+
+</td>
+<td align="center" colspan="4">-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Надсемейство">надсемейство</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q2136103" class="extiw" title="d:Q2136103">suprafamilia</a>
+</td>
+<td><i>-oidea</i>
+</td>
+<td align="center" colspan="3"><i>-acea</i>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%AD%D0%BF%D0%B8%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Эписемейство (страница отсутствует)">эписемейство</a><sup id="cite_ref-zoo_5-7" class="reference"><a href="#cite_note-zoo-5">&#91;прим. 1&#93;</a></sup>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q10296147" class="extiw" title="d:Q10296147">epifamilia</a>
+</td>
+<td><i>-oidae</i><sup id="cite_ref-unofficial_6-1" class="reference"><a href="#cite_note-unofficial-6">&#91;прим. 2&#93;</a></sup>
+</td>
+<td align="center" colspan="4">-
+</td></tr>
+<tr>
+<td><b><a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">семейство</a></b>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q35409" class="extiw" title="d:Q35409">familia</a>
+</td>
+<td><i>-idae</i>
+</td>
+<td align="center" colspan="4"><i>-aceae</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Подсемейство">подсемейство</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q2455704" class="extiw" title="d:Q2455704">subfamilia</a>
+</td>
+<td><i>-inae</i>
+</td>
+<td align="center" colspan="3"><i>-oideae</i>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Инфрасемейство (страница отсутствует)">инфрасемейство</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q5481039" class="extiw" title="d:Q5481039">infrafamilia</a>
+</td>
+<td><i>-odd</i><sup id="cite_ref-unofficial_6-2" class="reference"><a href="#cite_note-unofficial-6">&#91;прим. 2&#93;</a></sup>
+</td>
+<td align="center" colspan="3">+
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%82%D1%80%D0%B8%D0%B1%D0%B0" class="mw-redirect" title="Надтриба">надтриба</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q14817220" class="extiw" title="d:Q14817220">supratribus</a>
+</td>
+<td>+
+</td>
+<td align="center" colspan="3">+
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Триба (биология)">триба</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q227936" class="extiw" title="d:Q227936">tribus</a>
+</td>
+<td><i>-ini</i>
+</td>
+<td align="center" colspan="3"><i>-eae</i>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%82%D1%80%D0%B8%D0%B1%D0%B0" class="mw-redirect" title="Подтриба">подтриба</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q6307846" class="extiw" title="d:Q6307846">subtribus</a>
+</td>
+<td><i>-ina</i>
+</td>
+<td align="center" colspan="3"><i>-inae</i>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Инфратриба (страница отсутствует)">инфратриба</a>
+</td>
+<td>infratribus
+</td>
+<td><i>-ad</i><sup id="cite_ref-unofficial_6-3" class="reference"><a href="#cite_note-unofficial-6">&#91;прим. 2&#93;</a></sup>
+</td>
+<td align="center" colspan="3">+
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b><a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">род</a></b>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q34740" class="extiw" title="d:Q34740">genus</a>
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>+
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B4" class="mw-redirect" title="Подрод">подрод</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q3238261" class="extiw" title="d:Q3238261">subgenus</a>
+</td>
+<td>-
+</td>
+<td><i>subgen., subg.</i>
+</td>
+<td>?
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Надсекция (ботаника) (страница отсутствует)">надсекция</a>
+</td>
+<td>supersectio
+</td>
+<td>-
+</td>
+<td><i>supersect.</i>
+</td>
+<td>?
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Секция (ботаника)">секция</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/q3181348" class="extiw" title="d:q3181348">sectio</a>
+</td>
+<td>-
+</td>
+<td><i>sect.</i>
+</td>
+<td>?
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Подсекция (ботаника)">подсекция</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q5998839" class="extiw" title="d:Q5998839">subsectio</a>
+</td>
+<td>-
+</td>
+<td><i>subsect.</i>
+</td>
+<td>?
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D1%8F%D0%B4_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Ряд (ботаника)">ряд (серия)</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q3025161" class="extiw" title="d:Q3025161">series</a>
+</td>
+<td>-
+</td>
+<td><i>ser.</i>
+</td>
+<td>?
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D1%8F%D0%B4_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Подряд (ботаника)">подряд (подсерия)</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q13198444" class="extiw" title="d:Q13198444">subseries</a>
+</td>
+<td>-
+</td>
+<td><i>subser.</i>
+</td>
+<td>?
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%B2%D0%B8%D0%B4" class="mw-redirect" title="Надвид">надвид</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q3845115" class="extiw" title="d:Q3845115">supraspecies</a>
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>?
+</td>
+<td>?
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><b><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">вид</a></b>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q7432" class="extiw" title="d:Q7432">species</a>
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>+
+</td>
+<td>+
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B4" title="Подвид">подвид</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/q68947" class="extiw" title="d:q68947">subspecies</a>
+</td>
+<td><i>subsp.</i> / <i>ssp.</i>
+</td>
+<td><i>subsp.</i> / <i>ssp.</i>
+</td>
+<td><i>subsp.</i> (по крайней мере, для дрожжей)
+</td>
+<td>-
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="в ботанике"><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="mw-redirect" title="Разновидность">разновидность</a></span>/<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"/><span class="ts-comment-commentedText" title="в зоологии и бактериологии">вариетет</span>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q767728" class="extiw" title="d:Q767728">varietas</a>
+</td>
+<td><i>var.</i><sup id="cite_ref-subsp_9-0" class="reference"><a href="#cite_note-subsp-9">&#91;прим. 3&#93;</a></sup>
+</td>
+<td><i>var.</i>
+</td>
+<td><i>var.</i>
+</td>
+<td><i>var.</i><sup id="cite_ref-subsp_9-1" class="reference"><a href="#cite_note-subsp-9">&#91;прим. 3&#93;</a></sup>
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="mw-redirect" title="Подразновидность">подразновидность</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q630771" class="extiw" title="d:Q630771">subvarietas</a>
+</td>
+<td>-
+</td>
+<td><i>subvar.</i>
+</td>
+<td>?
+</td>
+<td>?
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Форма (ботаника)">форма</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q279749" class="extiw" title="d:Q279749">forma</a>
+</td>
+<td>- (<a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Полиморфизм (биология)">морфа</a>/<a href="https://www.wikidata.org/wiki/Q5469884" class="extiw" title="d:Q5469884">форма</a>?)
+</td>
+<td><i>f.</i>
+</td>
+<td>?
+</td>
+<td>?
+</td>
+<td>-
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%84%D0%BE%D1%80%D0%BC%D0%B0" class="mw-redirect" title="Подформа">подформа</a>
+</td>
+<td><a href="https://www.wikidata.org/wiki/Q13202655" class="extiw" title="d:Q13202655">subforma</a>
+</td>
+<td>-
+</td>
+<td><i>subf.</i>
+</td>
+<td>?
+</td>
+<td>?
+</td>
+<td>-
+</td></tr></tbody></table>
+<p><i>Примечания</i>:
+</p>
+<ul><li>Жирным отмечены основные ранги. Плюсом отмечено, если таксон употребляется в классификации данного царства, но обозначения определённого нет.</li>
+<li>В отряде <a href="/wiki/%D0%A7%D0%B5%D1%88%D1%83%D0%B5%D0%BA%D1%80%D1%8B%D0%BB%D1%8B%D0%B5" title="Чешуекрылые">Чешуекрылые</a> выделяют несколько дополнительных промежуточных между подотрядом и надсемейством таксонов (например, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">series</span>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">group</span>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">division</span>). См., например, таксоны <a href="/wiki/Monotrysia" class="mw-redirect" title="Monotrysia">Monotrysia</a> и <span data-interwiki-lang="en" data-interwiki-article="Microlepidoptera"><a href="/w/index.php?title=Microlepidoptera&amp;action=edit&amp;redlink=1" class="new" title="Microlepidoptera (страница отсутствует)">Microlepidoptera</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Microlepidoptera" class="extiw" title="en:Microlepidoptera"><span title="Microlepidoptera — версия статьи «Microlepidoptera» на английском языке">[en]</span></a></sup></span>.</li></ul>
+<p>Чтобы избежать <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC_(%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Синоним (таксономия)">синонимии</a> (то есть разных названий одного и того же таксона) и <a href="/wiki/%D0%9E%D0%BC%D0%BE%D0%BD%D0%B8%D0%BC_(%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Омоним (таксономия)">омонимии</a> (то есть одного названия для разных таксонов), в настоящее время номенклатура регулируется <a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D1%8B_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D1%8B" title="Кодексы биологической номенклатуры">номенклатурными кодексами</a>, позволяющими деление на уровни (см. <a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Ранг (биологическая систематика)">Ранг (биологическая систематика)</a>),— отдельно для растений, животных и микроорганизмов. Во всех номенклатурных кодексах используются три основные принципа номенклатуры: приоритета, действительного обнародования и <a href="/wiki/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D1%82%D0%B8%D0%BF" title="Номенклатурный тип">номенклатурного типа</a>. Кроме того, названия всех таксонов должны даваться <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">по-латыни</a> (от латинских и <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">греческих</a> <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Корень (лингвистика)">корней</a> либо от <a href="/wiki/%D0%9B%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Личное имя">личных имён</a> или народных названий), а название вида должно быть бинарным, то есть состоять из названия рода и видового эпитета. Например, латинское название <a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C" title="Картофель">картофеля</a>&#160;— <span style="font-style:italic;" lang="LA"><a href="/wiki/Solanum_tuberosum" class="mw-redirect" title="Solanum tuberosum">Solanum tuberosum</a></span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/L." class="mw-redirect" title="L.">L.</a></span> (последнее слово обозначает автора названия&#160;— в данном случае это Карл Линней; в зоологии часто ставят ещё и год действительного обнародования).
+</p><p>Каждый таксон обязательно должен иметь ранг, то есть относиться к какой-либо из перечисленных категорий. Таким образом, ранг&#160;— это мера соответствия таксонов друг другу; например, семейство <a href="/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%BD%D1%8B%D0%B5" title="Капустные">Капустные</a> и семейство <a href="/wiki/%D0%9A%D0%BE%D1%88%D0%B0%D1%87%D1%8C%D0%B8" title="Кошачьи">Кошачьи</a>&#160;— сопоставимые категории. Нет, однако, общепринятого способа вычисления ранга, и поэтому разные систематики выделяют ранги по-разному<sup id="cite_ref-_62436c3f82fc0737_1-6" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.94.D0.B8.D0.B0.D0.B3.D0.BD.D0.BE.D1.81.D1.82.D0.B8.D0.BA.D0.B0_.D1.82.D0.B0.D0.BA.D1.81.D0.BE.D0.BD.D0.BE.D0.B2"></span><span class="mw-headline" id="Диагностика_таксонов">Диагностика таксонов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Диагностика таксонов»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=6" title="Редактировать раздел «Диагностика таксонов»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Под диагностикой понимают прежде всего составление таблиц для определения организмов (<a href="/wiki/%D0%9A%D0%BB%D1%8E%D1%87_%D0%B4%D0%BB%D1%8F_%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Ключ для определения">определительных ключей</a>). Со времён <a href="/wiki/%D0%9B%D0%B0%D0%BC%D0%B0%D1%80%D0%BA,_%D0%96%D0%B0%D0%BD_%D0%91%D0%B0%D1%82%D0%B8%D1%81%D1%82" title="Ламарк, Жан Батист">Ж.&#160;Б.&#160;Ламарка</a> наибольшее распространение получили <a href="/wiki/%D0%94%D0%B8%D1%85%D0%BE%D1%82%D0%BE%D0%BC%D0%B8%D1%8F" title="Дихотомия">дихотомические</a> ключи, в которых каждый пункт (ступень) разделён на <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%B5%D0%B7%D0%B0" title="Антитеза">тезу и антитезу</a>, снабжённые указаниями о том, к какой ступени нужно перейти дальше. Сейчас почти вся флора и фауна Земного шара охвачена определительными ключами.
+</p><p>В практической работе биолог-систематик руководствуется несколькими основными принципами и приёмами. Во-первых, классификация должна быть разбиением, то есть никакой таксон не может относиться сразу к двум группам одинакового ранга, и наоборот, каждый таксон должен относиться к какому-либо надтаксону (не должно быть неклассифицированного «остатка»). Во-вторых, классификация должна производиться по одному основанию, то есть признаки, используемые для классификации, должны быть альтернативными (то есть взаимоисключающими: нельзя делить на «растения с цветками» и «древесные растения»). В-третьих, классификация должна производиться по значимым признакам (например, нельзя использовать признаки роста и веса). В-четвертых, классификация должна проводиться по максимальному числу признаков (взятых из самых различных областей биологии&#160;— от <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Морфология растений">морфологии</a> до <a href="/wiki/%D0%91%D0%B8%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F" title="Биохимия">биохимии</a>). Начинают классификацию с определения границ исходного таксона, затем выделяют элементарные таксоны (например, виды), подлежащие классификации. На следующем этапе происходит группировка таксонов. Иногда эту процедуру приходится повторять, пока не будет достигнут приемлемый результат. Разные направления систематики различаются прежде всего методами группировки<sup id="cite_ref-_62436c3f82fc0737_1-7" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span id=".D0.98.D0.B5.D1.80.D0.B0.D1.80.D1.85.D0.B8.D1.8F"></span><span class="mw-headline" id="Иерархия">Иерархия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Иерархия»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=7" title="Редактировать раздел «Иерархия»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li><a href="/wiki/%D0%91%D0%B8%D0%BE%D1%82%D0%B0_(%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Биота (таксономия)">Биота / Наддомен</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">Надцарство / домен</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">Поддомен</a></li>
+<li><a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Царство (биология)">Царство</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Подцарство (биология)">Подцарство</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%82%D0%B8%D0%BF" class="mw-redirect" title="Надтип">Надтип / надотдел</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тип (биология)">Тип / отдел</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%82%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Подтип (биология)">Подтип / подотдел</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%82%D0%B8%D0%BF" class="mw-redirect" title="Инфратип">Инфратип</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BA%D0%BB%D0%B0%D1%81%D1%81" class="mw-redirect" title="Надкласс">Надкласс</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Класс (биология)">Класс</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подкласс (биология)">Подкласс</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%BA%D0%BB%D0%B0%D1%81%D1%81" class="mw-redirect" title="Инфракласс">Инфракласс</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BE%D1%82%D1%80%D1%8F%D0%B4" class="mw-redirect" title="Надотряд">Надотряд</a> / <a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA" class="mw-redirect" title="Надпорядок">надпорядок</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">Отряд / Порядок</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)">Подотряд / Подпорядок</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Надсемейство">Надсемейство</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">Семейство</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Подсемейство">Подсемейство</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Триба (биология)">Триба</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%82%D1%80%D0%B8%D0%B1%D0%B0" class="mw-redirect" title="Подтриба">Подтриба</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">Род</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B4" class="mw-redirect" title="Подрод">Подрод</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" class="mw-redirect" title="Надсекция">Надсекция</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Секция (ботаника)">Секция</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Подсекция (ботаника)">Подсекция</a></li>
+<li><a href="/wiki/%D0%A0%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Ряд (биология)">Серия / Ряд</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">Вид</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B4" title="Подвид">Подвид</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D1%80%D1%82" title="Сорт">Сорт</a> / <a href="/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_(%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE)" title="Порода (животноводство)">Порода</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="mw-redirect" title="Разновидность">Разновидность / Инфравид</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="mw-redirect" title="Подразновидность">Подразновидность</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Форма (биология)">Форма</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%84%D0%BE%D1%80%D0%BC%D0%B0" class="mw-redirect" title="Подформа">Подформа</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%80%D0%B8%D0%B5%D1%82%D0%B5%D1%82" class="mw-redirect" title="Вариетет">Вариетет</a></li></ol>
+<h2><span id=".D0.A1.D0.BE.D0.B2.D1.80.D0.B5.D0.BC.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D1.80.D0.B0.D0.B7.D1.80.D0.B0.D0.B1.D0.BE.D1.82.D0.BA.D0.B8"></span><span class="mw-headline" id="Современные_разработки">Современные разработки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Современные разработки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=8" title="Редактировать раздел «Современные разработки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В настоящее время принято, чтобы классификация там, где это допустимо, следовала принципам <b><a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Эволюционное учение">эволюционизма</a></b>.
+</p><p>Обычно биологические системы создаются в виде списка, в котором каждая строчка соответствует какому-нибудь таксону (группе организмов). С <a href="/wiki/1960-%D0%B5" class="mw-redirect" title="1960-е">1960-х</a> развивается направление систематики, называемое «<a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Кладистика">кладистика</a>» (или филогенетическая систематика), которое занимается упорядочиванием таксонов в эволюционное дерево&#160;— <a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Кладограмма">кладограмму</a>, то есть схему взаимоотношений таксонов. Если таксон включает всех потомков некой предковой формы, он является <i><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D0%B8%D1%8F" title="Монофилия">монофилетическим</a></i>. <a href="/wiki/%D0%A5%D0%B5%D0%BD%D0%BD%D0%B8%D0%B3,_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8" title="Хенниг, Вилли">В. Хенниг</a> формализовал процедуру выяснения предкового таксона, и в своей кладистической систематике положил в основу классификации кладограмму, строящуюся при помощи <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80" title="Компьютер">компьютерных</a> методик. Это направление является ныне ведущим в странах Европы и США, особенно в сфере геносистематики (сравнительного анализа <a href="/wiki/%D0%94%D0%9D%D0%9A" class="mw-redirect" title="ДНК">ДНК</a> и <a href="/wiki/%D0%A0%D0%9D%D0%9A" class="mw-redirect" title="РНК">РНК</a>)<sup id="cite_ref-_62436c3f82fc0737_1-8" class="reference"><a href="#cite_note-_62436c3f82fc0737-1">&#91;1&#93;</a></sup>.
+</p><p><a href="/w/index.php?title=%D0%A1%D0%BE%D0%BA%D1%8D%D0%BB,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82&amp;action=edit&amp;redlink=1" class="new" title="Сокэл, Роберт (страница отсутствует)">Р. Сокэл</a> и <a href="/w/index.php?title=%D0%A1%D0%BD%D0%B8%D1%82,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Снит, Питер (страница отсутствует)">П. Снит</a> в <a href="/wiki/1963_%D0%B3%D0%BE%D0%B4" title="1963 год">1963 году</a> основали так называемую численную (нумерическую) систематику, в которой сходство между таксонами определяется не на основании филогении, а на основании математического анализа максимально большого количества признаков, имеющих одинаковое значение (вес).
+</p><p><b><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">Домены</a></b>&#160;— относительно новый способ классификации. Трёхдоменная система была предложена в <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990 году</a>, однако до сих пор не принята окончательно. Большинство биологов принимает эту систему доменов, однако значительная часть продолжает использовать пятицарственное деление. Одной из главных особенностей трёхдоменного метода является разделение <a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B8" title="Археи">архей</a> (<i>Archaea</i>) и <a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%8F" class="mw-redirect" title="Бактерия">бактерий</a> (<i>Bacteria</i>), которые ранее были объединены в царство <a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" title="Бактерии">бактерий</a>. Существует также малая часть учёных, добавляющих археев в виде шестого царства, но не признающих домены.
+</p><p>Сегодня систематика принадлежит к числу бурно развивающихся биологических наук, включая всё новые и новые методы: методы <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Математическая статистика">математической статистики</a>, компьютерный анализ данных, сравнительный анализ ДНК и РНК, анализ ультраструктуры клеток и многие другие.
+</p>
+<h3><span id=".D0.AD.D0.B2.D0.BE.D0.BB.D1.8E.D1.86.D0.B8.D1.8F_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC_.D0.BA.D0.BB.D0.B0.D1.81.D1.81.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Эволюция_систем_классификации">Эволюция систем классификации</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Эволюция систем классификации»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=9" title="Редактировать раздел «Эволюция систем классификации»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table style="margin-left: 0.5em; border-collapse: collapse;">
+
+<tbody><tr>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D0%B9,_%D0%9A%D0%B0%D1%80%D0%BB" title="Линней, Карл">Линней</a><br />1735
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%93%D0%B5%D0%BA%D0%BA%D0%B5%D0%BB%D1%8C,_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85" title="Геккель, Эрнст Генрих">Геккель</a><br />1866
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%A8%D0%B0%D1%82%D1%82%D0%BE%D0%BD,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80" title="Шаттон, Эдуар">Шаттон</a><br />1925
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%9A%D0%BE%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B4,_%D0%A5%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82_%D0%A4%D0%BE%D0%BB%D0%BA%D0%BD%D0%B5%D1%80" title="Коупленд, Херберт Фолкнер">Коупленд</a><br />1938
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%A3%D0%B8%D1%82%D1%82%D0%B5%D0%BA%D0%B5%D1%80,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%A5%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B3" title="Уиттекер, Роберт Хардинг">Уиттекер</a><br />1969
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%92%D1%91%D0%B7%D0%B5,_%D0%9A%D0%B0%D1%80%D0%BB" title="Вёзе, Карл">Вёзе</a><br />1977
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;">Вёзе<br />1990
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;"><a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%B5-%D0%A1%D0%BC%D0%B8%D1%82,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81" title="Кавалье-Смит, Томас">Кавалье-Смит</a><br />1993
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;">Кавалье-Смит<br />1998
+</th>
+<th style="padding: 4px; border-bottom: solid black 1px;">Руджеро<br />2015
+</th></tr>
+<tr>
+<td style="text-align: center; border-bottom: solid black 1px; padding-left: 4px; padding-right: 4px;"><i>(нет)</i>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><i>(нет)</i>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>2 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>2 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>2 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>2 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>3 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>3 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>2 домена</b>
+</td>
+<td style="text-align: center; border-bottom: solid black 1px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>2 домена</b>
+</td></tr>
+<tr>
+<td style="text-align: center; border-bottom: double black 3px; padding-left: 4px; padding-right: 4px;"><b>3 царства</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>3 царства</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><i>(нет)</i>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>4 царства</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>5 царств</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>6 царств</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><i>(нет)</i>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>8 царств</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>6 царств</b>
+</td>
+<td style="text-align: center; border-bottom: double black 3px; border-left: solid black 1px; padding-left: 4px; padding-right: 4px;"><b>7 царств</b>
+</td></tr>
+<tr>
+<td rowspan="5" style="padding-left: 4px;"><i><a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8B" class="mw-redirect" title="Минералы">Минералы</a></i>
+</td>
+<td rowspan="5" style="background-color:khaki; padding-left: 4px; padding-right: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B" title="Протисты">Протисты</a>
+</td>
+<td rowspan="2" style="background-color:lightgrey; padding-left: 4px; padding-right: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Прокариоты">Прокариоты</a>
+</td>
+<td rowspan="2" style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%94%D1%80%D0%BE%D0%B1%D1%8F%D0%BD%D0%BA%D0%B8" title="Дробянки">Дробянки</a>
+</td>
+<td rowspan="2" style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%94%D1%80%D0%BE%D0%B1%D1%8F%D0%BD%D0%BA%D0%B8" title="Дробянки">Дробянки</a>
+</td>
+<td style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%AD%D1%83%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" class="mw-redirect" title="Эубактерии">Эубактерии</a>
+</td>
+<td style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" title="Бактерии">Бактерии</a>
+</td>
+<td style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%AD%D1%83%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" class="mw-redirect" title="Эубактерии">Эубактерии</a>
+</td>
+<td rowspan="2" style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" title="Бактерии">Бактерии</a>
+</td>
+<td style="background-color:lightgrey; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" title="Бактерии">Бактерии</a>
+</td></tr>
+<tr>
+<td style="background-color:darkgray; padding-left: 4px; padding-right: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" class="mw-redirect" title="Архебактерии">Архебактерии</a>
+</td>
+<td style="background-color:darkgray; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B8" title="Археи">Археи</a>
+</td>
+<td style="background-color:darkgray; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B1%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B8" class="mw-redirect" title="Архебактерии">Архебактерии</a>
+</td>
+<td style="background-color:darkgray; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%B8" title="Археи">Археи</a>
+</td></tr>
+<tr>
+<td rowspan="6" style="background-color:#e0d0b0; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%AD%D1%83%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Эукариоты">Эукариоты</a>
+</td>
+<td rowspan="3" style="background-color:khaki; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B" title="Протисты">Протисты</a>
+</td>
+<td rowspan="3" style="background-color:khaki; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B" title="Протисты">Протисты</a>
+</td>
+<td rowspan="3" style="background-color:khaki; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B" title="Протисты">Протисты</a>
+</td>
+<td rowspan="6" style="background-color:#e0d0b0; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%AD%D1%83%D0%BA%D0%B0%D1%80%D0%B8%D0%BE%D1%82%D1%8B" title="Эукариоты">Эукариоты</a>
+</td>
+<td rowspan="1" style="background-color:PeachPuff; padding-left: 4px; border-left: dotted black 1px;"><span data-interwiki-lang="en" data-interwiki-article="Archezoa"><a href="/w/index.php?title=Archezoa&amp;action=edit&amp;redlink=1" class="new" title="Archezoa (страница отсутствует)">Archezoa</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Archezoa" class="extiw" title="en:Archezoa"><span title="Archezoa — версия статьи «Archezoa» на английском языке">[en]</span></a></sup></span>
+</td>
+<td rowspan="2" style="background-color:khaki; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5" title="Простейшие">Простейшие</a>
+</td>
+<td rowspan="2" style="background-color:khaki; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5" title="Простейшие">Простейшие</a>
+</td></tr>
+<tr>
+<td rowspan="1" style="background-color:khaki; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D0%B5" title="Простейшие">Простейшие</a>
+</td></tr>
+<tr>
+<td rowspan="1" style="background-color:burlywood; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%82%D1%8B" title="Хромисты">Хромисты</a>
+</td>
+<td rowspan="1" style="background-color:burlywood; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%82%D1%8B" title="Хромисты">Хромисты</a>
+</td>
+<td rowspan="1" style="background-color:burlywood; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%82%D1%8B" title="Хромисты">Хромисты</a>
+</td></tr>
+<tr>
+<td rowspan="2" style="background-color:lightgreen; padding-left: 4px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td rowspan="2" style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td rowspan="2" style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td>
+<td style="background-color:lightgreen; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Растения">Растения</a>
+</td></tr>
+<tr>
+<td style="background-color:lightblue; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B" title="Грибы">Грибы</a>
+</td>
+<td style="background-color:lightblue; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B" title="Грибы">Грибы</a>
+</td>
+<td style="background-color:lightblue; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B" title="Грибы">Грибы</a>
+</td>
+<td style="background-color:lightblue; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B" title="Грибы">Грибы</a>
+</td>
+<td style="background-color:lightblue; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B" title="Грибы">Грибы</a>
+</td></tr>
+<tr>
+<td style="background-color:pink; padding-left: 4px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td>
+<td style="background-color:pink; padding-left: 4px; border-left: dotted black 1px;"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5" title="Животные">Животные</a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=10" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Кладистика">Кладистика</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D1%8E%D1%87_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8" class="mw-redirect" title="Ключ идентификации">Ключ идентификации</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="Таксон">Таксон</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Таксономия">Таксономия</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F_%D0%B6%D0%B8%D0%B2%D0%BE%D0%B9_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%8B" class="mw-redirect" title="Таксономия живой природы">Таксономия живой природы</a></li>
+<li><span data-interwiki-lang="en" data-interwiki-article="Trinomial nomenclature"><a href="/w/index.php?title=Trinomial_nomenclature&amp;action=edit&amp;redlink=1" class="new" title="Trinomial nomenclature (страница отсутствует)">Триномиальная номенклатура</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Trinomial_nomenclature" class="extiw" title="en:Trinomial nomenclature"><span title="Trinomial nomenclature — версия статьи «Trinomial nomenclature» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Филогенетика">Филогенетика</a></li>
+<li><a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Эволюционная таксономия">Эволюционная таксономия</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Народная таксономия">Народная таксономия</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=11" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Комментарии</dt></dl>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-zoo-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-zoo_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-zoo_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-zoo_5-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-zoo_5-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-zoo_5-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-zoo_5-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-zoo_5-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-zoo_5-7"><sup><i><b>8</b></i></sup></a></span> <span class="reference-text">Только в зоологии.</span>
+</li>
+<li id="cite_note-unofficial-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-unofficial_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-unofficial_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-unofficial_6-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-unofficial_6-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text">Неофициально (не стандартизировано <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D1%8B" title="Международный кодекс зоологической номенклатуры">Международным кодексом зоологической номенклатуры</a>)<sup id="cite_ref-MKZN_2004_8-0" class="reference"><a href="#cite_note-MKZN_2004-8">&#91;6&#93;</a></sup>.</span>
+</li>
+<li id="cite_note-subsp-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-subsp_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-subsp_9-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Синонимично подвиду.</span>
+</li>
+</ol></div></div>
+<dl><dt>Источники</dt></dl>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_62436c3f82fc0737-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_62436c3f82fc0737_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-_62436c3f82fc0737_1-8"><sup><i><b>9</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFШипунов1999">Шипунов, 1999</a>.</span>
+</li>
+<li id="cite_note-_d98ef0db4467c981-2"><span class="mw-cite-backlink"><a href="#cite_ref-_d98ef0db4467c981_2-0">↑</a></span> <span class="reference-text"><a href="#CITEREFЛюбарский1996">Любарский, 1996</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Бэр К. М.</i>&#32;<span data-wikidata-qualifier-id="P248">Об искусственной и естественной классификации животных и растений</span>&#32;&#47;&#47;&#32;Анналы биологии.&#160;— <abbr title="Москва">М.</abbr>: Изд-во МОИП, 1959.&#160;— Т.&#160;1.&#160;— С.&#160;370.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFБруберг2006"><i><a href="/wiki/%D0%91%D1%80%D1%83%D0%B1%D0%B5%D1%80%D0%B3,_%D0%93%D1%83%D0%BD%D0%BD%D0%B0%D1%80" title="Бруберг, Гуннар">Бруберг, Г.</a></i>&#32;Апостолы и линнеанство&#160;//&#32;Карл фон Линней&#160;= Gunnar Broberg. Carl Linnaeus&#160;/ Пер. со <a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Шведский язык">швед.</a> Н. Хассо.&#160;— Стокгольм&#160;: <a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" title="Шведский институт">Шведский институт</a>, 2006.&#160;— С.&#160;37—42.&#160;— 44&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9152009149" class="internal mw-magiclink-isbn">ISBN 91-520-0914-9</a>.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9789152009147" class="internal mw-magiclink-isbn">ISBN 978-91-520-0914-7</a>.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://taxonomicon.taxonomy.nl/TaxonName.aspx?id=1009391&amp;tree=0.1">Gigafamily †Dryomorpha - Nomenclature &amp; Taxonomy - The Taxonomicon</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<small>Дата обращения: 13 апреля 2013.</small></span></span></span>
+</li>
+<li id="cite_note-MKZN_2004-8"><span class="mw-cite-backlink"><a href="#cite_ref-MKZN_2004_8-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190805202652/https://www.iczn.org/assets/d5f35966d3/Code_Russian-Edition-2004_0.pdf">Международный кодекс зоологической номенклатуры. Издание четвертое</a>&#32;&#61;&#32;International Code of Zoological Nomenclature. Fourth Edition&#32;&#47;&#32;Принят Международным союзом биологических наук: пер. с англ. и фр. И. М. Кержнера.&#160;— Изд. 2-е, испр.&#160;— <abbr title="Москва">М.</abbr>: Товарищество научных изданий КМК, 2004.&#160;— С.&#160;72.&#160;— 224&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5873171424" class="internal mw-magiclink-isbn">ISBN 5-87317-142-4</a>.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=12" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><i>Багоцкий С. В.&#160;</i>&#32;<a rel="nofollow" class="external text" href="http://elementy.ru/lib/431230?context=286336">Революция в систематике</a>&#160;// <a href="/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%8F_%D0%B8_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C" class="mw-redirect" title="Химия и жизнь">Химия и жизнь</a>.&#160;— 2010.&#160;— <span class="nowrap">№ 6</span>.</span></li>
+<li><span class="citation" id="CITEREFЛюбарский1996"><i>Любарский Г. Ю.&#160;</i>&#32;Архетип, стиль и ранг в биологической систематике&#160;// Труды Зоологического музея МГУ.&#160;— 1996.&#160;— <span class="nowrap">Т. 35</span>.</span></li>
+<li><span class="citation"><i><a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87" title="Павлинов, Игорь Яковлевич">Павлинов И. Я.</a> (ред.).&#160;</i>&#32;Современная систематика: методологические аспекты&#160;// Труды Зоологического музея МГУ.&#160;— <abbr title="Москва">М.</abbr>: Изд-во МГУ, 1996.&#160;— <span class="nowrap">Т. 34</span>.</span></li>
+<li><span class="citation"><i>Павлинов И. Я.&#160;</i>&#32;<a rel="nofollow" class="external text" href="http://bio.1september.ru/view_article.php?ID=200501708">Основные подходы в биологической систематике</a>&#160;// Электронная газета «<a rel="nofollow" class="external text" href="http://bio.1september.ru">Биология</a>».&#160;— <abbr title="Москва">М.</abbr>, 2010.&#160;— <span class="nowrap">№ 17—19</span>.&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190806022318/https://bio.1sept.ru/view_article.php?ID=200501708">Архивировано</a> 6&#160;августа 2019&#160;года.</small></span>&#160;<small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 25&#160;июня&#160;2010)</small></li>
+<li><span class="citation" id="CITEREFБСЭ1976">Система органического мира&#160;/ <a href="/wiki/%D0%A2%D0%B0%D1%85%D1%82%D0%B0%D0%B4%D0%B6%D1%8F%D0%BD,_%D0%90%D1%80%D0%BC%D0%B5%D0%BD_%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Тахтаджян, Армен Леонович">А. Л. Тахтаджян</a>&#160;//&#32;Сафлор&#160;— Соан.&#160;— <abbr title="Москва">М.</abbr>&#160;: Советская энциклопедия, 1976.&#160;— (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#Третье_издание" title="Большая советская энциклопедия">Большая советская энциклопедия</a>&#160;: <span class="nowrap">[в 30 т.]</span>&#160;/ гл. ред. <span class="nowrap"> <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Прохоров, Александр Михайлович">А. М. Прохоров</a></span>&#160;; 1969—1978, т.&#160;23).</span></li>
+<li><span class="citation" id="CITEREFБСЭ1976">Систематика&#160;/ <a href="/wiki/%D0%93%D0%B5%D0%BF%D1%82%D0%BD%D0%B5%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Гептнер, Владимир Георгиевич">В. Г. Гептнер</a>&#160;//&#32;Сафлор&#160;— Соан.&#160;— <abbr title="Москва">М.</abbr>&#160;: Советская энциклопедия, 1976.&#160;— (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#Третье_издание" title="Большая советская энциклопедия">Большая советская энциклопедия</a>&#160;: <span class="nowrap">[в 30 т.]</span>&#160;/ гл. ред. <span class="nowrap"> <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Прохоров, Александр Михайлович">А. М. Прохоров</a></span>&#160;; 1969—1978, т.&#160;23).</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFШипунов1999"><i>Шипунов А. Б.&#160;.</i>&#32;Основы теории систематики: Учебное пособие.&#160;— <abbr title="Москва">М.</abbr>: Открытый лицей ВЗМШ, Диалог-МГУ, 1999.&#160;— 56&#160;с.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Wheeler W.C.&#160;.</i>&#32;<a rel="nofollow" class="external text" href="http://zmmu.msu.ru/files/Библиотека%20Павлинова/wheeler-2012_systematics.pdf">Systematics. A Course of Lectures</a>.&#160;— Wiley-Blackwell, 2012.&#160;— 426&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780470671696" class="internal mw-magiclink-isbn">ISBN 9780470671696</a>.</span></li>
+<li>Schuh, Randall T. and Andrew V. Z. Brower. 2009. <i>Biological Systematics: Principles and Applications, 2nd edn.</i> <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/978-0-8014-4799-0" title="Служебная:Источники книг/978-0-8014-4799-0">ISBN <span class="nowrap">978-0-8014-4799-0</span></a></li>
+<li>Simpson, Michael G. 2005. <i>Plant Systematics</i>. <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/978-0-12-644460-5" title="Служебная:Источники книг/978-0-12-644460-5">ISBN <span class="nowrap">978-0-12-644460-5</span></a></li>
+<li>Wiley, Edward O. and Bruce S. Lieberman. 2011. <i>Phylogenetics: Theory and Practice of Phylogenetic Systematics</i>, 2nd ed. <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/978-0-470-90596-8" title="Служебная:Источники книг/978-0-470-90596-8">ISBN <span class="nowrap">978-0-470-90596-8</span></a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=13" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Biological_classification" class="extiw" title="commons:Category:Biological classification">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<ul><li><a href="https://ru.wikiversity.org/wiki/en:Introduction_to_Taxonomy" class="extiw" title="v:en:Introduction to Taxonomy">Введение в таксономию</a> в английском Викиверситете&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><a rel="nofollow" class="external text" href="http://zmmu.msu.ru/musei/podrazdeleniya/sektor-teriologii/sotrudniki-sektora/pavlinov-iya/biblioteka">Библиотека И.&#160;Я.&#160;Павлинова (книги по истории и теории систематики и номенклатуры).</a> zmmu.msu.ru &#160;<small class="ref-info">(недоступная ссылка&#160;с 01-03-2017 [1912&#160;дней])</small></li>
+<li><a rel="nofollow" class="external text" href="http://mr-1.ru/HT/system_description.htm">Систематика органического мира</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sasb.org.au">Society of Australian Systematic Biologists</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.systbio.org/">Society of Systematic Biologists</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cladistics.org/The">Willi Hennig Society</a>&#160;<small class="ref-info">(недоступная ссылка)</small></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q3516404#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://snl.no/systematikk_i_biologi">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="https://bigenc.ru/text/3666556">Большая российская</a></li>
+<li><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" class="extiw" title="s:ЭСБЕ/Систематика">Брокгауза и Ефрона</a></li>
+<li><a href="https://ru.wikisource.org/wiki/%D0%9C%D0%AD%D0%A1%D0%91%D0%95/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" class="extiw" title="s:МЭСБЕ/Систематика">Малый Брокгауза и Ефрона</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.universalis.fr/encyclopedie/cladistique-systematique-phylogenetique/">Universalis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">В&#160;библиографических каталогах</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4128136-6">4128136-6</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007560769305171">987007560769305171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85090225">sh85090225</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Таксономические_ранги" data-name="Таксономия"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Перейти к шаблону «Таксономия»"><img alt="Перейти к шаблону «Таксономия»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Таксономические_ранги" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Ранг (биология)">Таксономические ранги</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/%D0%91%D0%B8%D0%BE%D1%82%D0%B0_(%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)" title="Биота (таксономия)">Биота</a></b></li>
+<li><b><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">Домен</a></b>/<b><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Домен (биология)">Надцарство</a></b></li>
+<li><b><span data-interwiki-lang="en" data-interwiki-article="Realm (virology)"><a href="/w/index.php?title=%D0%A0%D0%B5%D0%B0%D0%BB%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Реалм (страница отсутствует)">Реалм</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Realm_(virology)" class="extiw" title="en:Realm (virology)"><span title="Realm (virology) — версия статьи «Реалм» на английском языке">[en]</span></a></sup></span></b></li>
+<li><span data-interwiki-lang="en" data-interwiki-article="Subrealm"><a href="/w/index.php?title=%D0%A1%D1%83%D0%B1%D1%80%D0%B5%D0%B0%D0%BB%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Субреалм (страница отсутствует)">Субреалм</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Subrealm" class="extiw" title="en:Subrealm"><span title="Subrealm — версия статьи «Субреалм» на английском языке">[en]</span></a></sup></span></li>
+<li><b><a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Царство (биология)">Царство</a></b></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Подцарство (биология)">Подцарство</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%82%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надтип (биология)">Надтип</a>/<a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BE%D1%82%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надотдел (биология)">Надотдел</a></li>
+<li><a href="/wiki/%D0%A2%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тип (биология)"><b>Тип</b></a>/<a href="/wiki/%D0%A2%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тип (биология)"><b>Отдел</b></a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%82%D0%B8%D0%BF_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Подтип (биология)">Подтип</a>/<a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%82%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подотдел (биология)">Подотдел</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%82%D0%B8%D0%BF" class="mw-redirect" title="Инфратип">Инфратип</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BA%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надкласс (биология)">Надкласс</a></li>
+<li><b><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Класс (биология)">Класс</a></b></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подкласс (биология)">Подкласс</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%BA%D0%BB%D0%B0%D1%81%D1%81_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Инфракласс (биология)">Инфракласс</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BE%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надотряд (биология)">Надотряд</a>/<a href="/wiki/%D0%9D%D0%B0%D0%B4%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надпорядок (биология)">Надпорядок</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)"><b>Отряд</b></a>/<a href="/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Отряд (биология)"><b>Порядок</b></a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подотряд (биология)">Подотряд</a>/<a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подпорядок (биология)">Подпорядок</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%BE%D1%82%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Инфраотряд (биология)">Инфраотряд</a></li>
+<li><span data-interwiki-lang="en" data-interwiki-article="Section (biology)"><a href="/w/index.php?title=%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Секция (зоология) (страница отсутствует)">Секция</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Section_(biology)" class="extiw" title="en:Section (biology)"><span title="Section (biology) — версия статьи «Секция (зоология)» на английском языке">[en]</span></a></sup></span></li>
+<li><span data-interwiki-lang="en" data-interwiki-article="Section (biology)"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Подсекция (зоология) (страница отсутствует)">Подсекция</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Section_(biology)" class="extiw" title="en:Section (biology)"><span title="Section (biology) — версия статьи «Подсекция (зоология)» на английском языке">[en]</span></a></sup></span></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Надсемейство">Надсемейство</a></li>
+<li><b><a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">Семейство</a></b></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Подсемейство">Подсемейство</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%82%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надтриба (биология)">Надтриба</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Триба (биология)">Триба</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%82%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подтриба (биология)">Подтриба</a></li>
+<li><b><a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">Род</a></b></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Раздел (биология)">Раздел</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подраздел (биология)">Подраздел</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подрод (биология)">Подрод</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Надсекция (биология)">Надсекция</a></li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Секция (ботаника)">Секция</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Подсекция (ботаника)">Подсекция</a></li>
+<li><a href="/wiki/%D0%A0%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Ряд (биология)">Ряд</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D1%8F%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Подряд (биология)">Подряд</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2" title="Комплекс видов">Комплекс видов</a></li>
+<li><b><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4" title="Биологический вид">Вид</a></b></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%B8%D0%B4" title="Подвид">Подвид</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%80%D0%B8%D0%B5%D1%82%D0%B5%D1%82" class="mw-redirect" title="Вариетет">Вариетет</a>/<a href="/wiki/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="mw-redirect" title="Разновидность">Разновидность</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C" class="mw-redirect" title="Подразновидность">Подразновидность</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Форма (биология)">Форма</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%84%D0%BE%D1%80%D0%BC%D0%B0" class="mw-redirect" title="Подформа">Подформа</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Таксономия">Таксономия</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0" class="mw-redirect" title="Биноминальная номенклатура">Биноминальная номенклатура</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Разделы_биологии" data-name="Разделы биологии"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Перейти к шаблону «Разделы биологии»"><img alt="Перейти к шаблону «Разделы биологии»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Разделы_биологии" style="font-size:114%;margin:0 5em">Разделы <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Биология">биологии</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="NavContent">
+<ul><li><a href="/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D1%8F" title="Анатомия">Анатомия</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%B0%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Биоакустика">Биоакустика</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Биогеография">Биогеография</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биоинформатика">Биоинформатика</a></li>
+<li><a class="mw-selflink selflink">Биологическая систематика</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D0%B0" title="Биология океана">Биология океана</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F" title="Биология развития">Биология развития</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" title="Биология человека">Биология человека</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Биофизика">Биофизика</a></li>
+<li><a href="/wiki/%D0%91%D0%B8%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F" title="Биохимия">Биохимия</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0" title="Ботаника">Ботаника</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D1%80%D1%83%D1%81%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Вирусология">Вирусология</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Возникновение жизни">Возникновение жизни</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0" title="Генетика">Генетика</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0" title="Геномика">Геномика</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Гидробиология">Гидробиология</a></li>
+<li><a href="/wiki/%D0%93%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Гистология">Гистология</a></li>
+<li><a href="/wiki/%D0%97%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Зоология">Зоология</a></li>
+<li><a href="/wiki/%D0%97%D0%BE%D0%BE%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Зоопсихология">Зоопсихология</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Космическая биология">Космическая биология</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Криобиология">Криобиология</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Математическая биология">Математическая биология</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Микология">Микология</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Микробиология">Микробиология</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Молекулярная биология">Молекулярная биология</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Палеонтология">Палеонтология</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Паразитология">Паразитология</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Патология">Патология</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Протистология">Протистология</a></li>
+<li><a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Таксономия">Таксономия</a></li>
+<li><a href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Физиология">Физиология</a></li>
+<li><a href="/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Цитология">Цитология</a></li>
+<li><a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Эволюционная биология">Эволюционная биология</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Экология">Экология</a></li>
+<li><a href="/wiki/%D0%AD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Этология">Этология</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1453
+Cached time: 20220526100336
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.954 seconds
+Real time usage: 1.130 seconds
+Preprocessor visited node count: 10942/1000000
+Post‐expand include size: 102529/2097152 bytes
+Template argument size: 16923/2097152 bytes
+Highest expansion depth: 26/100
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17490/5000000 bytes
+Lua time usage: 0.282/10.000 seconds
+Lua memory usage: 6186403/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  956.264      1 -total
+ 14.92%  142.646      2 Шаблон:Примечания
+ 14.05%  134.378      1 Шаблон:Нет_АИ
+ 13.43%  128.399      1 Шаблон:Надстрочное_предупреждение
+ 12.55%  120.020      1 Шаблон:Видимый_якорь
+ 11.22%  107.329      3 Шаблон:Публикация
+  9.77%   93.383      2 Шаблон:Сортировка:_по_типам
+  9.17%   87.696      1 Шаблон:Библиоинформация
+  8.16%   78.020      1 Шаблон:Сортировка:_статьи_без_источников
+  7.90%   75.552     10 Шаблон:Sfn
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:41237-0!canonical and timestamp 20220526100335 and revision id 121550763. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Биологическая_систематика&amp;oldid=121550763">https://ru.wikipedia.org/w/index.php?title=Биологическая_систематика&amp;oldid=121550763</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Биологическая систематика">Биологическая систематика</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC_Falseredirect" title="Категория:Википедия:Статьи с шаблоном Falseredirect">Википедия:Статьи с шаблоном Falseredirect</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9D%D0%B5%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D1%81_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2014" title="Категория:Википедия:Нет источников с марта 2014">Википедия:Нет источников с марта 2014</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без источников (не распределённые по типам)">Википедия:Статьи без источников (не распределённые по типам)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_14_%D0%B4%D0%BD%D0%B5%D0%B9" title="Категория:Википедия:Статьи с утверждениями без источников более 14 дней">Википедия:Статьи с утверждениями без источников более 14 дней</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D1%81_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_2017" title="Категория:Википедия:Статьи с нерабочими ссылками с марта 2017">Википедия:Статьи с нерабочими ссылками с марта 2017</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BE_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85:_P373)" title="Категория:Википедия:Статьи без изображений (указано в Викиданных: P373)">Википедия:Статьи без изображений (указано в Викиданных: P373)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D0%BD%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0%D0%BC)" title="Категория:Википедия:Статьи без изображений (не распределённые по типам)">Википедия:Статьи без изображений (не распределённые по типам)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;oldid=121550763" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;id=121550763&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3516404" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<label
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Biological_classification" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Systematik_(Biologie)" title="Systematik (Biologie) — Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85%D9%8A%D8%A7%D8%AA" title="نظاميات — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Sistem%C3%A1tica" title="Sistemática — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Bioloji_t%C9%99snifat" title="Bioloji təsnifat — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%A8%DB%8C%D9%88%D9%84%D9%88%DA%98%DB%8C_%D8%AA%D8%B5%D9%86%DB%8C%D9%81%D8%A7%D8%AA%DB%8C" title="بیولوژی تصنیفاتی — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологик систематика — башкирский" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Systematik_(Biologie)" title="Systematik (Biologie) — Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%91%D1%96%D1%8F%D0%BB%D0%B0%D0%B3%D1%96%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D1%96%D1%81%D1%82%D1%8D%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0" title="Біялагічная сістэматыка — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Biosistematika" title="Biosistematika — боснийский" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Sistem%C3%A0tica" title="Sistemàtica — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологин систематика — чеченский" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Biologick%C3%A1_systematika" title="Biologická systematika — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8" title="Биологи систематики — чувашский" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Systematik_(biologi)" title="Systematik (biologi) — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Systematik_(Biologie)" title="Systematik (Biologie) — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%85%CF%83%CF%84%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE" title="Συστηματική — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Systematics" title="Systematics — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Sistematiko" title="Sistematiko — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sistem%C3%A1tica" title="Sistemática — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Sistematika" title="Sistematika — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" title="سامانه‌شناسی — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Systematiikka" title="Systematiikka — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Syst%C3%A9matique" title="Systématique — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/C%C3%B3rasa%C3%ADocht" title="Córasaíocht — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Sistem%C3%A1tica" title="Sistemática — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A1%D7%98%D7%9E%D7%98%D7%99%D7%A7%D7%94" title="סיסטמטיקה — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Rendszertan_(biol%C3%B3gia)" title="Rendszertan (biológia) — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D6%80%D5%A3%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" title="Կարգաբանություն — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hyw mw-list-item"><a href="https://hyw.wikipedia.org/wiki/%D4%BF%D5%A1%D6%80%D5%A3%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6" title="Կարգաբանութիւն — Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target"><span>Արեւմտահայերէն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Sistematika" title="Sistematika — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-inh mw-list-item"><a href="https://inh.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологе систематика — ингушский" lang="inh" hreflang="inh" class="interlanguage-link-target"><span>ГӀалгӀай</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Sistematiko" title="Sistematiko — идо" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Sistematica" title="Sistematica — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E4%BD%93%E7%B3%BB%E5%AD%A6" title="体系学 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90" title="სისტემატიკა — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Tinnagrawt" title="Tinnagrawt — кабильский" lang="kab" hreflang="kab" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-kbd mw-list-item"><a href="https://kbd.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8D_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D1%8D" title="Биологиэ систематикэ — кабардинский" lang="kbd" hreflang="kbd" class="interlanguage-link-target"><span>Адыгэбзэ</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%96%D2%AF%D0%B9%D0%B5%D0%BB%D0%B5%D0%BD%D1%96%D0%BC" title="Жүйеленім — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B3%84%ED%86%B5%EB%B6%84%EB%A5%98%ED%95%99" title="계통분류학 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Systematica" title="Systematica — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Systematik_(Biologie)" title="Systematik (Biologie) — люксембургский" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Sistem%C4%81tika" title="Sistemātika — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Систематика — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%AE%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D" title="സിസ്റ്റമാറ്റിക്സ് — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Sistematik" title="Sistematik — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%9E%E1%80%AD%E1%80%95%E1%80%B9%E1%80%95%E1%80%B6%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BB%E1%80%A1%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%85%E1%80%AC%E1%80%B8%E1%80%81%E1%80%BD%E1%80%B2%E1%80%81%E1%80%BC%E1%80%AC%E1%80%B8%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8" title="သိပ္ပံနည်းကျအမျိုးအစားခွဲခြားခြင်း — бирманский" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-nap mw-list-item"><a href="https://nap.wikipedia.org/wiki/Sistemateca" title="Sistemateca — неаполитанский" lang="nap" hreflang="nap" class="interlanguage-link-target"><span>Napulitano</span></a></li><li class="interlanguage-link interwiki-nds mw-list-item"><a href="https://nds.wikipedia.org/wiki/Systematik_(Biologie)" title="Systematik (Biologie) — нижненемецкий" lang="nds" hreflang="nds" class="interlanguage-link-target"><span>Plattdüütsch</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Systematiek" title="Systematiek — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Biologisk_systematikk" title="Biologisk systematikk — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Biologisk_systematikk" title="Biologisk systematikk — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Systematyka_organizm%C3%B3w" title="Systematyka organizmów — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Sistem%C3%A0tica" title="Sistemàtica — Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sistem%C3%A1tica" title="Sistemática — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/%D0%91%D1%96%D0%BE%D0%BB%D0%BE%D2%91%D1%96%D1%87%D0%BD%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%96%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F" title="Біолоґічна класіфікація — Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Sistematika" title="Sistematika — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%9C%E0%B7%93%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA" title="වර්ගීකරණය — сингальский" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Systematics" title="Systematics — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Systematika_(veda)" title="Systematika (veda) — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Sistematika" title="Sistematika — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Sistematika" title="Sistematika — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Систематика — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-stq mw-list-item"><a href="https://stq.wikipedia.org/wiki/Systematik" title="Systematik — Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target"><span>Seeltersk</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Systematik_(biologi)" title="Systematik (biologi) — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/Systymatyka_%C3%B4rganizm%C5%8Dw" title="Systymatyka ôrganizmōw — Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target"><span>Ślůnski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%85%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88" title="உயிரியல் அமைப்புமுறை — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%BE%D0%BD%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D3%A3" title="Сомонашиносӣ — таджикский" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C" title="การจำแนกชั้นทางวิทยาศาสตร์ — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sistematik" title="Sistematik — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Систематика (біологія) — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D8%AA" title="نظامیات — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Sistematika" title="Sistematika — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Sistem%C3%A0tega" title="Sistemàtega — Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_h%C3%B3a_(sinh_h%E1%BB%8Dc)" title="Hệ thống hóa (sinh học) — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Sistematika" title="Sistematika — варай" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F%E5%88%86%E7%B1%BB%E5%AD%A6" title="系统分类学 — ву" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a href="https://xmf.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90" title="სისტემატიკა — Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%B5%B1%E5%88%86%E9%A1%9E%E5%AD%B8" title="系統分類學 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/H%C4%93-th%C3%B3ng-ha%CC%8Dk" title="Hē-thóng-ha̍k — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E7%B3%BB%E7%B5%B1%E5%AD%B8" title="生物系統學 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3516404#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 20 апреля 2022 в 09:18.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.954","walltime":"1.130","ppvisitednodes":{"value":10942,"limit":1000000},"postexpandincludesize":{"value":102529,"limit":2097152},"templateargumentsize":{"value":16923,"limit":2097152},"expansiondepth":{"value":26,"limit":100},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17490,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  956.264      1 -total"," 14.92%  142.646      2 Шаблон:Примечания"," 14.05%  134.378      1 Шаблон:Нет_АИ"," 13.43%  128.399      1 Шаблон:Надстрочное_предупреждение"," 12.55%  120.020      1 Шаблон:Видимый_якорь"," 11.22%  107.329      3 Шаблон:Публикация","  9.77%   93.383      2 Шаблон:Сортировка:_по_типам","  9.17%   87.696      1 Шаблон:Библиоинформация","  8.16%   78.020      1 Шаблон:Сортировка:_статьи_без_источников","  7.90%   75.552     10 Шаблон:Sfn"]},"scribunto":{"limitreport-timeusage":{"value":"0.282","limit":"10.000"},"limitreport-memusage":{"value":6186403,"limit":52428800}},"cachereport":{"origin":"mw1453","timestamp":"20220526100336","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3516404","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3516404","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-30T11:57:22Z","dateModified":"2022-04-20T09:18:23Z","headline":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3516404","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3516404","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-30T11:57:22Z","dateModified":"2022-04-20T09:18:23Z","headline":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1336,"wgHostname":"mw1453"});});</script>
+</body>
+</html>

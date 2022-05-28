@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Хондрус — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"998f653a-6456-4031-a22b-9cabaf1c31f3","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Хондрус","wgTitle":"Хондрус","wgCurRevisionId":112952059,"wgRevisionId":112952059,"wgArticleId":8474730,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Статьи о растениях без GRIN","Статьи о растениях без IPNI","Страницы, использующие волшебные ссылки ISBN","Растения по алфавиту",
+"Роды протистов","Красные водоросли","Съедобные водоросли"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Хондрус","wgRelevantArticleId":8474730,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Chondrus","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":112952059,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgInternalRedirectTargetUrl":"/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81","wgEditSubmitButtonLabelPublish":true,
+"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q14759694","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc",
+"skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/af/Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="953"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/af/Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="635"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="508"/>
+<meta property="og:title" content="Хондрус — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Хондрус rootpage-Хондрус skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Хондрус</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(перенаправлено с «<a href="/w/index.php?title=Chondrus&amp;redirect=no" class="mw-redirect" title="Chondrus">Chondrus</a>»)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r117423481">.mw-parser-output .ts-Taxonomy-rang-row{display:table;text-align:left;width:100%;border-spacing:0}.mw-parser-output .ts-Taxonomy-rang-label{display:table-cell;text-align:right;vertical-align:top;padding-right:0.3em!important;white-space:nowrap}.mw-parser-output .ts-Taxonomy-rang-name{display:table-cell;text-align:left;vertical-align:bottom}.mw-parser-output .ts-Taxonomy-error{color:Dimgray;background-color:Gainsboro;font-size:85%}@media(min-width:720px){.mw-parser-output .ts-Taxonomy-rang-label{width:40%!important}}</style>
+<table class="infobox infobox-0b1d33f3a5e57a07" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; width:275px;" data-name="Таксон"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:#90ee90;font-size:130%;">Хондрус</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg" class="image" title="Chondrus crispus. Ботаническая иллюстрация из книги Köhler’s Medizinal-Pflanzen, 1887"><img alt="Chondrus crispus" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg/275px-Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg" decoding="async" width="275" height="218" srcset="//upload.wikimedia.org/wikipedia/commons/a/af/Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg 1.5x" data-file-width="345" data-file-height="274" /></a><br /><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block"><i><a href="/wiki/Chondrus_crispus" class="mw-redirect" title="Chondrus crispus">Chondrus crispus</a></i>. <a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F" title="Ботаническая иллюстрация">Ботаническая иллюстрация</a> из книги <i><a href="/wiki/K%C3%B6hler%E2%80%99s_Medizinal-Pflanzen" title="Köhler’s Medizinal-Pflanzen">Köhler’s Medizinal-Pflanzen</a></i>, 1887</span></span> </td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">Научная классификация</a></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<div data-expandtext="подробно" data-collapsetext="кратко" class="mw-collapsible mw-collapsed" style="font-size:95%; background-color: transparent; border:0;"><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Домен:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eukaryota" class="mw-redirect" title="Eukaryota">Эукариоты</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Царство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Plantae" class="mw-redirect" title="Plantae">Растения</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подцарство:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Biliphyta&amp;action=edit&amp;redlink=1" class="new" title="Biliphyta (страница отсутствует)"><i>Biliphyta</i></a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Отдел:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Rhodophyta" class="mw-redirect" title="Rhodophyta">Красные водоросли</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подотдел:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Eurhodophytina&amp;action=edit&amp;redlink=1" class="new" title="Eurhodophytina (страница отсутствует)"><i>Eurhodophytina</i></a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Класс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Florideophyceae" class="mw-redirect" title="Florideophyceae">Флоридеевые водоросли</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подкласс:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Rhodymeniophycidae&amp;action=edit&amp;redlink=1" class="new" title="Rhodymeniophycidae (страница отсутствует)"><i>Rhodymeniophycidae</i></a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Порядок:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Gigartinales&amp;action=edit&amp;redlink=1" class="new" title="Gigartinales (страница отсутствует)">Гигартиновые</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Семейство:</div><div class="ts-Taxonomy-rang-name"><a href="/w/index.php?title=Gigartinaceae&amp;action=edit&amp;redlink=1" class="new" title="Gigartinaceae (страница отсутствует)">Гигартиновые</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Род:</div><div class="ts-Taxonomy-rang-name"><b>Хондрус</b></div></div></div></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;">Международное научное название</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<i>Chondrus</i> <span style="font-variant:small-caps;"><a href="/w/index.php?title=Stackhouse&amp;action=edit&amp;redlink=1" class="new" title="Stackhouse (страница отсутствует)">Stackhouse</a>, 1797<sup id="cite_ref-_f73e77ac573f1c81_1-0" class="reference"><a href="#cite_note-_f73e77ac573f1c81-1">&#91;1&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;"><a href="/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D0%B8%D0%B4" title="Типовой вид">Типовой вид</a></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<div align="center"><span style="font-style:italic;" lang="LA"><a href="/wiki/Chondrus_crispus" class="mw-redirect" title="Chondrus crispus">Chondrus crispus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Stackhouse&amp;action=edit&amp;redlink=1" class="new" title="Stackhouse (страница отсутствует)">Stackhouse</a>, 1797</span><sup id="cite_ref-_f73e77ac573f1c81_1-1" class="reference"><a href="#cite_note-_f73e77ac573f1c81-1">&#91;1&#93;</a></sup></div></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;">Виды</th>
+</tr>
+<tr>
+<td colspan="2" class="noplainlist" style="text-align:center;font-size:110%;">
+<div align="left">
+<ul><li><i><a href="#Виды">См. текст</a></i></li></ul></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style="background:#c6f6c6; font-size:90%; line-height:140%;;"><table role="presentation" width="100%" class="plainlinks" cellspacing="0" cellpadding="4"><tbody><tr><td style="vertical-align:middle"><a href="https://species.wikimedia.org/wiki/Chondrus?uselang=ru"><img alt="Логотип Викивидов" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/17px-Wikispecies-logo.svg.png" decoding="async" width="17" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/26px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a><br /><a class="external text" href="https://species.wikimedia.org/wiki/Chondrus?uselang=ru">Систематика<br />в&#160;Викивидах</a></td><td style="vertical-align:middle"><a href="https://commons.wikimedia.org/wiki/Category:Chondrus"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a><br /><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Chondrus">Изображения<br />на&#160;Викискладе</a></td><td><table width="100%" cellspacing="0" cellpadding="0" style="background:#c6f6c6; text-align:left">
+<tbody><tr><th scope="row" style="font-weight:normal; text-align:right" width="40%"><a href="/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0" title="Объединённая таксономическая информационная служба">ITIS</a>&#160;&#160;</th><td class="plainlinks" style="vertical-align:middle"><span data-wikidata-claim-id="Q14759694$17DAA5F5-F3A2-4DB8-9D3A-2C1DDF2845D1" class="wikidata-claim" data-wikidata-property-id="P815"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=12091">12091</a></span></span></td></tr><tr><th scope="row" style="font-weight:normal; text-align:right" width="40%"><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B1%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Национальный центр биотехнологической информации">NCBI</a>&#160;&#160;</th><td class="plainlinks" style="vertical-align:middle"><span data-wikidata-claim-id="Q14759694$1B919856-7080-4226-BE0B-03DCE819F9D8" class="wikidata-claim" data-wikidata-property-id="P685"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=2768">2768</a></span></span></td></tr><tr><th scope="row" style="font-weight:normal; text-align:right" width="40%"><a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Энциклопедия жизни">EOL</a>&#160;&#160;</th><td class="plainlinks" style="vertical-align:middle"><span data-wikidata-claim-id="Q14759694$C155A4F3-329E-4285-A9A9-66B534AD148D" class="wikidata-claim" data-wikidata-property-id="P830"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://eol.org/pages/9831">9831</a></span></span></td></tr><tr><td align="right" width="40%"><a href="/wiki/International_Plant_Names_Index" title="International Plant Names Index">IPNI</a>&#160;</td><td class="plainlinks" align="left">&#160;<a rel="nofollow" class="external text" href="https://www.ipni.org/?q=genus%3AChondrus">???</a></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table>
+<p><b>Хо́ндрус</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">Chondrus</span>)&#160;— <a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">род</a> <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Красные водоросли">красных водорослей</a> семейства <a href="/w/index.php?title=%D0%93%D0%B8%D0%B3%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Гигартиновые (страница отсутствует)">Гигартиновые</a>&#32;(<i><span lang="la"><a href="/w/index.php?title=Gigartinaceae&amp;action=edit&amp;redlink=1" class="new" title="Gigartinaceae (страница отсутствует)">Gigartinaceae</a></span></i>)<sup id="cite_ref-_f73e77ac573f1c81_1-2" class="reference"><a href="#cite_note-_f73e77ac573f1c81-1">&#91;1&#93;</a></sup>, распространённых в северных морях<sup id="cite_ref-_9dd38f4c74164434_2-0" class="reference"><a href="#cite_note-_9dd38f4c74164434-2">&#91;2&#93;</a></sup>. Около 15 видов<style data-mw-deduplicate="TemplateStyles:r113278226">.mw-parser-output .ts-Переход img{margin-left:.285714em}</style><span class="ts-Переход noprint" title="#Виды"><a href="#Виды" title=""><img alt="Перейти к разделу «#Виды»" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairytale_key_enter-2.png/12px-Fairytale_key_enter-2.png" decoding="async" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairytale_key_enter-2.png/18px-Fairytale_key_enter-2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairytale_key_enter-2.png/24px-Fairytale_key_enter-2.png 2x" data-file-width="64" data-file-height="64" /></a></span>, некоторые из них съедобны, а также используются в различных отраслях промышленности<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113278226"/><span class="ts-Переход noprint" title="#Использование"><a href="#Использование" title=""><img alt="Перейти к разделу «#Использование»" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairytale_key_enter-2.png/12px-Fairytale_key_enter-2.png" decoding="async" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairytale_key_enter-2.png/18px-Fairytale_key_enter-2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairytale_key_enter-2.png/24px-Fairytale_key_enter-2.png 2x" data-file-width="64" data-file-height="64" /></a></span>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Строение"><span class="tocnumber">1</span> <span class="toctext">Строение</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Виды"><span class="tocnumber">2</span> <span class="toctext">Виды</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Примечания"><span class="tocnumber">3</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Литература"><span class="tocnumber">4</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ссылки"><span class="tocnumber">5</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A1.D1.82.D1.80.D0.BE.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Строение">Строение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Строение»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit&amp;section=1" title="Редактировать раздел «Строение»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B5%D0%B2%D0%B8%D1%89%D0%B5" class="mw-redirect" title="Слоевище">Слоевище</a> у представителей рода хрящеватое, разветвлённое<sup id="cite_ref-_9dd38f4c74164434_2-1" class="reference"><a href="#cite_note-_9dd38f4c74164434-2">&#91;2&#93;</a></sup>, по своей структуре нитчатое<sup id="cite_ref-_d0425c3ebd920e6a_3-0" class="reference"><a href="#cite_note-_d0425c3ebd920e6a-3">&#91;3&#93;</a></sup>. Максимальная длина слоевища, в зависимости от вида, составляет от 15 до <span class="nowrap">40&#160;см</span><sup id="cite_ref-_9dd38f4c74164434_2-2" class="reference"><a href="#cite_note-_9dd38f4c74164434-2">&#91;2&#93;</a></sup>.
+</p><p>Цикл развития хондруса включает чередование <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B0%D0%B7%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Половое размножение">полового</a> и <a href="/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B5_%D1%80%D0%B0%D0%B7%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Бесполое размножение">бесполого размножения</a>. Бесполое размножение осуществляется посредством <a href="/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D0%B0" class="mw-redirect" title="Спора">спор</a>&#160;— так называемых тетраспор, образующихся по четыре в особых клетках, тетраспорангиях, которые развиваются группами. Тетраспорангии расположены в центральной части слоевища и имеют вид коротких разветвлённых нитей<sup id="cite_ref-_d0425c3ebd920e6a_3-1" class="reference"><a href="#cite_note-_d0425c3ebd920e6a-3">&#91;3&#93;</a></sup>.
+</p><p>При половом размножении, как и у других <a href="/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D0%B4%D0%B5%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Флоридеевые водоросли">флоридеевых водорослей</a>, <a href="/wiki/%D0%97%D0%B8%D0%B3%D0%BE%D1%82%D0%B0" title="Зигота">зигота</a>, образовавшаяся в результате оплодотворения <a href="/wiki/%D0%AF%D0%B9%D1%86%D0%B5%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0" title="Яйцеклетка">яйцеклетки</a>, начинает развиваться, образуя специальные нити (гонимобласты), в клетках которых образуются карпоспоры, из которых, в свою очередь, развиваются новые диплоидные организмы. В отличие от других родов семейства, у которых гонимобласты окружены специальной обёрткой, связывающей их с особой питательной тканью, у гонимобластов хондруса специальной оболочки нет<sup id="cite_ref-_d0425c3ebd920e6a_3-2" class="reference"><a href="#cite_note-_d0425c3ebd920e6a-3">&#91;3&#93;</a></sup>.
+</p>
+<h2><span id=".D0.92.D0.B8.D0.B4.D1.8B"></span><span class="mw-headline" id="Виды">Виды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Виды»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit&amp;section=2" title="Редактировать раздел «Виды»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chondrus_elatus_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07637.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chondrus_elatus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07637.JPG/220px-Chondrus_elatus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07637.JPG" decoding="async" width="220" height="212" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chondrus_elatus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07637.JPG/330px-Chondrus_elatus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07637.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chondrus_elatus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07637.JPG/440px-Chondrus_elatus_-_National_Museum_of_Nature_and_Science%2C_Tokyo_-_DSC07637.JPG 2x" data-file-width="3700" data-file-height="3569" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chondrus_elatus_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07637.JPG" class="internal" title="Увеличить"></a></div><i><a href="/w/index.php?title=Chondrus_elatus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus elatus (страница отсутствует)">Chondrus elatus</a></i>. Экспонат <a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%8B_%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Национальный музей природы и науки">Национального музея природы и науки</a>. Токио, Япония</div></div></div>
+<p>По информации базы данных <i>AlgaeBase</i>, род включает 17 видов<sup id="cite_ref-_f73e77ac573f1c81_1-3" class="reference"><a href="#cite_note-_f73e77ac573f1c81-1">&#91;1&#93;</a></sup>:
+</p>
+<div class="columns" style=";column-count:2;">
+<ul><li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_albemarlensis&amp;action=edit&amp;redlink=1" class="new" title="Chondrus albemarlensis (страница отсутствует)">Chondrus albemarlensis</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=W.R.Taylor&amp;action=edit&amp;redlink=1" class="new" title="W.R.Taylor (страница отсутствует)">W.R.Taylor</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_armatus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus armatus (страница отсутствует)">Chondrus armatus</a></span>&#32;<span style="font-variant:small-caps;">(<a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%93%D0%B5%D0%BD%D1%80%D0%B8" title="Харви, Уильям Генри">Harvey</a>) <a href="/w/index.php?title=Okamura&amp;action=edit&amp;redlink=1" class="new" title="Okamura (страница отсутствует)">Okamura</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_canaliculatus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus canaliculatus (страница отсутствует)">Chondrus canaliculatus</a></span>&#32;<span style="font-variant:small-caps;">(<a href="/wiki/C.Agardh" class="mw-redirect" title="C.Agardh">C.Agardh</a>) <a href="/wiki/Greville_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Greville (ботаник)">Greville</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/wiki/Chondrus_crispus" class="mw-redirect" title="Chondrus crispus">Chondrus crispus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Stackhouse&amp;action=edit&amp;redlink=1" class="new" title="Stackhouse (страница отсутствует)">Stackhouse</a></span>&#32;<span style="background-color: #CCCC00; font-size: smaller; font-weight: bold; line-height: 0.9em; padding: 0.1em 0.5em; vertical-align: super;"><a href="/wiki/%D0%9D%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D1%82%D0%B8%D0%BF" title="Номенклатурный тип">typus</a></span><sup id="cite_ref-_f73e77ac573f1c81_1-4" class="reference"><a href="#cite_note-_f73e77ac573f1c81-1">&#91;1&#93;</a></sup>&#32;—&#32;<a href="/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81_%D0%BA%D1%83%D1%80%D1%87%D0%B0%D0%B2%D1%8B%D0%B9" class="mw-redirect" title="Хондрус курчавый">Хондрус курчавый</a>, или <a href="/wiki/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%85" title="Ирландский мох">Ирландский мох</a><sup id="cite_ref-_9dd38f4c74164434_2-3" class="reference"><a href="#cite_note-_9dd38f4c74164434-2">&#91;2&#93;</a></sup></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_elatus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus elatus (страница отсутствует)">Chondrus elatus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Holmes_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" class="new" title="Holmes (ботаник) (страница отсутствует)">Holmes</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_giganteus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus giganteus (страница отсутствует)">Chondrus giganteus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Yendo&amp;action=edit&amp;redlink=1" class="new" title="Yendo (страница отсутствует)">Yendo</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_hancockii&amp;action=edit&amp;redlink=1" class="new" title="Chondrus hancockii (страница отсутствует)">Chondrus hancockii</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=W.R.Taylor&amp;action=edit&amp;redlink=1" class="new" title="W.R.Taylor (страница отсутствует)">W.R.Taylor</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_nipponicus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus nipponicus (страница отсутствует)">Chondrus nipponicus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Yendo&amp;action=edit&amp;redlink=1" class="new" title="Yendo (страница отсутствует)">Yendo</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_ocellatus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus ocellatus (страница отсутствует)">Chondrus ocellatus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Holmes_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" class="new" title="Holmes (ботаник) (страница отсутствует)">Holmes</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_pinnulatus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus pinnulatus (страница отсутствует)">Chondrus pinnulatus</a></span>&#32;<span style="font-variant:small-caps;">(<a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%93%D0%B5%D0%BD%D1%80%D0%B8" title="Харви, Уильям Генри">Harvey</a>) <a href="/w/index.php?title=Okamura&amp;action=edit&amp;redlink=1" class="new" title="Okamura (страница отсутствует)">Okamura</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_platynus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus platynus (страница отсутствует)">Chondrus platynus</a></span>&#32;<span style="font-variant:small-caps;">(<a href="/wiki/C.Agardh" class="mw-redirect" title="C.Agardh">C.Agardh</a>) <a href="/wiki/Ruprecht" class="mw-redirect" title="Ruprecht">Ruprecht</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_pumilus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus pumilus (страница отсутствует)">Chondrus pumilus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Lamouroux" class="mw-redirect" title="Lamouroux">Lamouroux</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_retortus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus retortus (страница отсутствует)">Chondrus retortus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=K.Matsumoto&amp;action=edit&amp;redlink=1" class="new" title="K.Matsumoto (страница отсутствует)">K.Matsumoto</a> &amp; <a href="/w/index.php?title=S.Shimada&amp;action=edit&amp;redlink=1" class="new" title="S.Shimada (страница отсутствует)">S.Shimada</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_uncialis&amp;action=edit&amp;redlink=1" class="new" title="Chondrus uncialis (страница отсутствует)">Chondrus uncialis</a></span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%93%D0%B5%D0%BD%D1%80%D0%B8" title="Харви, Уильям Генри">Harvey</a> &amp; <a href="/wiki/Bailey" class="mw-redirect" title="Bailey">Bailey</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_uncinalis&amp;action=edit&amp;redlink=1" class="new" title="Chondrus uncinalis (страница отсутствует)">Chondrus uncinalis</a></span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Bailey" class="mw-redirect" title="Bailey">Bailey</a> &amp; <a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%93%D0%B5%D0%BD%D1%80%D0%B8" title="Харви, Уильям Генри">Harvey</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_verrucosus&amp;action=edit&amp;redlink=1" class="new" title="Chondrus verrucosus (страница отсутствует)">Chondrus verrucosus</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Mikami&amp;action=edit&amp;redlink=1" class="new" title="Mikami (страница отсутствует)">Mikami</a></span></li>
+<li><span style="font-style:italic;" lang="LA"><a href="/w/index.php?title=Chondrus_yendoi&amp;action=edit&amp;redlink=1" class="new" title="Chondrus yendoi (страница отсутствует)">Chondrus yendoi</a></span>&#32;<span style="font-variant:small-caps;"><a href="/w/index.php?title=Yamada&amp;action=edit&amp;redlink=1" class="new" title="Yamada (страница отсутствует)">Yamada</a> &amp; <a href="/w/index.php?title=Mikami&amp;action=edit&amp;redlink=1" class="new" title="Mikami (страница отсутствует)">Mikami</a></span></li></ul></div>
+<p>Наиболее известный вид рода&#160;— <i><a href="/wiki/Chondrus_crispus" class="mw-redirect" title="Chondrus crispus">Chondrus crispus</a></i>, обитающий в северной части <a href="/wiki/%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD" title="Атлантический океан">Атлантического океана</a>. Его слоевища активно используются в <a href="/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Пищевая промышленность">пищевой</a> и <a href="/wiki/%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Текстильная промышленность">текстильной</a> промышленности в качестве источника <a href="/wiki/%D0%9A%D0%B0%D1%80%D1%80%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D0%BD" title="Каррагинан">каррагинана</a>&#160;— природного гелеобразователя, известного как <a href="/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BA%D0%B8" title="Пищевые добавки">пищевая добавка</a> Е-407<sup id="cite_ref-_9dd38f4c74164434_2-4" class="reference"><a href="#cite_note-_9dd38f4c74164434-2">&#91;2&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="column-width:30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-_f73e77ac573f1c81-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_f73e77ac573f1c81_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_f73e77ac573f1c81_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_f73e77ac573f1c81_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_f73e77ac573f1c81_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_f73e77ac573f1c81_1-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFGuiry,_2020">Guiry, 2020</a>.</span>
+</li>
+<li id="cite_note-_9dd38f4c74164434-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_9dd38f4c74164434_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_9dd38f4c74164434_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_9dd38f4c74164434_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_9dd38f4c74164434_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_9dd38f4c74164434_2-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFВиноградова2017">Виноградова, 2017</a>.</span>
+</li>
+<li id="cite_note-_d0425c3ebd920e6a-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_d0425c3ebd920e6a_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_d0425c3ebd920e6a_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_d0425c3ebd920e6a_3-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFВиноградова1977">Виноградова, 1977</a>.</span>
+</li>
+</ol></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit&amp;section=4" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation" id="CITEREFВиноградова2017"><a rel="nofollow" class="external text" href="http://bigenc.ru/text/4696372">Хондрус</a>&#160;/ <a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Виноградова, Кира Леонидовна">К. Л. Виноградова</a>&#160;//&#32;Хвойка&#160;— Шервинский.&#160;— <abbr title="Москва">М.</abbr>&#160;: Большая российская энциклопедия, 2017.&#160;— С.&#160;145.&#160;— (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Большая российская энциклопедия">Большая российская энциклопедия</a>&#160;: <span class="nowrap">[в 35 т.]</span>&#160;/ гл. ред. <span class="nowrap"><a href="/wiki/%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Осипов, Юрий Сергеевич">Ю. С. Осипов</a></span>&#160;; 2004—2017, т.&#160;34).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785852703729" class="internal mw-magiclink-isbn">ISBN 978-5-85270-372-9</a>.</span></li>
+<li><span class="citation" id="CITEREFВиноградова1977"><i><a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0,_%D0%9A%D0%B8%D1%80%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Виноградова, Кира Леонидовна">Виноградова К. Л.</a></i>&#32;Семейство гигартиновые (Gigartinaceae)&#160;//&#32;<a href="/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Жизнь растений">Жизнь растений</a>&#160;: <span class="nowrap">в 6 т.</span>&#160;/ гл. ред. <a href="/wiki/%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" title="Фёдоров, Александр Александрович (ботаник)">Ал.&#160;А.&#160;Фёдоров</a>.&#160;— <abbr title="Москва">М.</abbr>&#160;: <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Просвещение (издательство)">Просвещение</a>, 1977.&#160;— <a rel="nofollow" class="external text" href="http://herba.msu.ru/shipunov/school/books/zh_ras3.djvu">Т.&#160;3&#160;: Водоросли. Лишайники</a>&#160;/ под ред. <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D0%B1%D0%B0%D1%85,_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Голлербах, Максимилиан Максимилианович">М.&#160;М.&#160;Голлербаха</a>.&#160;— С.&#160;238—239.&#160;— 487&#160;с.&#160;— <span class="nowrap">300&#160;000 экз.</span></span></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit&amp;section=5" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation" id="CITEREFGuiry,_2020"><i>Guiry M. D. in Guiry M. D. &amp; Guiry G. M.</i>&#32;<a rel="nofollow" class="external text" href="https://www.algaebase.org/search/genus/detail/?genus_id=2"><i>Chondrus</i> Stackhouse, 1797</a>&#160;: <span style="font-style:normal"><a href="/wiki/">&#32;</a>&#91;<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык"><span style="color:#252525; cursor:help; text-decoration:inherit; -moz-text-decoration-color:#252525; text-decoration-color:#252525;" title="язык: английский">англ.</span></a>&#93;</span>&#160;// <a rel="nofollow" class="external text" href="https://www.algaebase.org">AlgaeBase</a>. World-wide electronic publication.&#160;— National University of Ireland, Galway,&#32;2020.&#160;— 26 May.&#160;— Дата обращения: 25.08.2020.</span></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q14759694#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://snl.no/Chondrus">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="https://bigenc.ru/text/4696372">Большая российская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/science/Chondrus">Britannica (онлайн)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Таксономия</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://eol.org/pages/9831">EOL</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2665986">GBIF</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/87457">iNaturalist</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=2768">NCBI</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=1325511">IRMNG</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=12091">ITIS TSN</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=144154">WoRMS</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1374
+Cached time: 20220526103915
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.211 seconds
+Real time usage: 1.345 seconds
+Preprocessor visited node count: 9457/1000000
+Post‐expand include size: 79291/2097152 bytes
+Template argument size: 23534/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 13/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4186/5000000 bytes
+Lua time usage: 0.659/10.000 seconds
+Lua memory usage: 13838276/52428800 bytes
+Number of Wikibase entities loaded: 10/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1241.566      1 -total
+ 60.33%  749.030      1 Шаблон:Таксон
+ 51.67%  641.457      1 Шаблон:Карточка
+ 40.22%  499.300     33 Шаблон:Wikidata
+ 14.34%  178.102     11 Шаблон:If-wikidata
+ 14.22%  176.551      2 Шаблон:Публикация
+  9.18%  113.914      1 Шаблон:Жизнь_растений
+  7.38%   91.566     13 Шаблон:Sfn
+  6.94%   86.159      1 Шаблон:БРЭ
+  5.31%   65.922      1 Шаблон:Cite_web_2
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:8474730-0!canonical and timestamp 20220526103913 and revision id 112952059. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Хондрус&amp;oldid=112952059">https://ru.wikipedia.org/w/index.php?title=Хондрус&amp;oldid=112952059</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Растения по алфавиту">Растения по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2" title="Категория:Роды протистов">Роды протистов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Категория:Красные водоросли">Красные водоросли</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%8A%D0%B5%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8" title="Категория:Съедобные водоросли">Съедобные водоросли</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%B1%D0%B5%D0%B7_GRIN" title="Категория:Статьи о растениях без GRIN">Статьи о растениях без GRIN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F%D1%85_%D0%B1%D0%B5%D0%B7_IPNI" title="Категория:Статьи о растениях без IPNI">Статьи о растениях без IPNI</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;oldid=112952059" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;id=112952059&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14759694" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<label
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Chondrus" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Chondrus" hreflang="en"><span>Викивиды</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B4%D9%86%D8%A9_%D8%A5%D9%8A%D8%B3%D9%84%D9%86%D8%AF%D8%A7" title="أشنة إيسلندا — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Chondrus" title="Chondrus — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Chondrus_(dawhilahila)" title="Chondrus (dawhilahila) — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Chondrus" title="Chondrus — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Chondrus" title="Chondrus — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Chrz%C4%85stnica" title="Chrząstnica — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Chondrus" title="Chondrus — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Chondrus" title="Chondrus — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E8%A7%92%E5%8F%89%E8%8F%9C%E5%B1%9E" title="角叉菜属 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14759694#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 14 марта 2021 в 08:00.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.211","walltime":"1.345","ppvisitednodes":{"value":9457,"limit":1000000},"postexpandincludesize":{"value":79291,"limit":2097152},"templateargumentsize":{"value":23534,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4186,"limit":5000000},"entityaccesscount":{"value":10,"limit":400},"timingprofile":["100.00% 1241.566      1 -total"," 60.33%  749.030      1 Шаблон:Таксон"," 51.67%  641.457      1 Шаблон:Карточка"," 40.22%  499.300     33 Шаблон:Wikidata"," 14.34%  178.102     11 Шаблон:If-wikidata"," 14.22%  176.551      2 Шаблон:Публикация","  9.18%  113.914      1 Шаблон:Жизнь_растений","  7.38%   91.566     13 Шаблон:Sfn","  6.94%   86.159      1 Шаблон:БРЭ","  5.31%   65.922      1 Шаблон:Cite_web_2"]},"scribunto":{"limitreport-timeusage":{"value":"0.659","limit":"10.000"},"limitreport-memusage":{"value":13838276,"limit":52428800},"limitreport-logs":"Loaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P961 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1070 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P962 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P842 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P961 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1374","timestamp":"20220526103915","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0425\u043e\u043d\u0434\u0440\u0443\u0441","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81","sameAs":"http:\/\/www.wikidata.org\/entity\/Q14759694","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q14759694","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-08-25T18:18:01Z","dateModified":"2021-03-14T08:00:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/af\/Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg","headline":"\u0440\u043e\u0434 \u043a\u0440\u0430\u0441\u043d\u044b\u0445 \u0432\u043e\u0434\u043e\u0440\u043e\u0441\u043b\u0435\u0439"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0425\u043e\u043d\u0434\u0440\u0443\u0441","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D1%83%D1%81","sameAs":"http:\/\/www.wikidata.org\/entity\/Q14759694","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q14759694","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-08-25T18:18:01Z","dateModified":"2021-03-14T08:00:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/af\/Chondrus_crispus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-034_cropped.jpg","headline":"\u0440\u043e\u0434 \u043a\u0440\u0430\u0441\u043d\u044b\u0445 \u0432\u043e\u0434\u043e\u0440\u043e\u0441\u043b\u0435\u0439"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":234,"wgHostname":"mw1349"});});</script>
+</body>
+</html>

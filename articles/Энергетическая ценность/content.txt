@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Пищевая энергетическая ценность — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"30096596-b695-464f-b5b3-0781134bf441","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Пищевая_энергетическая_ценность","wgTitle":"Пищевая энергетическая ценность","wgCurRevisionId":121116221,"wgRevisionId":121116221,"wgArticleId":237257,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)",
+"Страницы, использующие волшебные ссылки ISBN","Диетология","Пищевая ценность"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Пищевая_энергетическая_ценность","wgRelevantArticleId":237257,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Энергетическая_ценность","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":92452093,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский",
+"wgInternalRedirectTargetUrl":"/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q186205","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready",
+"wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_calory_consumption_1961.svg/1200px-World_map_of_calory_consumption_1961.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="530"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_calory_consumption_1961.svg/800px-World_map_of_calory_consumption_1961.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="353"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_calory_consumption_1961.svg/640px-World_map_of_calory_consumption_1961.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="283"/>
+<meta property="og:title" content="Пищевая энергетическая ценность — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Пищевая_энергетическая_ценность rootpage-Пищевая_энергетическая_ценность skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Пищевая энергетическая ценность</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(перенаправлено с «<a href="/w/index.php?title=%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;redirect=no" class="mw-redirect" title="Энергетическая ценность">Энергетическая ценность</a>»)</span><br />
+				<div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'>Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;stable=1">версии</a>, проверенной 29 июня 2018 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;oldid=92452093&amp;diff=cur&amp;diffonly=0">37 правок</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;stable=1">версии</a>, проверенной 29 июня 2018 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;oldid=92452093&amp;diff=cur&amp;diffonly=0">37 правок</a>.</div>
+</div>
+</div>
+</div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><p><b>Энергетическая ценность продуктов питания</b> <i><b>(калорийность)</b></i>&#160;— расчетное<sup id="cite_ref-gost_1-0" class="reference"><a href="#cite_note-gost-1">&#91;1&#93;</a></sup> количество <a href="/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0" title="Теплота">тепловой энергии</a> (измеряемое в <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%BE%D1%80%D0%B8%D1%8F" title="Калория">калориях</a> или <a href="/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль">джоулях</a>), которое вырабатывается организмом человека или животных при усвоении (<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%B1%D0%BE%D0%BB%D0%B8%D0%B7%D0%BC" title="Катаболизм">катаболизме</a>) съеденных продуктов. Зависит от химического состава <a href="/wiki/%D0%9F%D0%B8%D1%89%D0%B0" title="Пища">пищи</a> (количества белков, жиров, углеводов и других веществ). Энергетическая ценность как правило указывается на упаковке любых продуктов, изготавливаемых промышленностью. 
+</p><p>Для продуктов питания энергетическая ценность обычно указывается из расчёта на 100 граммов продукта, либо на 100 мл напитков, включает сведения о количестве трёх основных компонентов&#160;— БЖУ (белки, жиры, углеводы) и общую энергетическую ценность. Содержание БЖУ представлено в граммах, а калорийность&#160;— в <a href="/wiki/%D0%9A%D0%BA%D0%B0%D0%BB" class="mw-redirect" title="Ккал">ккал</a> и <a href="/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C" title="Джоуль">кДж</a> (1 ккал = 4,1868 кДж).
+</p><p>Калорийность пищи рассчитывают посредством её сжигания в <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%BE%D1%80%D0%B8%D0%BC%D0%B5%D1%82%D1%80" title="Калориметр">калориметре</a>. При этом калорийность одного и того же продукта в разных таблицах может отличаться. Это связано с разными климатическими условиями и методами выращивания растений и животных.
+</p>
+<table class="wikitable">
+
+<caption>Энергетическая ценность для разных классов веществ
+</caption>
+<tbody><tr>
+<td>Компонент пищи
+</td>
+<td>кДж/г
+</td>
+<td>ккал/г
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%96%D0%B8%D1%80%D1%8B" title="Жиры">Жиры</a>
+</td>
+<td align="center">38,9
+</td>
+<td align="center">9,29
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%B8" title="Белки">Белки</a>
+</td>
+<td align="center">17,6
+</td>
+<td align="center">4,2
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B" title="Углеводы">Углеводы</a>
+</td>
+<td align="center">17,6
+</td>
+<td align="center">4,2
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B" title="Карбоновые кислоты">Карбоновые кислоты</a> (<a href="/wiki/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0" title="Лимонная кислота">лимонная кислота</a> и др.)
+</td>
+<td align="center">9,2
+</td>
+<td align="center">2,2
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%B0%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%80%D1%82%D1%8B" title="Многоатомные спирты">Многоатомные спирты</a> (<a href="/wiki/%D0%93%D0%BB%D0%B8%D1%86%D0%B5%D1%80%D0%B8%D0%BD" title="Глицерин">глицерин</a>, подсластители)
+</td>
+<td align="center">10
+</td>
+<td align="center">2,4
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%AD%D1%82%D0%B0%D0%BD%D0%BE%D0%BB" title="Этанол">Этиловый спирт</a>
+</td>
+<td align="center">29,7
+</td>
+<td align="center">7,1
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%B0" title="Пищевые волокна">Пищевые волокна</a>
+</td>
+<td align="center">8
+</td>
+<td align="center">1,9
+</td></tr></tbody></table>
+<table class="wikitable">
+
+<caption>Пищевая энергетическая ценность некоторых продуктов и готовых блюд<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</caption>
+<tbody><tr>
+<td>Блюда и продукты
+</td>
+<td>ккал/100 г
+</td></tr>
+<tr>
+<td>Твёрдый сыр
+</td>
+<td align="center">352
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%91%D0%BC%D0%B3%D0%B0" class="mw-redirect" title="Сёмга">Сёмга</a>
+</td>
+<td align="center">222
+</td></tr>
+<tr>
+<td>Говяжье <a href="/wiki/%D0%90%D0%B7%D1%83" title="Азу">азу</a>
+</td>
+<td align="center">215
+</td></tr>
+<tr>
+<td>Отварное филе курицы
+</td>
+<td align="center">153
+</td></tr>
+<tr>
+<td>Салат с крабовыми палочками
+</td>
+<td align="center">128
+</td></tr>
+<tr>
+<td>Вареники с картошкой
+</td>
+<td align="center">125
+</td></tr>
+<tr>
+<td>Гороховый суп
+</td>
+<td align="center">66
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D1%80%D1%89" title="Борщ">Борщ</a>
+</td>
+<td align="center">50
+</td></tr></tbody></table>
+<p>Впервые пищевая энергетическая ценность была определена в 1870-х годах американским химиком <a href="/wiki/%D0%AD%D1%82%D1%83%D0%BE%D1%82%D0%B5%D1%80,_%D0%A3%D0%B8%D0%BB%D0%B1%D1%83%D1%80" title="Этуотер, Уилбур">Уилбуром Этуотером</a>.
+</p>
+<table border="0" style="background:transparent; float:right;">
+<tbody><tr>
+<td><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:World_map_of_calory_consumption_1961.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_calory_consumption_1961.svg/220px-World_map_of_calory_consumption_1961.svg.png" decoding="async" width="220" height="97" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_calory_consumption_1961.svg/330px-World_map_of_calory_consumption_1961.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_calory_consumption_1961.svg/440px-World_map_of_calory_consumption_1961.svg.png 2x" data-file-width="940" data-file-height="415" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:World_map_of_calory_consumption_1961.svg" class="internal" title="Увеличить"></a></div>Карта средней калорийности пищи в ккал на человека в день в 1961 году<sup id="cite_ref-Earth09_3-0" class="reference"><a href="#cite_note-Earth09-3">&#91;3&#93;</a></sup>.  <table class="multicol" style="border-collapse:collapse; background:transparent; width:100%; table-layout:fixed;; text-align:left;">    <tbody><tr valign="top"> <td> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #b3b3b3; background: #b3b3b3; text-align: center;" title="#b3b3b3">&#160;&#160;&#160;&#160;</span>&#160;нет&#160;данных</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffff65; background: #ffff65; text-align: center;" title="#ffff65">&#160;&#160;&#160;&#160;</span>&#160;&lt;1600</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #fff200; background: #fff200; text-align: center;" title="#fff200">&#160;&#160;&#160;&#160;</span>&#160;1600–1800</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffdc00; background: #ffdc00; text-align: center;" title="#ffdc00">&#160;&#160;&#160;&#160;</span>&#160;1800–2000</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffc600; background: #ffc600; text-align: center;" title="#ffc600">&#160;&#160;&#160;&#160;</span>&#160;2000–2200</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffb000; background: #ffb000; text-align: center;" title="#ffb000">&#160;&#160;&#160;&#160;</span>&#160;2200–2400</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff9a00; background: #ff9a00; text-align: center;" title="#ff9a00">&#160;&#160;&#160;&#160;</span>&#160;2400–2600</span>  </td> <td> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff8400; background: #ff8400; text-align: center;" title="#ff8400">&#160;&#160;&#160;&#160;</span>&#160;2600–2800</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff6e00; background: #ff6e00; text-align: center;" title="#ff6e00">&#160;&#160;&#160;&#160;</span>&#160;2800–3000</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff5800; background: #ff5800; text-align: center;" title="#ff5800">&#160;&#160;&#160;&#160;</span>&#160;3000–3200</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff4200; background: #ff4200; text-align: center;" title="#ff4200">&#160;&#160;&#160;&#160;</span>&#160;3200–3400</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff2c00; background: #ff2c00; text-align: center;" title="#ff2c00">&#160;&#160;&#160;&#160;</span>&#160;3400–3600</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #cb0000; background: #cb0000; text-align: center;" title="#cb0000">&#160;&#160;&#160;&#160;</span>&#160;&gt;3600</span>  </td></tr></tbody></table></div></div></div>
+</td>
+<td>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:World_map_of_Energy_consumption_2001-2003.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/World_map_of_Energy_consumption_2001-2003.svg/220px-World_map_of_Energy_consumption_2001-2003.svg.png" decoding="async" width="220" height="97" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/World_map_of_Energy_consumption_2001-2003.svg/330px-World_map_of_Energy_consumption_2001-2003.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/World_map_of_Energy_consumption_2001-2003.svg/440px-World_map_of_Energy_consumption_2001-2003.svg.png 2x" data-file-width="940" data-file-height="415" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:World_map_of_Energy_consumption_2001-2003.svg" class="internal" title="Увеличить"></a></div>Карта средней калорийности пищи в ккал на человека в день в 2001—2003 годах<sup id="cite_ref-FAO2006_4-0" class="reference"><a href="#cite_note-FAO2006-4">&#91;4&#93;</a></sup>.  <table class="multicol" style="border-collapse:collapse; background:transparent; width:100%; table-layout:fixed;; text-align:left;">    <tbody><tr valign="top"> <td> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #b3b3b3; background: #b3b3b3; text-align: center;" title="#b3b3b3">&#160;&#160;&#160;&#160;</span>&#160;нет&#160;данных</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffff65; background: #ffff65; text-align: center;" title="#ffff65">&#160;&#160;&#160;&#160;</span>&#160;&lt;1600</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #fff200; background: #fff200; text-align: center;" title="#fff200">&#160;&#160;&#160;&#160;</span>&#160;1600–1800</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffdc00; background: #ffdc00; text-align: center;" title="#ffdc00">&#160;&#160;&#160;&#160;</span>&#160;1800–2000</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffc600; background: #ffc600; text-align: center;" title="#ffc600">&#160;&#160;&#160;&#160;</span>&#160;2000–2200</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ffb000; background: #ffb000; text-align: center;" title="#ffb000">&#160;&#160;&#160;&#160;</span>&#160;2200–2400</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff9a00; background: #ff9a00; text-align: center;" title="#ff9a00">&#160;&#160;&#160;&#160;</span>&#160;2400–2600</span>  </td> <td> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff8400; background: #ff8400; text-align: center;" title="#ff8400">&#160;&#160;&#160;&#160;</span>&#160;2600–2800</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff6e00; background: #ff6e00; text-align: center;" title="#ff6e00">&#160;&#160;&#160;&#160;</span>&#160;2800–3000</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff5800; background: #ff5800; text-align: center;" title="#ff5800">&#160;&#160;&#160;&#160;</span>&#160;3000–3200</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff4200; background: #ff4200; text-align: center;" title="#ff4200">&#160;&#160;&#160;&#160;</span>&#160;3200–3400</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #ff2c00; background: #ff2c00; text-align: center;" title="#ff2c00">&#160;&#160;&#160;&#160;</span>&#160;3400–3600</span> <span style="font-size: 90%; margin: 0px 0px 1px 0px; display: block;"><span style="vertical-align: top; border: 0px solid #cb0000; background: #cb0000; text-align: center;" title="#cb0000">&#160;&#160;&#160;&#160;</span>&#160;&gt;3600</span>  </td></tr></tbody></table></div></div></div>
+</td></tr></tbody></table>
+<p>У взрослых мужчин ежедневная потребность в энергии варьируется от 2100 до 4200 ккал, а у женщин — от 1800 до 3050 ккал. Эти вариации зависят от индивидуальных физических нагрузок, роста и веса и поэтому, чтобы рассчитать свой <a href="/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD" title="Основной обмен">метаболический уровень</a> и понять, как следует питаться для того, чтобы избежать <a href="/wiki/%D0%9E%D0%B6%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" title="Ожирение">ожирения</a>, советуют пользоваться формулой Миффлина-Джеора. Она, в отличие от другой популярной <a href="https://en.wikipedia.org/wiki/Harris%E2%80%93Benedict_equation" class="extiw" title="en:Harris–Benedict equation"><span title="Harris–Benedict equation — версия статьи «Формула Харриса-Бенедикта» на английском языке">формулы Харриса-Бенедикта</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"><sup style="margin-left:2px; position:relative; top:-1px;"><span data-interwiki-lang="en" data-interwiki-article="Harris–Benedict equation"><a href="/w/index.php?title=%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D0%A5%D0%B0%D1%80%D1%80%D0%B8%D1%81%D0%B0-%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Формула Харриса-Бенедикта (страница отсутствует)"><span title="Статья «Формула Харриса-Бенедикта» в русском разделе отсутствует">ru</span></a></span></sup><sub style="margin-left:-0.94em;" title="По ссылке доступна статья на английском языке">en</sub></span>, впервые выведенной в 1919 году, учитывает то, как изменился образ жизни людей за несколько десятилетий<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit&amp;section=1" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Пищевая ценность">Пищевая ценность</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit&amp;section=2" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-gost-1"><span class="mw-cite-backlink"><a href="#cite_ref-gost_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://docs.cntd.ru/document/gost-r-51074-2003">ГОСТ Р 51074-2003</a> <a rel="nofollow" class="external text" href="http://web.archive.org/web/20181219230210/http://docs.cntd.ru/document/gost-r-51074-2003">Архивная копия</a> от 19 декабря 2018 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Продукты пищевые. Информация для потребителя. Общие требования (с Изменением № 1).</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://herbalife.ru/blog/pitanie/tablica-kaloriynosti-produktov-i-gotovyh-blyud/">Таблица калорийности продуктов и готовых блюд</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<small>Дата обращения: 28 декабря 2021.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20211228171740/https://herbalife.ru/blog/pitanie/tablica-kaloriynosti-produktov-i-gotovyh-blyud/">Архивировано</a> 28&#160;декабря 2021&#160;года.</small></span></span></span>
+</li>
+<li id="cite_note-Earth09-3"><span class="mw-cite-backlink"><a href="#cite_ref-Earth09_3-0">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://earthtrends.wri.org/searchable_db/index.php?theme=8&amp;variable_ID=212&amp;action=select_countries">EarthTrends: Nutrition: Calorie supply per capita</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<i>World Resources Institute</i>.&#32;<small>Дата обращения: 18 октября 2009.</small>&#32;<small><a rel="nofollow" class="external text" href="https://www.webcitation.org/618XJA4RY">Архивировано</a> 22&#160;августа 2011&#160;года.</small></span></span></span>
+</li>
+<li id="cite_note-FAO2006-4"><span class="mw-cite-backlink"><a href="#cite_ref-FAO2006_4-0">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.fao.org/economic/ess/food-security-statistics/en/">FAO: Food Security Statistics</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<i>Food and Agriculture Organization of the United Nations</i>.&#32;<small>Дата обращения: 18 октября 2009.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090804195651/http://www.fao.org/economic/ess/food-security-statistics/en/">Архивировано</a> 4&#160;августа 2009&#160;года.</small></span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://worldclassmag.com/food/daily/">Питание в цифрах: все о дневных нормах</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<small>Дата обращения: 28 декабря 2021.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20211228141204/https://worldclassmag.com/food/daily/">Архивировано</a> 28&#160;декабря 2021&#160;года.</small></span></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit&amp;section=3" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFШевченко2009"><i>В.П.Шевченко.</i>&#32;<a rel="nofollow" class="external text" href="https://books.google.ru/books?id=nbT_9StaitIC">Клиническая диетология</a>&#32;&#47;&#32;Под редакцией акад. РАМН В.Т. Ивашкина.&#160;— <abbr title="Москва">М.</abbr>: ГЭОТАР-Медиа, 2009.&#160;— 256&#160;с.&#160;— (Библиотека врача-специалиста).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785970408940" class="internal mw-magiclink-isbn">ISBN 978-5-9704-0894-0</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFБарановский2013"><a rel="nofollow" class="external text" href="https://books.google.ru/books?id=VXE7AgAAQBAJ">Диетология</a>&#32;&#47;&#32;Под ред. А. Ю. Барановского.&#160;— 4-е изд..&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>: <a href="/wiki/%D0%9F%D0%B8%D1%82%D0%B5%D1%80_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Питер (издательство)">Питер</a>, 2013.&#160;— 1024&#160;с.&#160;— (Спутник врача).&#160;— <span class="nowrap">1000 экз.</span>&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785496006163" class="internal mw-magiclink-isbn">ISBN 978-5-496-00616-3</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFЖорес_Медведев2011"><i><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2,_%D0%96%D0%BE%D1%80%D0%B5%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Медведев, Жорес Александрович">Жорес Медведев</a>.</i>&#32;<a rel="nofollow" class="external text" href="https://books.google.ru/books?id=afSiAAAAQBAJ">Питание и долголетие</a>.&#160;— <a href="/wiki/%D0%92%D1%80%D0%B5%D0%BC%D1%8F_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Время (издательство)">Время</a>, 2011.&#160;— 526&#160;с.&#160;— <span class="nowrap">3000 экз.</span>&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785969105133" class="internal mw-magiclink-isbn">ISBN 978-5-9691-0513-3</a>.</span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1367
+Cached time: 20220526134316
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.263 seconds
+Real time usage: 0.307 seconds
+Preprocessor visited node count: 3230/1000000
+Post‐expand include size: 28081/2097152 bytes
+Template argument size: 8958/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4825/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 2122699/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  230.664      1 -total
+ 36.91%   85.140      1 Шаблон:Примечания
+ 28.86%   66.569      4 Шаблон:Cite_web
+ 22.03%   50.811      1 Шаблон:Нп4
+ 16.56%   38.187      3 Шаблон:Книга
+ 11.32%   26.101     26 Шаблон:Legend
+  5.74%   13.248      2 Шаблон:Multicol
+  4.07%    9.383      4 Шаблон:Ref-und
+  3.73%    8.609      2 Шаблон:Указание_места_в_библиоссылке
+  2.92%    6.727      4 Шаблон:Ref-lang
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:237257-0!canonical and timestamp 20220526134315 and revision id 121116221. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Пищевая_энергетическая_ценность&amp;oldid=121116221">https://ru.wikipedia.org/w/index.php?title=Пищевая_энергетическая_ценность&amp;oldid=121116221</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B8%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Диетология">Диетология</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Категория:Пищевая ценность">Пищевая ценность</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;oldid=121116221" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;id=121116221&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186205" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9" title="الطاقة الغذائية — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D1%8B%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D1%82%D0%BE%D1%9E%D0%BD%D0%B0%D1%81%D1%86%D1%8C_%D0%B5%D0%B6%D1%8B" title="Энергетычная каштоўнасць ежы — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B9%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82" title="Енергийна стойност — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AD%E0%A5%8B%E0%A4%9C%E0%A4%A8_%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE" title="भोजन ऊर्जा — Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%96%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%AF_%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF" title="খাদ্য শক্তি — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Energia_dels_aliments" title="Energia dels aliments — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Vyu%C5%BEiteln%C3%A1_energie" title="Využitelná energie — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Fysiologisk_br%C3%A6ndv%C3%A6rdi" title="Fysiologisk brændværdi — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Physiologischer_Brennwert" title="Physiologischer Brennwert — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Food_energy" title="Food energy — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Energ%C3%ADa_alimentaria" title="Energía alimentaria — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Kalorsus" title="Kalorsus — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Balio_kaloriko" title="Balio kaloriko — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D9%85%D9%88%D8%A7%D8%AF_%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C" title="انرژی مواد خوراکی — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Energiaravintoaine" title="Energiaravintoaine — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Valeur_%C3%A9nerg%C3%A9tique" title="Valeur énergétique — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Braanw%C3%A4%C3%A4rs" title="Braanwäärs — северный фризский" lang="frr" hreflang="frr" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Valor_enerx%C3%A9tico" title="Valor enerxético — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%9A_%D7%AA%D7%96%D7%95%D7%A0%D7%AA%D7%99" title="ערך תזונתי — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%B9%E0%A4%BE%E0%A4%B0_%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE" title="आहार ऊर्जा — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%B6%D5%B6%D5%A4%D5%A1%D5%B4%D5%A9%D5%A5%D6%80%D6%84%D5%AB_%D5%A7%D5%B6%D5%A5%D6%80%D5%A3%D5%A5%D5%BF%D5%AB%D5%AF_%D5%A1%D6%80%D5%AA%D5%A5%D6%84" title="Սննդամթերքի էներգետիկ արժեք — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Energi_makanan" title="Energi makanan — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%94%9F%E7%90%86%E7%9A%84%E7%86%B1%E9%87%8F" title="生理的熱量 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BE%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B" title="Калориялық — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%8B%9D_%EC%97%90%EB%84%88%EC%A7%80" title="음식 에너지 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Tenaga_makanan" title="Tenaga makanan — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Specifieke_energie" title="Specifieke energie — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Warto%C5%9B%C4%87_energetyczna" title="Wartość energetyczna — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Energia_alimentar" title="Energia alimentar — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BE%D1%80%D1%96%D0%B9%D0%BD%D1%96%D1%81%D1%82%D1%8C_%D1%97%D0%B6%D1%96" title="Калорійність їжі — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/Energine_arvuz" title="Energine arvuz — Veps" lang="vep" hreflang="vep" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/N%C4%83ng_l%C6%B0%E1%BB%A3ng_th%E1%BB%B1c_ph%E1%BA%A9m" title="Năng lượng thực phẩm — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%A3%9F%E7%89%A9%E7%86%B1%E9%87%8F" title="食物熱量 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186205#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 апреля 2022 в 16:17.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.263","walltime":"0.307","ppvisitednodes":{"value":3230,"limit":1000000},"postexpandincludesize":{"value":28081,"limit":2097152},"templateargumentsize":{"value":8958,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4825,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  230.664      1 -total"," 36.91%   85.140      1 Шаблон:Примечания"," 28.86%   66.569      4 Шаблон:Cite_web"," 22.03%   50.811      1 Шаблон:Нп4"," 16.56%   38.187      3 Шаблон:Книга"," 11.32%   26.101     26 Шаблон:Legend","  5.74%   13.248      2 Шаблон:Multicol","  4.07%    9.383      4 Шаблон:Ref-und","  3.73%    8.609      2 Шаблон:Указание_места_в_библиоссылке","  2.92%    6.727      4 Шаблон:Ref-lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":2122699,"limit":52428800}},"cachereport":{"origin":"mw1367","timestamp":"20220526134316","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0438\u0449\u0435\u0432\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C","sameAs":"http:\/\/www.wikidata.org\/entity\/Q186205","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q186205","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-21T12:35:31Z","dateModified":"2022-04-01T16:17:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7d\/World_map_of_calory_consumption_1961.svg"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0438\u0449\u0435\u0432\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C","sameAs":"http:\/\/www.wikidata.org\/entity\/Q186205","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q186205","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-21T12:35:31Z","dateModified":"2022-04-01T16:17:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7d\/World_map_of_calory_consumption_1961.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":185,"wgHostname":"mw1355"});});</script>
+</body>
+</html>

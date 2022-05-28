@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1797 год в науке — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"e18a563b-8cd3-4681-813f-2cebfff9aba1","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1797_год_в_науке","wgTitle":"1797 год в науке","wgCurRevisionId":121983302,"wgRevisionId":121983302,"wgArticleId":5701784,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Все хронологические списки","Статьи со ссылками на Викисклад",
+"Незавершённые статьи о науке","Незавершённые статьи, требующие уточнения шаблона","1797 год в науке"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"1797_год_в_науке","wgRelevantArticleId":5701784,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":121983302,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,
+"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q1051659","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.categoryTree.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.categoryTree","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced",
+"mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.13"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="1797 год в науке — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1797_год_в_науке rootpage-1797_год_в_науке skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">1797 год в науке</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox vertical-navbox" data-name="Год в науке" style="text-align: center">
+
+<tbody><tr>
+<th class="infobox-above">1797 год в науке
+</th></tr>
+<tr>
+<td style="font-size:90%"><a href="/wiki/1787_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1787 год в науке">1787</a> • <a href="/wiki/1788_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1788 год в науке">1788</a> • <a href="/wiki/1789_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1789 год в науке">1789</a> • <a href="/wiki/1790_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1790 год в науке">1790</a> • <a href="/wiki/1791_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1791 год в науке">1791</a> • <a href="/wiki/1792_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1792 год в науке">1792</a> • <a href="/wiki/1793_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1793 год в науке">1793</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/1794_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1794 год в науке">1794</a> • <a href="/wiki/1795_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1795 год в науке">1795</a> • <span data-wikidata-property-id="P155" class="no-wikidata"><a href="/wiki/1796_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1796 год в науке">1796</a></span> • <b>1797</b> • <span data-wikidata-property-id="P156" class="no-wikidata"><a href="/wiki/1798_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1798 год в науке">1798</a></span> • <a href="/wiki/1799_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1799 год в науке">1799</a> • <a href="/wiki/1800_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1800 год в науке">1800</a>
+</td></tr>
+<tr>
+<td style="font-size:90%"><a href="/wiki/1801_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1801 год в науке">1801</a> • <a href="/wiki/1802_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1802 год в науке">1802</a> • <a href="/wiki/1803_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1803 год в науке">1803</a> • <a href="/wiki/1804_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1804 год в науке">1804</a> • <a href="/wiki/1805_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1805 год в науке">1805</a> • <a href="/wiki/1806_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1806 год в науке">1806</a> • <a href="/wiki/1807_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1807 год в науке">1807</a>
+</td></tr>
+<tr>
+<td class="infobox-below"><a href="/wiki/1797_%D0%B3%D0%BE%D0%B4" title="1797 год">Другие события в 1797 году</a>
+</td></tr></tbody></table>
+<p>В <a href="/wiki/1797_%D0%B3%D0%BE%D0%B4" title="1797 год"><b>1797</b> году</a> были различные научные и технологические события, некоторые из которых представлены ниже.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#События"><span class="tocnumber">1</span> <span class="toctext">События</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Родились"><span class="tocnumber">2</span> <span class="toctext">Родились</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Скончались"><span class="tocnumber">3</span> <span class="toctext">Скончались</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#См._также"><span class="tocnumber">4</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A1.D0.BE.D0.B1.D1.8B.D1.82.D0.B8.D1.8F"></span><span class="mw-headline" id="События">События</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «События»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit&amp;section=1" title="Редактировать раздел «События»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD%D0%B4%D0%B8%D1%88,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8" title="Кавендиш, Генри">Генри Кавендишем</a> осуществлено первое экспериментальное измерение <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F" title="Гравитационная постоянная">гравитационной постоянной</a>, названное <a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD%D0%B4%D0%B8%D1%88%D0%B0" title="Эксперимент Кавендиша">экспериментом Кавендиша</a>.</li>
+<li><a href="/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B0%D0%BD%D1%82,_%D0%A1%D0%BC%D0%B8%D1%82%D1%81%D0%BE%D0%BD" title="Теннант, Смитсон">Смитсон Теннант</a> приводит доказательства, что <a href="/wiki/%D0%91%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82" title="Бриллиант">бриллиант</a> состоит из чистого <a href="/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4" title="Углерод">углерода</a>.</li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BA%D0%BB%D0%B5%D0%BD,_%D0%9B%D1%83%D0%B8_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0" title="Воклен, Луи Никола">Луи Воклен</a> выделил из «сибирского красного свинца» (PbCrO<small>4</small>, современное название&#160;— крокоит) новый тугоплавкий металл (скорее всего был получен карбид хрома).</li>
+<li><a href="/wiki/%D0%9F%D1%80%D1%83%D1%81%D1%82,_%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%9B%D1%83%D0%B8" title="Пруст, Жозеф Луи">Жозеф Луи Пруст</a> начал исследования ставшие основой для открытия им <a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D1%81%D1%82%D0%B2%D0%B0_%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0" title="Закон постоянства состава">закона постоянства состава</a>.</li>
+<li>Закрыт <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%9B%D1%91%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Старый Лёвенский университет">Старый Лёвенский (<i>устар.</i> лувенский) университет</a>&#160;— существовавший в городе <a href="/wiki/%D0%9B%D1%91%D0%B2%D0%B5%D0%BD" title="Лёвен">Лёвене</a> (на тот момент <a href="/wiki/%D0%91%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D1%82_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D1%81%D1%82%D0%B2%D0%BE)" title="Брабант (герцогство)">герцогство Брабант</a>, <a href="/wiki/%D0%91%D1%83%D1%80%D0%B3%D1%83%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Бургундские Нидерланды">Бургундские Нидерланды</a>; ныне <a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">Бельгия</a>) с 1425 по 1797 годы университет, считавшийся до XVI века лучшим в Европе<sup id="cite_ref-ЭСБЕ_1-0" class="reference"><a href="#cite_note-ЭСБЕ-1">&#91;1&#93;</a></sup>.</li>
+<li>Основана <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%A1%D1%91%D1%85%D1%8D%D0%B9%D0%B4%D0%B7%D0%B0%D0%BA%D0%B0" title="Академия Сёхэйдзака">Академия Сёхэйдзака</a>.</li>
+<li>Основан <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%90._%D0%98._%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%BD%D0%B0" title="Российский государственный педагогический университет имени А. И. Герцена">Российский государственный педагогический университет имени А. И. Герцена</a>.</li>
+<li>Открыт <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D0%B2" title="Российский государственный военно-исторический архив">Российский государственный военно-исторический архив</a>.</li></ul>
+<h2><span id=".D0.A0.D0.BE.D0.B4.D0.B8.D0.BB.D0.B8.D1.81.D1.8C"></span><span class="mw-headline" id="Родились">Родились</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Родились»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit&amp;section=2" title="Редактировать раздел «Родились»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/9_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="9 января">9 января</a>&#160;— <a href="/wiki/%D0%92%D1%80%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C,_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Врангель, Фердинанд Петрович">Фёдор Петрович Врангель</a>, <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">российский</a> мореплаватель и полярный исследователь (ум. <a href="/wiki/1870_%D0%B3%D0%BE%D0%B4" title="1870 год">1870</a>).</li>
+<li><a href="/wiki/23_%D0%B8%D1%8E%D0%BB%D1%8F" title="23 июля">23 июля</a>&#160;— <a href="/wiki/%D0%9B%D0%B0%D0%B1%D0%B0%D1%80%D1%82,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C_%D0%96%D1%8E%D0%BB%D1%8C" title="Лабарт, Шарль Жюль">Шарль Жюль Лабарт</a>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">французский</a> археолог (ум. 1880).</li>
+<li><a href="/wiki/6_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="6 ноября">6 ноября</a>&#160;— <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B0%D0%BB%D1%8C,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C" class="mw-redirect" title="Андраль, Габриэль">Габриэль Андраль</a>, французский медик и педагог; профессор, член Французской академии наук (ум. <a href="/wiki/1876_%D0%B3%D0%BE%D0%B4" title="1876 год">1876</a>).</li>
+<li><a href="/wiki/14_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F" title="14 ноября">14 ноября</a>&#160;— <a href="/wiki/%D0%9B%D0%B0%D0%B9%D0%B5%D0%BB%D1%8C,_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7" title="Лайель, Чарлз">Чарлз Лайелл</a>, основоположник <a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Эволюционное учение">эволюционного учения</a> в <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Геология">геологии</a> (ум. <a href="/wiki/1875_%D0%B3%D0%BE%D0%B4" title="1875 год">1875</a>).</li>
+<li><a href="/wiki/17_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="17 декабря">17 декабря</a>&#160;— <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84" title="Генри, Джозеф">Джозеф Генри</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">американский</a> физик (ум. <a href="/wiki/1878_%D0%B3%D0%BE%D0%B4" title="1878 год">1878</a>).</li></ul>
+<h2><span id=".D0.A1.D0.BA.D0.BE.D0.BD.D1.87.D0.B0.D0.BB.D0.B8.D1.81.D1.8C"></span><span class="mw-headline" id="Скончались">Скончались</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Скончались»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit&amp;section=3" title="Редактировать раздел «Скончались»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>15 июня&#160;— <a href="/wiki/%D0%A0%D0%BE%D1%82%D1%82%D0%B1%D1%91%D0%BB%D0%BB%D1%8C,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD_%D0%A4%D1%80%D0%B8%D0%B8%D1%81" title="Роттбёлль, Кристен Фриис">Кристен Фриис Роттбёлль</a>, <a href="/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D1%8F" title="Дания">датский</a> <a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0" title="Ботаника">ботаник</a> и <a href="/wiki/%D0%92%D1%80%D0%B0%D1%87" title="Врач">врач</a>, профессор <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0" title="Медицина">медицины</a>, директор <a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_(%D0%9A%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D0%B3%D0%B5%D0%BD)" title="Ботанический сад (Копенгаген)">Ботанического сада Копенгагена</a>, ученик <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D0%B9,_%D0%9A%D0%B0%D1%80%D0%BB" title="Линней, Карл">Карла Линнея</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.</li>
+<li>28 июня&#160;— <a href="/wiki/%D0%92%D0%B5%D1%80%D1%80%D0%B8,_%D0%9F%D1%8C%D0%B5%D1%82%D1%80%D0%BE" title="Верри, Пьетро">Пьетро Верри</a>, итальянский философ эпохи Просвещения, экономист, историк.</li>
+<li>10 августа&#160;— <a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B8,_%D0%93%D0%B0%D1%8D%D1%82%D0%B0%D0%BD%D0%BE_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%BE" title="Монти, Гаэтано Лоренцо">Гаэтано Лоренцо Монти</a>, итальянский ботаник.</li></ul>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit&amp;section=4" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:1797_in_science" class="extiw" title="commons:Category:1797 in science">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<div class="CategoryTreeTag" data-ct-mode="10" data-ct-options="{&quot;mode&quot;:10,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="1797_год_в_науке" data-ct-state="collapsed"></span> </span> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Категория:1797 год в науке">1797 год в науке</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit&amp;section=5" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-ЭСБЕ-1"><span class="mw-cite-backlink"><a href="#cite_ref-ЭСБЕ_1-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><span data-wikidata-qualifier-id="P248"><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%9B%D1%83%D0%B2%D0%B5%D0%BD" class="extiw" title="s:ЭСБЕ/Лувен">Лувен</a></span>&#32;&#47;&#47;&#32;<a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D0%B0_%D0%B8_%D0%95%D1%84%D1%80%D0%BE%D0%BD%D0%B0" title="Энциклопедический словарь Брокгауза и Ефрона">Энциклопедический словарь Брокгауза и Ефрона</a>&#160;: в 86 т. (82 т. и 4 доп.).&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>, 1890—1907.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.calflora.net/botanicalnames/pageR.html">Calflora.net: R</a></span><span class="hidden-ref" style="display:none"><b>&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>.&#32;<small>Дата обращения: 13 мая 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120518182255/http://www.calflora.net/botanicalnames/pageR.html">Архивировано</a> 18&#160;мая 2012&#160;года.</small></span></span></span>
+</li>
+</ol></div></div>
+<table class="mbox-Stub-meta plainlinks metadata ambox ambox-style" role="presentation" style="border:0; background:none; margin:0; font-style:italic;"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Katomic.svg" class="image" title="Наука"><img alt="Наука" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Katomic.svg/30px-Katomic.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Katomic.svg/45px-Katomic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Katomic.svg/60px-Katomic.svg.png 2x" data-file-width="748" data-file-height="711" /></a></div></td><td class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a>&#32;о <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Наука">науке</a>. Вы можете помочь проекту, дополнив её.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%">Это примечание по возможности следует заменить <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Википедия:Шаблоны/Незавершённые статьи/Наука">более точным</a>.</div></td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Годы_в_науке" data-name="Годы в науке"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D0%B4%D1%8B_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Перейти к шаблону «Годы в науке»"><img alt="Перейти к шаблону «Годы в науке»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Годы_в_науке" style="font-size:114%;margin:0 5em">Годы в науке</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XV_%D0%B2%D0%B5%D0%BA" title="XV век">XV век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1431_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1431 год в науке">1431</a></li>
+<li><a href="/wiki/1432_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1432 год в науке">1432</a></li>
+<li><a href="/wiki/1433_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1433 год в науке">1433</a></li>
+<li><a href="/wiki/1434_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1434 год в науке">1434</a></li>
+<li><a href="/wiki/1435_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1435 год в науке">1435</a></li>
+<li><a href="/wiki/1436_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1436 год в науке">1436</a></li>
+<li><a href="/wiki/1437_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1437 год в науке">1437</a></li>
+<li><a href="/wiki/1452_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1452 год в науке">1452</a></li>
+<li><a href="/wiki/1453_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1453 год в науке">1453</a></li>
+<li><a href="/wiki/1454_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1454 год в науке">1454</a></li>
+<li><a href="/wiki/1455_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1455 год в науке">1455</a></li>
+<li><a href="/wiki/1457_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1457 год в науке">1457</a></li>
+<li><a href="/wiki/1494_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1494 год в науке">1494</a></li>
+<li><a href="/wiki/1500_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1500 год в науке">1500</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XVI_%D0%B2%D0%B5%D0%BA" title="XVI век">XVI век</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1501_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1501 год в науке">1501</a></li>
+<li><a href="/wiki/1502_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1502 год в науке">1502</a></li>
+<li><a href="/wiki/1503_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1503 год в науке">1503</a></li>
+<li><a href="/wiki/1504_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1504 год в науке">1504</a></li>
+<li><a href="/wiki/1505_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1505 год в науке">1505</a></li>
+<li><a href="/wiki/1506_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1506 год в науке">1506</a></li>
+<li><a href="/wiki/1507_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1507 год в науке">1507</a></li>
+<li><a href="/wiki/1519_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1519 год в науке">1519</a></li>
+<li><a href="/wiki/1527_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1527 год в науке">1527</a></li>
+<li><a href="/wiki/1540_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1540 год в науке">1540</a></li>
+<li><a href="/wiki/1543_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1543 год в науке">1543</a></li>
+<li><a href="/wiki/1552_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1552 год в науке">1552</a></li>
+<li><a href="/wiki/1553_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1553 год в науке">1553</a></li>
+<li><a href="/wiki/1555_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1555 год в науке">1555</a></li>
+<li><a href="/wiki/1570_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1570 год в науке">1570</a></li>
+<li><a href="/wiki/1572_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1572 год в науке">1572</a></li>
+<li><a href="/wiki/1573_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1573 год в науке">1573</a></li>
+<li><a href="/wiki/1591_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1591 год в науке">1591</a></li>
+<li><a href="/wiki/1596_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1596 год в науке">1596</a></li>
+<li><a href="/wiki/1597_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1597 год в науке">1597</a></li>
+<li><a href="/wiki/1598_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1598 год в науке">1598</a></li>
+<li><a href="/wiki/1600_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1600 год в науке">1600</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XVII_%D0%B2%D0%B5%D0%BA" title="XVII век">XVII век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1601_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1601 год в науке">1601</a></li>
+<li><a href="/wiki/1602_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1602 год в науке">1602</a></li>
+<li><a href="/wiki/1603_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1603 год в науке">1603</a></li>
+<li><a href="/wiki/1604_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1604 год в науке">1604</a></li>
+<li><a href="/wiki/1605_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1605 год в науке">1605</a></li>
+<li><a href="/wiki/1606_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1606 год в науке">1606</a></li>
+<li><a href="/wiki/1607_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1607 год в науке">1607</a></li>
+<li><a href="/wiki/1608_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1608 год в науке">1608</a></li>
+<li><a href="/wiki/1609_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1609 год в науке">1609</a></li>
+<li><a href="/wiki/1610_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1610 год в науке">1610</a></li>
+<li><a href="/wiki/1611_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1611 год в науке">1611</a></li>
+<li><a href="/wiki/1612_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1612 год в науке">1612</a></li>
+<li><a href="/wiki/1613_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1613 год в науке">1613</a></li>
+<li><a href="/wiki/1614_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1614 год в науке">1614</a></li>
+<li><a href="/wiki/1615_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1615 год в науке">1615</a></li>
+<li><a href="/wiki/1616_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1616 год в науке">1616</a></li>
+<li><a href="/wiki/1617_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1617 год в науке">1617</a></li>
+<li><a href="/wiki/1618_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1618 год в науке">1618</a></li>
+<li><a href="/wiki/1619_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1619 год в науке">1619</a></li>
+<li><a href="/wiki/1620_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1620 год в науке">1620</a></li>
+<li><a href="/wiki/1621_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1621 год в науке">1621</a></li>
+<li><a href="/wiki/1622_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1622 год в науке">1622</a></li>
+<li><a href="/wiki/1623_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1623 год в науке">1623</a></li>
+<li><a href="/wiki/1624_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1624 год в науке">1624</a></li>
+<li><a href="/wiki/1625_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1625 год в науке">1625</a></li>
+<li><a href="/wiki/1626_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1626 год в науке">1626</a></li>
+<li><a href="/wiki/1627_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1627 год в науке">1627</a></li>
+<li><a href="/wiki/1628_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1628 год в науке">1628</a></li>
+<li><a href="/wiki/1629_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1629 год в науке">1629</a></li>
+<li><a href="/wiki/1630_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1630 год в науке">1630</a></li>
+<li><a href="/wiki/1631_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1631 год в науке">1631</a></li>
+<li><a href="/wiki/1632_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1632 год в науке">1632</a></li>
+<li><a href="/wiki/1633_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1633 год в науке">1633</a></li>
+<li><a href="/wiki/1634_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1634 год в науке">1634</a></li>
+<li><a href="/wiki/1635_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1635 год в науке">1635</a></li>
+<li><a href="/wiki/1636_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1636 год в науке">1636</a></li>
+<li><a href="/wiki/1637_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1637 год в науке">1637</a></li>
+<li><a href="/wiki/1638_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1638 год в науке">1638</a></li>
+<li><a href="/wiki/1639_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1639 год в науке">1639</a></li>
+<li><a href="/wiki/1640_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1640 год в науке">1640</a></li>
+<li><a href="/wiki/1641_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1641 год в науке">1641</a></li>
+<li><a href="/wiki/1642_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1642 год в науке">1642</a></li>
+<li><a href="/wiki/1643_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1643 год в науке">1643</a></li>
+<li><a href="/wiki/1644_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1644 год в науке">1644</a></li>
+<li><a href="/wiki/1645_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1645 год в науке">1645</a></li>
+<li><a href="/wiki/1646_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1646 год в науке">1646</a></li>
+<li><a href="/wiki/1647_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1647 год в науке">1647</a></li>
+<li><a href="/wiki/1648_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1648 год в науке">1648</a></li>
+<li><a href="/wiki/1649_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1649 год в науке">1649</a></li>
+<li><a href="/wiki/1650_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1650 год в науке">1650</a></li>
+<li><a href="/wiki/1651_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1651 год в науке">1651</a></li>
+<li><a href="/wiki/1652_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1652 год в науке">1652</a></li>
+<li><a href="/wiki/1653_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1653 год в науке">1653</a></li>
+<li><a href="/wiki/1654_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1654 год в науке">1654</a></li>
+<li><a href="/wiki/1655_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1655 год в науке">1655</a></li>
+<li><a href="/wiki/1656_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1656 год в науке">1656</a></li>
+<li><a href="/wiki/1657_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1657 год в науке">1657</a></li>
+<li><a href="/wiki/1658_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1658 год в науке">1658</a></li>
+<li><a href="/wiki/1659_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1659 год в науке">1659</a></li>
+<li><a href="/wiki/1660_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1660 год в науке">1660</a></li>
+<li><a href="/wiki/1661_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1661 год в науке">1661</a></li>
+<li><a href="/wiki/1662_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1662 год в науке">1662</a></li>
+<li><a href="/wiki/1663_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1663 год в науке">1663</a></li>
+<li><a href="/wiki/1664_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1664 год в науке">1664</a></li>
+<li><a href="/wiki/1665_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1665 год в науке">1665</a></li>
+<li><a href="/wiki/1666_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1666 год в науке">1666</a></li>
+<li><a href="/wiki/1667_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1667 год в науке">1667</a></li>
+<li><a href="/wiki/1668_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1668 год в науке">1668</a></li>
+<li><a href="/wiki/1669_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1669 год в науке">1669</a></li>
+<li><a href="/wiki/1670_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1670 год в науке">1670</a></li>
+<li><a href="/wiki/1671_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1671 год в науке">1671</a></li>
+<li><a href="/wiki/1672_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1672 год в науке">1672</a></li>
+<li><a href="/wiki/1673_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1673 год в науке">1673</a></li>
+<li><a href="/wiki/1674_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1674 год в науке">1674</a></li>
+<li><a href="/wiki/1675_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1675 год в науке">1675</a></li>
+<li><a href="/wiki/1676_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1676 год в науке">1676</a></li>
+<li><a href="/wiki/1677_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1677 год в науке">1677</a></li>
+<li><a href="/wiki/1678_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1678 год в науке">1678</a></li>
+<li><a href="/wiki/1679_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1679 год в науке">1679</a></li>
+<li><a href="/wiki/1680_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1680 год в науке">1680</a></li>
+<li><a href="/wiki/1681_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1681 год в науке">1681</a></li>
+<li><a href="/wiki/1682_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1682 год в науке">1682</a></li>
+<li><a href="/wiki/1683_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1683 год в науке">1683</a></li>
+<li><a href="/wiki/1684_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1684 год в науке">1684</a></li>
+<li><a href="/wiki/1685_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1685 год в науке">1685</a></li>
+<li><a href="/wiki/1686_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1686 год в науке">1686</a></li>
+<li><a href="/wiki/1687_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1687 год в науке">1687</a></li>
+<li><a href="/wiki/1688_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1688 год в науке">1688</a></li>
+<li><a href="/wiki/1689_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1689 год в науке">1689</a></li>
+<li><a href="/wiki/1690_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1690 год в науке">1690</a></li>
+<li><a href="/wiki/1691_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1691 год в науке">1691</a></li>
+<li><a href="/wiki/1692_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1692 год в науке">1692</a></li>
+<li><a href="/wiki/1693_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1693 год в науке">1693</a></li>
+<li><a href="/wiki/1694_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1694 год в науке">1694</a></li>
+<li><a href="/wiki/1695_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1695 год в науке">1695</a></li>
+<li><a href="/wiki/1696_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1696 год в науке">1696</a></li>
+<li><a href="/wiki/1697_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1697 год в науке">1697</a></li>
+<li><a href="/wiki/1698_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1698 год в науке">1698</a></li>
+<li><a href="/wiki/1699_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1699 год в науке">1699</a></li>
+<li><a href="/wiki/1700_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1700 год в науке">1700</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XVIII_%D0%B2%D0%B5%D0%BA" title="XVIII век">XVIII век</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1701_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1701 год в науке">1701</a></li>
+<li><a href="/wiki/1702_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1702 год в науке">1702</a></li>
+<li><a href="/wiki/1703_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1703 год в науке">1703</a></li>
+<li><a href="/wiki/1704_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1704 год в науке">1704</a></li>
+<li><a href="/wiki/1705_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1705 год в науке">1705</a></li>
+<li><a href="/wiki/1706_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1706 год в науке">1706</a></li>
+<li><a href="/wiki/1707_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1707 год в науке">1707</a></li>
+<li><a href="/wiki/1708_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1708 год в науке">1708</a></li>
+<li><a href="/wiki/1709_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1709 год в науке">1709</a></li>
+<li><a href="/wiki/1710_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1710 год в науке">1710</a></li>
+<li><a href="/wiki/1711_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1711 год в науке">1711</a></li>
+<li><a href="/wiki/1712_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1712 год в науке">1712</a></li>
+<li><a href="/wiki/1713_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1713 год в науке">1713</a></li>
+<li><a href="/wiki/1714_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1714 год в науке">1714</a></li>
+<li><a href="/wiki/1715_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1715 год в науке">1715</a></li>
+<li><a href="/wiki/1716_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1716 год в науке">1716</a></li>
+<li><a href="/wiki/1717_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1717 год в науке">1717</a></li>
+<li><a href="/wiki/1718_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1718 год в науке">1718</a></li>
+<li><a href="/wiki/1719_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1719 год в науке">1719</a></li>
+<li><a href="/wiki/1720_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1720 год в науке">1720</a></li>
+<li><a href="/wiki/1721_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1721 год в науке">1721</a></li>
+<li><a href="/wiki/1722_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1722 год в науке">1722</a></li>
+<li><a href="/wiki/1723_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1723 год в науке">1723</a></li>
+<li><a href="/wiki/1724_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1724 год в науке">1724</a></li>
+<li><a href="/wiki/1725_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1725 год в науке">1725</a></li>
+<li><a href="/wiki/1726_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1726 год в науке">1726</a></li>
+<li><a href="/wiki/1727_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1727 год в науке">1727</a></li>
+<li><a href="/wiki/1728_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1728 год в науке">1728</a></li>
+<li><a href="/wiki/1729_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1729 год в науке">1729</a></li>
+<li><a href="/wiki/1730_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1730 год в науке">1730</a></li>
+<li><a href="/wiki/1731_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1731 год в науке">1731</a></li>
+<li><a href="/wiki/1732_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1732 год в науке">1732</a></li>
+<li><a href="/wiki/1733_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1733 год в науке">1733</a></li>
+<li><a href="/wiki/1734_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1734 год в науке">1734</a></li>
+<li><a href="/wiki/1735_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1735 год в науке">1735</a></li>
+<li><a href="/wiki/1736_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1736 год в науке">1736</a></li>
+<li><a href="/wiki/1737_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1737 год в науке">1737</a></li>
+<li><a href="/wiki/1738_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1738 год в науке">1738</a></li>
+<li><a href="/wiki/1739_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1739 год в науке">1739</a></li>
+<li><a href="/wiki/1740_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1740 год в науке">1740</a></li>
+<li><a href="/wiki/1741_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1741 год в науке">1741</a></li>
+<li><a href="/wiki/1742_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1742 год в науке">1742</a></li>
+<li><a href="/wiki/1743_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1743 год в науке">1743</a></li>
+<li><a href="/wiki/1744_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1744 год в науке">1744</a></li>
+<li><a href="/wiki/1745_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1745 год в науке">1745</a></li>
+<li><a href="/wiki/1746_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1746 год в науке">1746</a></li>
+<li><a href="/wiki/1747_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1747 год в науке">1747</a></li>
+<li><a href="/wiki/1748_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1748 год в науке">1748</a></li>
+<li><a href="/wiki/1749_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1749 год в науке">1749</a></li>
+<li><a href="/wiki/1750_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1750 год в науке">1750</a></li>
+<li><a href="/wiki/1751_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1751 год в науке">1751</a></li>
+<li><a href="/wiki/1752_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1752 год в науке">1752</a></li>
+<li><a href="/wiki/1753_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1753 год в науке">1753</a></li>
+<li><a href="/wiki/1754_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1754 год в науке">1754</a></li>
+<li><a href="/wiki/1755_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1755 год в науке">1755</a></li>
+<li><a href="/wiki/1756_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1756 год в науке">1756</a></li>
+<li><a href="/wiki/1757_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1757 год в науке">1757</a></li>
+<li><a href="/wiki/1758_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1758 год в науке">1758</a></li>
+<li><a href="/wiki/1759_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1759 год в науке">1759</a></li>
+<li><a href="/wiki/1760_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1760 год в науке">1760</a></li>
+<li><a href="/wiki/1761_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1761 год в науке">1761</a></li>
+<li><a href="/wiki/1762_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1762 год в науке">1762</a></li>
+<li><a href="/wiki/1763_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1763 год в науке">1763</a></li>
+<li><a href="/wiki/1764_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1764 год в науке">1764</a></li>
+<li><a href="/wiki/1765_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1765 год в науке">1765</a></li>
+<li><a href="/wiki/1766_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1766 год в науке">1766</a></li>
+<li><a href="/wiki/1767_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1767 год в науке">1767</a></li>
+<li><a href="/wiki/1768_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1768 год в науке">1768</a></li>
+<li><a href="/wiki/1769_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1769 год в науке">1769</a></li>
+<li><a href="/wiki/1770_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1770 год в науке">1770</a></li>
+<li><a href="/wiki/1771_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1771 год в науке">1771</a></li>
+<li><a href="/wiki/1772_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1772 год в науке">1772</a></li>
+<li><a href="/wiki/1773_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1773 год в науке">1773</a></li>
+<li><a href="/wiki/1774_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1774 год в науке">1774</a></li>
+<li><a href="/wiki/1775_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1775 год в науке">1775</a></li>
+<li><a href="/wiki/1776_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1776 год в науке">1776</a></li>
+<li><a href="/wiki/1777_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1777 год в науке">1777</a></li>
+<li><a href="/wiki/1778_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1778 год в науке">1778</a></li>
+<li><a href="/wiki/1779_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1779 год в науке">1779</a></li>
+<li><a href="/wiki/1780_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1780 год в науке">1780</a></li>
+<li><a href="/wiki/1781_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1781 год в науке">1781</a></li>
+<li><a href="/wiki/1782_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1782 год в науке">1782</a></li>
+<li><a href="/wiki/1783_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1783 год в науке">1783</a></li>
+<li><a href="/wiki/1784_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1784 год в науке">1784</a></li>
+<li><a href="/wiki/1785_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1785 год в науке">1785</a></li>
+<li><a href="/wiki/1786_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1786 год в науке">1786</a></li>
+<li><a href="/wiki/1787_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1787 год в науке">1787</a></li>
+<li><a href="/wiki/1788_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1788 год в науке">1788</a></li>
+<li><a href="/wiki/1789_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1789 год в науке">1789</a></li>
+<li><a href="/wiki/1790_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1790 год в науке">1790</a></li>
+<li><a href="/wiki/1791_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1791 год в науке">1791</a></li>
+<li><a href="/wiki/1792_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1792 год в науке">1792</a></li>
+<li><a href="/wiki/1793_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1793 год в науке">1793</a></li>
+<li><a href="/wiki/1794_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1794 год в науке">1794</a></li>
+<li><a href="/wiki/1795_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1795 год в науке">1795</a></li>
+<li><a href="/wiki/1796_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1796 год в науке">1796</a></li>
+<li><a class="mw-selflink selflink">1797</a></li>
+<li><a href="/wiki/1798_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1798 год в науке">1798</a></li>
+<li><a href="/wiki/1799_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1799 год в науке">1799</a></li>
+<li><a href="/wiki/1800_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1800 год в науке">1800</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XIX_%D0%B2%D0%B5%D0%BA" title="XIX век">XIX век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1801_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1801 год в науке">1801</a></li>
+<li><a href="/wiki/1802_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1802 год в науке">1802</a></li>
+<li><a href="/wiki/1803_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1803 год в науке">1803</a></li>
+<li><a href="/wiki/1804_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1804 год в науке">1804</a></li>
+<li><a href="/wiki/1805_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1805 год в науке">1805</a></li>
+<li><a href="/wiki/1806_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1806 год в науке">1806</a></li>
+<li><a href="/wiki/1807_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1807 год в науке">1807</a></li>
+<li><a href="/wiki/1808_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1808 год в науке">1808</a></li>
+<li><a href="/wiki/1809_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1809 год в науке">1809</a></li>
+<li><a href="/wiki/1810_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1810 год в науке">1810</a></li>
+<li><a href="/wiki/1811_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1811 год в науке">1811</a></li>
+<li><a href="/wiki/1812_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1812 год в науке">1812</a></li>
+<li><a href="/wiki/1813_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1813 год в науке">1813</a></li>
+<li><a href="/wiki/1814_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1814 год в науке">1814</a></li>
+<li><a href="/wiki/1815_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1815 год в науке">1815</a></li>
+<li><a href="/wiki/1816_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1816 год в науке">1816</a></li>
+<li><a href="/wiki/1817_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1817 год в науке">1817</a></li>
+<li><a href="/wiki/1818_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1818 год в науке">1818</a></li>
+<li><a href="/wiki/1819_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1819 год в науке">1819</a></li>
+<li><a href="/wiki/1820_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1820 год в науке">1820</a></li>
+<li><a href="/wiki/1821_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1821 год в науке">1821</a></li>
+<li><a href="/wiki/1822_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1822 год в науке">1822</a></li>
+<li><a href="/wiki/1823_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1823 год в науке">1823</a></li>
+<li><a href="/wiki/1824_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1824 год в науке">1824</a></li>
+<li><a href="/wiki/1825_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1825 год в науке">1825</a></li>
+<li><a href="/wiki/1826_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1826 год в науке">1826</a></li>
+<li><a href="/wiki/1827_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1827 год в науке">1827</a></li>
+<li><a href="/wiki/1828_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1828 год в науке">1828</a></li>
+<li><a href="/wiki/1829_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1829 год в науке">1829</a></li>
+<li><a href="/wiki/1830_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1830 год в науке">1830</a></li>
+<li><a href="/wiki/1831_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1831 год в науке">1831</a></li>
+<li><a href="/wiki/1832_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1832 год в науке">1832</a></li>
+<li><a href="/wiki/1833_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1833 год в науке">1833</a></li>
+<li><a href="/wiki/1834_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1834 год в науке">1834</a></li>
+<li><a href="/wiki/1835_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1835 год в науке">1835</a></li>
+<li><a href="/wiki/1836_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1836 год в науке">1836</a></li>
+<li><a href="/wiki/1837_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1837 год в науке">1837</a></li>
+<li><a href="/wiki/1838_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1838 год в науке">1838</a></li>
+<li><a href="/wiki/1839_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1839 год в науке">1839</a></li>
+<li><a href="/wiki/1840_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1840 год в науке">1840</a></li>
+<li><a href="/wiki/1841_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1841 год в науке">1841</a></li>
+<li><a href="/wiki/1842_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1842 год в науке">1842</a></li>
+<li><a href="/wiki/1843_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1843 год в науке">1843</a></li>
+<li><a href="/wiki/1844_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1844 год в науке">1844</a></li>
+<li><a href="/wiki/1845_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1845 год в науке">1845</a></li>
+<li><a href="/wiki/1846_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1846 год в науке">1846</a></li>
+<li><a href="/wiki/1847_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1847 год в науке">1847</a></li>
+<li><a href="/wiki/1848_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1848 год в науке">1848</a></li>
+<li><a href="/wiki/1849_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1849 год в науке">1849</a></li>
+<li><a href="/wiki/1850_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1850 год в науке">1850</a></li>
+<li><a href="/wiki/1851_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1851 год в науке">1851</a></li>
+<li><a href="/wiki/1852_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1852 год в науке">1852</a></li>
+<li><a href="/wiki/1853_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1853 год в науке">1853</a></li>
+<li><a href="/wiki/1854_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1854 год в науке">1854</a></li>
+<li><a href="/wiki/1855_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1855 год в науке">1855</a></li>
+<li><a href="/wiki/1856_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1856 год в науке">1856</a></li>
+<li><a href="/wiki/1857_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1857 год в науке">1857</a></li>
+<li><a href="/wiki/1858_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1858 год в науке">1858</a></li>
+<li><a href="/wiki/1859_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1859 год в науке">1859</a></li>
+<li><a href="/wiki/1860_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1860 год в науке">1860</a></li>
+<li><a href="/wiki/1861_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1861 год в науке">1861</a></li>
+<li><a href="/wiki/1862_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1862 год в науке">1862</a></li>
+<li><a href="/wiki/1863_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1863 год в науке">1863</a></li>
+<li><a href="/wiki/1864_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1864 год в науке">1864</a></li>
+<li><a href="/wiki/1865_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1865 год в науке">1865</a></li>
+<li><a href="/wiki/1866_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1866 год в науке">1866</a></li>
+<li><a href="/wiki/1867_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1867 год в науке">1867</a></li>
+<li><a href="/wiki/1868_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1868 год в науке">1868</a></li>
+<li><a href="/wiki/1869_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1869 год в науке">1869</a></li>
+<li><a href="/wiki/1870_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1870 год в науке">1870</a></li>
+<li><a href="/wiki/1871_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1871 год в науке">1871</a></li>
+<li><a href="/wiki/1872_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1872 год в науке">1872</a></li>
+<li><a href="/wiki/1873_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1873 год в науке">1873</a></li>
+<li><a href="/wiki/1874_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1874 год в науке">1874</a></li>
+<li><a href="/wiki/1875_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1875 год в науке">1875</a></li>
+<li><a href="/wiki/1876_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1876 год в науке">1876</a></li>
+<li><a href="/wiki/1877_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1877 год в науке">1877</a></li>
+<li><a href="/wiki/1878_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1878 год в науке">1878</a></li>
+<li><a href="/wiki/1879_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1879 год в науке">1879</a></li>
+<li><a href="/wiki/1880_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1880 год в науке">1880</a></li>
+<li><a href="/wiki/1881_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1881 год в науке">1881</a></li>
+<li><a href="/wiki/1882_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1882 год в науке">1882</a></li>
+<li><a href="/wiki/1883_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1883 год в науке">1883</a></li>
+<li><a href="/wiki/1884_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1884 год в науке">1884</a></li>
+<li><a href="/wiki/1885_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1885 год в науке">1885</a></li>
+<li><a href="/wiki/1886_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1886 год в науке">1886</a></li>
+<li><a href="/wiki/1887_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1887 год в науке">1887</a></li>
+<li><a href="/wiki/1888_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1888 год в науке">1888</a></li>
+<li><a href="/wiki/1889_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1889 год в науке">1889</a></li>
+<li><a href="/wiki/1890_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1890 год в науке">1890</a></li>
+<li><a href="/wiki/1891_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1891 год в науке">1891</a></li>
+<li><a href="/wiki/1892_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1892 год в науке">1892</a></li>
+<li><a href="/wiki/1893_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1893 год в науке">1893</a></li>
+<li><a href="/wiki/1894_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1894 год в науке">1894</a></li>
+<li><a href="/wiki/1895_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1895 год в науке">1895</a></li>
+<li><a href="/wiki/1896_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1896 год в науке">1896</a></li>
+<li><a href="/wiki/1897_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1897 год в науке">1897</a></li>
+<li><a href="/wiki/1898_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1898 год в науке">1898</a></li>
+<li><a href="/wiki/1899_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1899 год в науке">1899</a></li>
+<li><a href="/wiki/1900_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1900 год в науке">1900</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XX_%D0%B2%D0%B5%D0%BA" title="XX век">XX век</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1901_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1901 год в науке">1901</a></li>
+<li><a href="/wiki/1902_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1902 год в науке">1902</a></li>
+<li><a href="/wiki/1903_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1903 год в науке">1903</a></li>
+<li><a href="/wiki/1904_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1904 год в науке">1904</a></li>
+<li><a href="/wiki/1905_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1905 год в науке">1905</a></li>
+<li><a href="/wiki/1906_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1906 год в науке">1906</a></li>
+<li><a href="/wiki/1907_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1907 год в науке">1907</a></li>
+<li><a href="/wiki/1908_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1908 год в науке">1908</a></li>
+<li><a href="/wiki/1909_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1909 год в науке">1909</a></li>
+<li><a href="/wiki/1910_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1910 год в науке">1910</a></li>
+<li><a href="/wiki/1911_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1911 год в науке">1911</a></li>
+<li><a href="/wiki/1912_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1912 год в науке">1912</a></li>
+<li><a href="/wiki/1913_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1913 год в науке">1913</a></li>
+<li><a href="/wiki/1914_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1914 год в науке">1914</a></li>
+<li><a href="/wiki/1915_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1915 год в науке">1915</a></li>
+<li><a href="/wiki/1916_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1916 год в науке">1916</a></li>
+<li><a href="/wiki/1917_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1917 год в науке">1917</a></li>
+<li><a href="/wiki/1918_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1918 год в науке">1918</a></li>
+<li><a href="/wiki/1919_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1919 год в науке">1919</a></li>
+<li><a href="/wiki/1920_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1920 год в науке">1920</a></li>
+<li><a href="/wiki/1921_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1921 год в науке">1921</a></li>
+<li><a href="/wiki/1922_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1922 год в науке">1922</a></li>
+<li><a href="/wiki/1923_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1923 год в науке">1923</a></li>
+<li><a href="/wiki/1924_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1924 год в науке">1924</a></li>
+<li><a href="/wiki/1925_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1925 год в науке">1925</a></li>
+<li><a href="/wiki/1926_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1926 год в науке">1926</a></li>
+<li><a href="/wiki/1927_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1927 год в науке">1927</a></li>
+<li><a href="/wiki/1928_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1928 год в науке">1928</a></li>
+<li><a href="/wiki/1929_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1929 год в науке">1929</a></li>
+<li><a href="/wiki/1930_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1930 год в науке">1930</a></li>
+<li><a href="/wiki/1931_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1931 год в науке">1931</a></li>
+<li><a href="/wiki/1932_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1932 год в науке">1932</a></li>
+<li><a href="/wiki/1933_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1933 год в науке">1933</a></li>
+<li><a href="/wiki/1934_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1934 год в науке">1934</a></li>
+<li><a href="/wiki/1935_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1935 год в науке">1935</a></li>
+<li><a href="/wiki/1936_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1936 год в науке">1936</a></li>
+<li><a href="/wiki/1937_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1937 год в науке">1937</a></li>
+<li><a href="/wiki/1938_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1938 год в науке">1938</a></li>
+<li><a href="/wiki/1939_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1939 год в науке">1939</a></li>
+<li><a href="/wiki/1940_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1940 год в науке">1940</a></li>
+<li><a href="/wiki/1941_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1941 год в науке">1941</a></li>
+<li><a href="/wiki/1942_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1942 год в науке">1942</a></li>
+<li><a href="/wiki/1943_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1943 год в науке">1943</a></li>
+<li><a href="/wiki/1944_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1944 год в науке">1944</a></li>
+<li><a href="/wiki/1945_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1945 год в науке">1945</a></li>
+<li><a href="/wiki/1946_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1946 год в науке">1946</a></li>
+<li><a href="/wiki/1947_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1947 год в науке">1947</a></li>
+<li><a href="/wiki/1948_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1948 год в науке">1948</a></li>
+<li><a href="/wiki/1949_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1949 год в науке">1949</a></li>
+<li><a href="/wiki/1950_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1950 год в науке">1950</a></li>
+<li><a href="/wiki/1951_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1951 год в науке">1951</a></li>
+<li><a href="/wiki/1952_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1952 год в науке">1952</a></li>
+<li><a href="/wiki/1953_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1953 год в науке">1953</a></li>
+<li><a href="/wiki/1954_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1954 год в науке">1954</a></li>
+<li><a href="/wiki/1955_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1955 год в науке">1955</a></li>
+<li><a href="/wiki/1956_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1956 год в науке">1956</a></li>
+<li><a href="/wiki/1957_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1957 год в науке">1957</a></li>
+<li><a href="/wiki/1958_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1958 год в науке">1958</a></li>
+<li><a href="/wiki/1959_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1959 год в науке">1959</a></li>
+<li><a href="/wiki/1960_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1960 год в науке">1960</a></li>
+<li><a href="/wiki/1961_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1961 год в науке">1961</a></li>
+<li><a href="/wiki/1962_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1962 год в науке">1962</a></li>
+<li><a href="/wiki/1963_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1963 год в науке">1963</a></li>
+<li><a href="/wiki/1964_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1964 год в науке">1964</a></li>
+<li><a href="/wiki/1965_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1965 год в науке">1965</a></li>
+<li><a href="/wiki/1966_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1966 год в науке">1966</a></li>
+<li><a href="/wiki/1967_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1967 год в науке">1967</a></li>
+<li><a href="/wiki/1968_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1968 год в науке">1968</a></li>
+<li><a href="/wiki/1969_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1969 год в науке">1969</a></li>
+<li><a href="/wiki/1970_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1970 год в науке">1970</a></li>
+<li><a href="/wiki/1971_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1971 год в науке">1971</a></li>
+<li><a href="/wiki/1972_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1972 год в науке">1972</a></li>
+<li><a href="/wiki/1973_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1973 год в науке">1973</a></li>
+<li><a href="/wiki/1974_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1974 год в науке">1974</a></li>
+<li><a href="/wiki/1975_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1975 год в науке">1975</a></li>
+<li><a href="/wiki/1976_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1976 год в науке">1976</a></li>
+<li><a href="/wiki/1977_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1977 год в науке">1977</a></li>
+<li><a href="/wiki/1978_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1978 год в науке">1978</a></li>
+<li><a href="/wiki/1979_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1979 год в науке">1979</a></li>
+<li><a href="/wiki/1980_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1980 год в науке">1980</a></li>
+<li><a href="/wiki/1981_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1981 год в науке">1981</a></li>
+<li><a href="/wiki/1982_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1982 год в науке">1982</a></li>
+<li><a href="/wiki/1983_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1983 год в науке">1983</a></li>
+<li><a href="/wiki/1984_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1984 год в науке">1984</a></li>
+<li><a href="/wiki/1985_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1985 год в науке">1985</a></li>
+<li><a href="/wiki/1986_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1986 год в науке">1986</a></li>
+<li><a href="/wiki/1987_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1987 год в науке">1987</a></li>
+<li><a href="/wiki/1988_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1988 год в науке">1988</a></li>
+<li><a href="/wiki/1989_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1989 год в науке">1989</a></li>
+<li><a href="/wiki/1990_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1990 год в науке">1990</a></li>
+<li><a href="/wiki/1991_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1991 год в науке">1991</a></li>
+<li><a href="/wiki/1992_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1992 год в науке">1992</a></li>
+<li><a href="/wiki/1993_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1993 год в науке">1993</a></li>
+<li><a href="/wiki/1994_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1994 год в науке">1994</a></li>
+<li><a href="/wiki/1995_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1995 год в науке">1995</a></li>
+<li><a href="/wiki/1996_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1996 год в науке">1996</a></li>
+<li><a href="/wiki/1997_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1997 год в науке">1997</a></li>
+<li><a href="/wiki/1998_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1998 год в науке">1998</a></li>
+<li><a href="/wiki/1999_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1999 год в науке">1999</a></li>
+<li><a href="/wiki/2000_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2000 год в науке">2000</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/XXI_%D0%B2%D0%B5%D0%BA" title="XXI век">XXI век</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2001 год в науке">2001</a></li>
+<li><a href="/wiki/2002_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2002 год в науке">2002</a></li>
+<li><a href="/wiki/2003_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2003 год в науке">2003</a></li>
+<li><a href="/wiki/2004_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2004 год в науке">2004</a></li>
+<li><a href="/wiki/2005_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2005 год в науке">2005</a></li>
+<li><a href="/wiki/2006_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2006 год в науке">2006</a></li>
+<li><a href="/wiki/2007_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2007 год в науке">2007</a></li>
+<li><a href="/wiki/2008_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2008 год в науке">2008</a></li>
+<li><a href="/wiki/2009_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2009 год в науке">2009</a></li>
+<li><a href="/wiki/2010_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2010 год в науке">2010</a></li>
+<li><a href="/wiki/2011_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2011 год в науке">2011</a></li>
+<li><a href="/wiki/2012_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2012 год в науке">2012</a></li>
+<li><a href="/wiki/2013_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2013 год в науке">2013</a></li>
+<li><a href="/wiki/2014_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2014 год в науке">2014</a></li>
+<li><a href="/wiki/2015_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2015 год в науке">2015</a></li>
+<li><a href="/wiki/2016_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2016 год в науке">2016</a></li>
+<li><a href="/wiki/2017_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2017 год в науке">2017</a></li>
+<li><a href="/wiki/2018_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2018 год в науке">2018</a></li>
+<li><a href="/wiki/2019_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2019 год в науке">2019</a></li>
+<li><a href="/wiki/2020_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2020 год в науке">2020</a></li>
+<li><a href="/wiki/2021_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2021 год в науке">2021</a></li>
+<li><a href="/wiki/2022_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="2022 год в науке">2022</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Хронология</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B9_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Хронология открытий человечества">Хронология открытий человечества</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Хронология биологии">Хронология биологии</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%85%D0%B8%D0%BC%D0%B8%D0%B8" title="Хронология химии">Хронология химии</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F_%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" title="Хронология открытия химических элементов">Хронология открытия химических элементов</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Хронология развития теории информации">Хронология развития теории информации</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D1%85_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9" title="Хронология квантовых вычислений">Хронология квантовых вычислений</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20220528064554
+Cache expiry: 21600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.364 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 1781/1000000
+Post‐expand include size: 91547/2097152 bytes
+Template argument size: 2049/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3186/5000000 bytes
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 3122963/52428800 bytes
+Number of Wikibase entities loaded: 3/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  335.766      1 -total
+ 39.67%  133.195      1 Шаблон:Год_в_науке
+ 19.09%   64.100     45 Шаблон:Год_из_заголовка
+ 18.67%   62.673      1 Шаблон:Примечания
+ 16.81%   56.457      2 Шаблон:Wikidata
+ 16.48%   55.328      1 Шаблон:Навигация
+ 13.73%   46.089      1 Шаблон:Science-stub
+ 12.87%   43.220      1 Шаблон:Stub-meta
+ 12.10%   40.632      1 Шаблон:Ambox
+  9.29%   31.176      1 Шаблон:Годы_в_науке
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:5701784-0!canonical and timestamp 20220528064553 and revision id 121983302. Serialized with JSON.
+ -->
+</div><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=1797_год_в_науке&amp;oldid=121983302">https://ru.wikipedia.org/w/index.php?title=1797_год_в_науке&amp;oldid=121983302</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Категория:1797 год в науке">1797 год в науке</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%81%D0%B5_%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Категория:Все хронологические списки">Все хронологические списки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Категория:Незавершённые статьи о науке">Незавершённые статьи о науке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0" title="Категория:Незавершённые статьи, требующие уточнения шаблона">Незавершённые статьи, требующие уточнения шаблона</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<label
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=1797+%D0%B3%D0%BE%D0%B4+%D0%B2+%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=1797+%D0%B3%D0%BE%D0%B4+%D0%B2+%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<label
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"  >
+	<label
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Поиск</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Служебная:Поиск"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<label
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<label
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<label
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;oldid=121983302" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;id=121983302&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1051659" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<label
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=1797+%D0%B3%D0%BE%D0%B4+%D0%B2+%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<label
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:1797_in_science" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<label
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/1797_in_science" title="1797 in science — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/1797_en_science" title="1797 en science — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/1797_a_tudom%C3%A1nyban" title="1797 a tudományban — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/1797_%D0%B2%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0%D1%82%D0%B0" title="1797 во науката — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Vitenskaps%C3%A5ret_1797" title="Vitenskapsåret 1797 — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/1797_na_ci%C3%AAncia" title="1797 na ciência — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Vetenskaps%C3%A5ret_1797" title="Vetenskapsåret 1797 — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/1797_%D1%83_%D0%BD%D0%B0%D1%83%D1%86%D1%96" title="1797 у науці — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/1797_n%C3%AE_kho-ha%CC%8Dk" title="1797 nî kho-ha̍k — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1051659#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 1 мая 2022 в 08:37.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.461","ppvisitednodes":{"value":1781,"limit":1000000},"postexpandincludesize":{"value":91547,"limit":2097152},"templateargumentsize":{"value":2049,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3186,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  335.766      1 -total"," 39.67%  133.195      1 Шаблон:Год_в_науке"," 19.09%   64.100     45 Шаблон:Год_из_заголовка"," 18.67%   62.673      1 Шаблон:Примечания"," 16.81%   56.457      2 Шаблон:Wikidata"," 16.48%   55.328      1 Шаблон:Навигация"," 13.73%   46.089      1 Шаблон:Science-stub"," 12.87%   43.220      1 Шаблон:Stub-meta"," 12.10%   40.632      1 Шаблон:Ambox","  9.29%   31.176      1 Шаблон:Годы_в_науке"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":3122963,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P155 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P156 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1395","timestamp":"20220528064554","ttl":21600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1797 \u0433\u043e\u0434 \u0432 \u043d\u0430\u0443\u043a\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1051659","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1051659","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-05-13T19:29:44Z","dateModified":"2022-05-01T08:37:24Z","headline":"\u041d\u0430\u0443\u0447\u043d\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f 1797 \u0433\u043e\u0434\u0430"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1797 \u0433\u043e\u0434 \u0432 \u043d\u0430\u0443\u043a\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/1797_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1051659","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1051659","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-05-13T19:29:44Z","dateModified":"2022-05-01T08:37:24Z","headline":"\u041d\u0430\u0443\u0447\u043d\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u044f 1797 \u0433\u043e\u0434\u0430"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":634,"wgHostname":"mw1395"});});</script>
+</body>
+</html>
